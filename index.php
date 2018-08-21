@@ -287,7 +287,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<a class="anchor" id="program" ></a>
                 <div class="col-md-12 ">
 					
-                    <h3 class="section-title">Program Schedule </h3>
+                    <h3 class="section-title">Program Overview </h3>
                     
                     
                     
