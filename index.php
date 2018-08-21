@@ -298,7 +298,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 1A Innauguration | Keynote: Dr. T.V. Raman (Google, USA) | Organizer:  		</td>
+                                <td colspan="3">Session 5A Keynote: Prof. Katsuhita Yamaguchi (Nihon University, Japan) | Organizer:  		</td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -306,9 +306,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM</td>
-                                <td>Session 2A: Speech & Hearing Impaired  |  Organizer: S. Akila (NISH)</td>
-                                <td>Session 2B:                 |                    Organizer:</td>
-                                <td>Session 2C:         |                            Organizer:</td>
+                                <td>Session 6A: Affordable Assistive Technology Solutions |  Organizer: Anil Prabhakar/S. Akila</td>
+                                <td>Session 6B: User Interfaces |   Organizer:Aman</td>
+                                <td>Session 6C:  TBD |  Organizer:</td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -316,9 +316,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 3A:               |                      Organizer:</td>
-                                <td>Session 3B: Orthopaedic related       |                             Organizer: Nekram</td>
-                                <td>Session 3C:  TV Raman with STEM students                |                Organizer: Himanshu Garg</td>
+                                <td>Session 7A: Affordable Assistive Technology Solutions |  Organizer:Anil Prabhakar/S. Akila</td>
+                                <td>Session 7B: Cognitive Disability related |  Organizer: Anupam Basu</td>
+                                <td>Session 7C:  Infty Reader Workshop |  Organizer: Akashdeep Bansal</td>
                             </tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -326,7 +326,11 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 4 A  |     Keynote:  |     Organizer: 		</td>
+                                <td colspan="3">Session 8 A  |     Keynote: TBD |     Organizer: 		</td>
+                            </tr>
+							<tr class="tr1">
+                            	<td>6:00 PM</td>
+                                <td colspan="3">Banquet Dinner @ Choki Dhani (Return by 10:00 PM) |     Organizer: 		</td>
                             </tr>
                         </table>
                     </div>
@@ -336,11 +340,11 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                         
                         <table>
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
-                            	<td colspan="4" >Day -1 | Saturday, 27<sup>th </sup> October 2018 </td>
+                            	<td colspan="4" >Day -3 | Saturday, 27<sup>th </sup> October 2018 </td>
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 1A Innauguration | Keynote: Dr. T.V. Raman (Google, USA) | Organizer:  		</td>
+                                <td colspan="3">Session 9A Innauguration | Keynote: Mr. Saqib Shaikh (Microsoft, USA) | Organizer:  		</td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -348,9 +352,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM</td>
-                                <td>Session 2A: Speech & Hearing Impaired  |  Organizer: S. Akila (NISH)</td>
-                                <td>Session 2B:                 |                    Organizer:</td>
-                                <td>Session 2C:         |                            Organizer:</td>
+                                <td>Session 10A: Users engage with Design + Engineering Students  |  Organizer: PVM Rao + Supradip Das</td>
+                                <td>Session 10B: TBD  |  Organizer:</td>
+                                <td>Session 10C: TBD  |  Organizer:</td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -358,9 +362,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 3A:               |                      Organizer:</td>
-                                <td>Session 3B: Orthopaedic related       |                             Organizer: Nekram</td>
-                                <td>Session 3C:  TV Raman with STEM students                |                Organizer: Himanshu Garg</td>
+                                <td>Session 11A: TBD | Organizer:</td>
+                                <td>Session 11B: TBD | Organizer: </td>
+                                <td>Session 11C:  Users engage with Design + Engineering Students |  Organizer: PVM Rao + Supradip Das</td>
                             </tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -368,7 +372,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 4 A  |     Keynote:  |     Organizer: 		</td>
+                                <td colspan="3">Session 12A  | Panel Discussion & Closing Ceremony  | Organizer: 		</td>
                             </tr>
                         </table>
                     </div>
