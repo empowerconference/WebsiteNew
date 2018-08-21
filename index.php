@@ -726,6 +726,102 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
         </div>
     </section>
 -->
+
+<a class="anchor" id="people"></a>
+	
+    <section id="people" class="section people">
+	        
+        <div class="container">
+        <h3 class="section-title">Program Committee</h3>
+		<section id="pChairs" class="section pChairs">
+            <div class="row">
+			<h4 style="color:#192442;">Program Chairs</h4>
+            	<div class="col-md-4">
+				<h4 style="color:#192442;">General Program Chair</h4>
+            	<div><img src="assets/images/chairs/chair1.png" alt="Prof. M. Balakrishnan"></div>  
+                <div>Prof. M. Balakrishnan<br><a href="www.cse.iitd.ernet.in/~mbala/">www.cse.iitd.ernet.in/~mbala/</a></div>
+         </div>
+            
+                <div class="col-md-4">
+				<h4 style="color:#192442;">Organizing Chair</h4>
+            	<div><img src="assets/images/chairs/chair2.png" alt="Prof. P.V.M. Rao"></div>  
+                <div>Prof. P.V.M. Rao<br><a href="web.iitd.ac.in/~pvmrao/">web.iitd.ac.in/~pvmrao/</a></div>
+         </div>
+		 
+                <div class="col-md-4">
+				<h4 style="color:#192442;">Finance Chair</h4>
+            	<div><img src="assets/images/chairs/chair3.png" alt="Mr. Nekram Upadhyay"></div>  
+                <div>Mr. Nekram Upadhyay<br><a href="nekramupadhyay.com/">nekramupadhyay.com/</a></div>
+         </div>
+		 
+		 </div>
+		 <br>
+		 <div class="row">
+            	<div class="col-md-4">
+				<h4 style="color:#192442;">Exhibit Chair</h4>
+            	<div><img src="assets/images/chairs/chair4.png" alt="Mr. Dipendra Manocha"></div>  
+                <div>Mr. Dipendra Manocha<br><a href="www.daisy.org/stories/dipendra-manocha">www.daisy.org/stories/dipendra-manocha</a></div>
+         </div>
+            
+                <div class="col-md-4">
+				<h4 style="color:#192442;">General Program Vice Chair</h4>
+            	<div><img src="assets/images/chairs/chair5.png" alt="Prof. Anil Prabhakar"></div>  
+                <div>Prof. Anil Prabhakar<br><a href="www.iitm.ac.in/info/fac/anilpr">www.iitm.ac.in/info/fac/anilpr</a></div>
+         </div>
+		 
+                <div class="col-md-4">
+				<h4 style="color:#192442;">Website Chair</h4>
+            	<div><img src="assets/images/chairs/chair6.png" alt="Prof. Aman Parnami"></div>  
+                <div>Prof. Aman Parnami<br><a href="www.iiitd.ac.in/aman">www.iiitd.ac.in/aman</a></div>
+         </div>
+		 
+		 </div>
+		 </section>
+		 
+		 <section id="pcMembers" class="section pcMembers">
+            <div class="row">
+			<h4 style="color:#192442;">Program Committee Members</h4>
+            	<div class="col-md-6">  
+                <div>Dr. Akila Surendran<br>NISH, Trivandrum</div>
+         </div>
+            
+                <div class="col-md-6"> 
+                <div>Prof. Supradip Das<br>DoDesign & AIISH</div>
+         </div>
+		 
+		 </div>
+		 <br>
+		 <div class="row">
+            	<div class="col-md-6">
+                <div>Swapna Narayanan<br>AIISH, Mysore</div>
+         </div>
+            
+                <div class="col-md-6">
+                <div>Swati Chakravorty<br>IICP, Kolkata</div>
+         </div>
+		 
+		 </div>
+		 </section>
+		 
+		 <section id="advMembers" class="section advMembers">
+		 <div class="row">
+		 <h4 style="color:#192442;">Advisory Committee</h4>
+            	<div class="col-md-6">
+                <div>Samuel N. Mathew<br>Executive Director, NISH, NIPMR</div>
+         </div>
+            
+                <div class="col-md-6">
+                <div>Mukesh Jain<br>Joint Secretary, Ministry of Social Justice, GoI
+</div>
+         </div>
+		 
+		 </div>
+		 </section>
+		 
+        </div>
+
+</section>
+
 <a class="anchor" id="sponsorship"></a>
 	
     <section id="sponsors" class="section sponsors">
@@ -757,5 +853,5 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             </div>
         </div>
 
-
+</section>
 <?php include 'assets/includes/footer.php' ?>   

@@ -102,7 +102,7 @@
 							
 						</ul>
 					</li>
-					<li><a href="#">People</a>
+					<li><a href="index.php#people">People</a>
 						
 					</li>
 					
