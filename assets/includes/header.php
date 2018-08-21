@@ -109,7 +109,7 @@
 					
 					
 				 
-					<li><a href="contact.php">Sponsors</a></li>
+					<li><a href="index.php#sponsorship">Sponsors</a></li>
 					
 					 
 				</ul>

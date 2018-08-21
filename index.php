@@ -10,7 +10,7 @@
                     <h3 class="section-title">About the Conference</h3>
 
                     <p style="text-align:justify;">The EMPOWER 2018 conference is being organized to bring together all stakeholders in the assistive technology sector. This includes researchers, user organizations, industries as well as policymakers engaged in different ways with the issues involved in the creation, production, and dissemination of assistive technology solutions. This three-day event will see the active participation of all stakeholders not only to discuss current solutions but also to seed ideas for research groups to work on.<br><br>
-The event would consist of keynote talks, invited papers, submitted and reviewed papers, posters, tutorials, user forums, a panel discussion as well as an exhibition. The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.  Proposals are invited for which further details can be found here.</p>
+The event would consist of keynote talks, invited papers, submitted and reviewed papers, posters, tutorials, user forums, a panel discussion as well as an exhibition. The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.  Proposals are invited for which further details can be found <a href="#participate">here</a> .</p>
 
                     
 
@@ -70,8 +70,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
     	<h4>Important Dates</h4>
 			<ul style="list-style:none; margin:0; padding:0;">
             	<li style="background:#fff8e0; padding:5px;">Submission start date: August 24, 2018</li>
-                <li>Submission deadline: September 15, 2018.  </li>
-				<li style="background:#fff8e0; padding:5px;">Acceptance Notification: September 30, 2018.</li>
+                <li>Submission deadline: September 15, 2018</li>
+				<li style="background:#fff8e0; padding:5px;">Acceptance notification: September 30, 2018</li>
             </ul>    
             
      </div>
@@ -120,9 +120,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<div class="col-md-4">
             	<h4 style="color:#192442;">Important Dates</h4>
                 <ul style="list-style:none; margin:0; padding:0;">
-                    <li style="background:#fff8e0; padding:5px;">Submission start date: August 24, 2018</li>
-                    <li>Submission deadline: September 15, 2018.  </li>
-                    <li style="background:#fff8e0; padding:5px;">Acceptance Notification: September 30, 2018.</li>
+                    <li style="background:#fff8e0; padding:5px;">Registration start date: September 01, 2018</li>
+                    <li>Early Registration close date: October 07, 2018</li>
+                    <li style="background:#fff8e0; padding:5px;">Registration close date: October 15, 2018</li>
                 </ul>    
                 
          </div>
@@ -152,7 +152,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             </div>
         </div>
         
-        <section id="registration_form" class="registration" style="padding:90px 0 0 0;">
+        <!--<section id="registration_form" class="registration" style="padding:90px 0 0 0;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -219,6 +219,62 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
         </div>
         
         
+    </section>-->
+	
+	<section id="registration_charges" class="registration" style="padding:90px 0 0 0;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Registration Charges</h3>
+                </div>
+            </div>
+                
+            <table>
+                        	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
+                            	<td style="padding:5px;">Delegate Type</td>
+								<td style="padding:5px;">Early Registration <br>(ends 7 <sup>th</sup> October)</td>
+								<td style="padding:5px;">Regular Registration <br>(ends 15 <sup>th</sup> October) </td>
+								<td style="padding:5px;">One Day Registration <br>(Early)</td>
+								<td style="padding:5px;">One Day Registration <br>(Regular)</td>
+                            </tr>
+                            <tr class="tr0">
+                            	<td>General <span style="color:#F00; font-size:14pt;">*</span><br></td>
+                                <td>INR 5000</td>
+								<td>INR 6000</td>
+								<td>INR 2000</td>
+								<td>INR 2500</td>
+                            </tr>
+                            <tr class="tr1">
+                            	<td>Differently Abled<span style="color:#F00; font-size:14pt;">**</span><br></td>
+                                <td>INR 3000</td>
+								<td>INR 3500</td>
+								<td>INR 1000</td>
+								<td>INR 1500</td>
+                            </tr>
+                            <tr class="tr0">
+                            	<td>Student <span style="color:#F00; font-size:14pt;">**</span><br></td>
+                                <td>INR 3000</td>
+								<td>INR 3500</td>
+								<td>INR 1000</td>
+								<td>INR 1500</td>
+                            </tr>
+                            <tr class="tr1">
+                            	<td>Accompanying Person <span style="color:#F00; font-size:14pt;">#</span><br></td>
+                                <td>INR 1500</td>
+								<td>INR 1500</td>
+								<td>INR 500</td>
+								<td>INR 500</td>
+                            </tr>
+                        </table>
+						<br>
+                        <span style="color:#F00; font-size:14pt;">*</span> Participation in all keynotes and 1 of each ongoing parallel tracks | Registration Kit  | 1 Banquet Dinner | Lunch & Tea during conference
+						<br>
+						<span style="color:#F00; font-size:14pt;">**</span> Participation in all keynotes and 1 of each ongoing parallel tracks | Registration Kit | Lunch & Tea during conference
+						<br>
+						<span style="color:#F00; font-size:14pt;">#</span> Lunch & Tea during conference
+        </div>
+        
+        
     </section>
 	    
     </section>
@@ -266,8 +322,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             <tr class="tr0">
                             	<td>11:45 AM</td>
                                 <td>Session 2A: Speech & Hearing Impaired  |  Organizer: S. Akila (NISH)</td>
-                                <td>Session 2B:                 |                    Organizer:</td>
-                                <td>Session 2C:         |                            Organizer:</td>
+                                <td>Session 2B: TBD                |                    Organizer:</td>
+                                <td>Session 2C: TBD       |                            Organizer:</td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -275,7 +331,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 3A:               |                      Organizer:</td>
+                                <td>Session 3A: TBD              |                      Organizer:</td>
                                 <td>Session 3B: Orthopaedic related       |                             Organizer: Nekram</td>
                                 <td>Session 3C:  TV Raman with STEM students                |                Organizer: Himanshu Garg</td>
                             </tr>
@@ -285,7 +341,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 4 A  |     Keynote:  |     Organizer: 		</td>
+                                <td colspan="3">Session 4A  Keynote:TBD  |     Organizer: 		</td>
                             </tr>
                         </table>
                     </div>
@@ -307,7 +363,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             <tr class="tr0">
                             	<td>11:45 AM</td>
                                 <td>Session 6A: Affordable Assistive Technology Solutions |  Organizer: Anil Prabhakar/S. Akila</td>
-                                <td>Session 6B: User Interfaces |   Organizer:Aman</td>
+                                <td>Session 6B: User Interfaces |   Organizer: Aman</td>
                                 <td>Session 6C:  TBD |  Organizer:</td>
                             </tr>
                             <tr class="tr1">
@@ -344,7 +400,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 9A Innauguration | Keynote: Mr. Saqib Shaikh (Microsoft, USA) | Organizer:  		</td>
+                                <td colspan="3">Session 9A Keynote: Mr. Saqib Shaikh (Microsoft, USA) | Organizer:  		</td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -352,9 +408,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM</td>
-                                <td>Session 10A: Users engage with Design + Engineering Students  |  Organizer: PVM Rao + Supradip Das</td>
+                                <td>Session 10A: TBD  |  Organizer:</td>
                                 <td>Session 10B: TBD  |  Organizer:</td>
-                                <td>Session 10C: TBD  |  Organizer:</td>
+                                <td>Session 10C: Users engage with Design + Engineering Students  |  Organizer: PVM Rao + Supradip Das</td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -670,6 +726,36 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
         </div>
     </section>
 -->
-   
+<a class="anchor" id="sponsorship"></a>
+	
+    <section id="sponsors" class="section sponsors">
+	        
+        <div class="container">
+        <h3 class="section-title">Sponsorship Details</h3>
+            <div class="row">
+            	<div class="col-md-6">
+            	<h4 style="color:#192442;">Sponsors</h4>
+                <ul style="list-style:none; margin:0; padding:0;">
+                    <li style="background:#fff8e0; padding:5px;">Platinum Sponsorship: INR 500,000 | 10 Complimentary Registrations</li>
+                    <li>Gold Sponsorship: INR 300,000 | 5 Complimentary Registrations</li>
+                    <li style="background:#fff8e0; padding:5px;">Silver Sponsorship: INR 100,000 | 1 Complimentary Registration</li>
+                </ul>    
+                
+         </div>
+            
+                <div class="col-sm-6">
+                    <h4 style="color:#192442;">Exhibits</h4>
+                    
+                        <ul style="list-style:none; margin:0; padding:0;">
+							<li style="background:#fff8e0; padding:5px;">Exhibit Booth (6ft x 12ft): INR 100,000 | 2 Complimentary Registrations</li>
+							<li>Exhibit Booth (6ft x 6ft): INR 50,000 | 1 Complimentary Registration</li>
+							<li style="background:#fff8e0; padding:5px;">Exhibit Booth (6ft x 3ft): INR 25,000 | NO Complimentary Registrations</li>
+						</ul>                  
+                 </div>
+                <br>
+                <span style="color:#F00; font-size:14pt;">*</span> Complimentary Registration includes conference registration + 3 days shared accomodation.
+            </div>
+        </div>
+
 
 <?php include 'assets/includes/footer.php' ?>   
