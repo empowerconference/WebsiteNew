@@ -316,7 +316,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 1A Innauguration | Keynote: Dr. T.V. Raman (Google, USA) | Organizer:  		</td>
+                                <td colspan="3">Session 1A Innauguration | Keynote: Dr. T.V. Raman (Google, USA) </td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -325,8 +325,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             <tr class="tr0">
                             	<td>11:45 AM</td>
                                 <td>Session 2A: Speech & Hearing Impaired  |  Organizer: S. Akila (NISH)</td>
-                                <td>Session 2B: TBD                |                    Organizer:</td>
-                                <td>Session 2C: TBD       |                            Organizer:</td>
+                                <td>Session 2B: User Interfaces |  Organizer: Aman</td>
+                                <td>Session 2C: Antarchakshu - Grp 1  |  Organizer: Krishna Warrier (XRCVC)</td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -334,9 +334,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 3A: TBD              |                      Organizer:</td>
-                                <td>Session 3B: Orthopaedic related       |                             Organizer: Nekram</td>
-                                <td>Session 3C:  TV Raman with STEM students                |                Organizer: Himanshu Garg</td>
+                                <td>Session 3A: Speech & Hearing Impaired  - P2 | Organizer: S. Akila (NISH)</td>
+                                <td>Session 3B: TV Raman with STEM students | Organizer: Himanshu Garg</td>
+                                <td>Session 3C: Antarchakshu - Grp 1 | Organizer: Krishna Warrier (XRCVC)</td>
                             </tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -344,7 +344,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 4A  Keynote:TBD  |     Organizer: 		</td>
+                                <td colspan="3">Session 4A  Keynote:  Mr. Michael Curran (NVDA)</td>
                             </tr>
                         </table>
                     </div>
@@ -357,7 +357,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 5A Keynote: Prof. Katsuhita Yamaguchi (Nihon University, Japan) | Organizer:  		</td>
+                                <td colspan="3">Session 5A Keynote: Prof. Katsuhita Yamaguchi (Nihon University, Japan) </td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -366,8 +366,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             <tr class="tr0">
                             	<td>11:45 AM</td>
                                 <td>Session 6A: Affordable Assistive Technology Solutions |  Organizer: Anil Prabhakar/S. Akila</td>
-                                <td>Session 6B: User Interfaces |   Organizer: Aman</td>
-                                <td>Session 6C:  TBD |  Organizer:</td>
+                                <td>Session 6B: Cognitive Disability related - P1  |   Organizer: Anupam Basu</td>
+                                <td>Session 6C: Diagram and Maths accessibility for VI |  Organizer:Akashdeep Bansal </td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -376,7 +376,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             <tr class="tr0">
                             	<td>2:15 PM</td>
                                 <td>Session 7A: Affordable Assistive Technology Solutions |  Organizer:Anil Prabhakar/S. Akila</td>
-                                <td>Session 7B: Cognitive Disability related |  Organizer: Anupam Basu</td>
+                                <td>Session 7B: Cognitive Disability related -P2 |  Organizer: Anupam Basu</td>
                                 <td>Session 7C:  Infty Reader Workshop |  Organizer: Akashdeep Bansal</td>
                             </tr>
                             <tr class="tr1">
@@ -385,7 +385,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 8 A  |     Keynote: TBD |     Organizer: 		</td>
+                                <td colspan="3">Session 8 A  |     Keynote: Prof. Volker Sorge </td>
                             </tr>
 							<tr class="tr1">
                             	<td>6:00 PM</td>
@@ -411,8 +411,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM</td>
-                                <td>Session 10A: TBD  |  Organizer:</td>
-                                <td>Session 10B: TBD  |  Organizer:</td>
+                                <td>Session 10A: Orthopaedic related  - P1 |  Organizer: Nekram</td>
+                                <td>Session 10B: Digital world accessibility |  Organizer: Neha Jadhav</td>
                                 <td>Session 10C: Users engage with Design + Engineering Students  |  Organizer: PVM Rao + Supradip Das</td>
                             </tr>
                             <tr class="tr1">
@@ -421,8 +421,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 11A: TBD | Organizer:</td>
-                                <td>Session 11B: TBD | Organizer: </td>
+                                <td>Session 11A: Orthopaedic related - P2      | Organizer: Nekram</td>
+                                <td>Session 11B: AI in Assistive Technology   | Organizer: Anupam Sobti</td>
                                 <td>Session 11C:  Users engage with Design + Engineering Students |  Organizer: PVM Rao + Supradip Das</td>
                             </tr>
                             <tr class="tr1">
@@ -431,7 +431,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 12A  | Panel Discussion & Closing Ceremony  | Organizer: 		</td>
+                                <td colspan="3">Session 12A  | Panel Discussion & Closing Ceremony </td>
                             </tr>
                         </table>
                     </div>
@@ -849,9 +849,9 @@ Kharagpur)</div>
             	<div class="col-md-6">
             	<h4 style="color:#192442;">Sponsors</h4>
                 <ul style="list-style:none; margin:0; padding:0;">
-                    <li style="background:#fff8e0; padding:5px;">Platinum Sponsorship: INR 500,000 + 18% GST = INR 5,90,000 <br> 10 Complimentary Registrations</li>
-                    <li>Gold Sponsorship: INR 300,000 + 18% GST = INR 3,54,000 <br> 5 Complimentary Registrations</li>
-                    <li style="background:#fff8e0; padding:5px;">Silver Sponsorship: INR 100,000 + 18% GST = INR 1,18,000 <br> 1 Complimentary Registration</li>
+                    <li style="background:#fff8e0; padding:5px;">Platinum Sponsorship: INR 500,000 + 18% GST = INR 5,90,000 <br> 10 Fellowships + 3 Complimentary Registrations</li>
+                    <li>Gold Sponsorship: INR 300,000 + 18% GST = INR 3,54,000 <br> 5 Fellowships + 2 Complimentary Registrations</li>
+                    <li style="background:#fff8e0; padding:5px;">Silver Sponsorship: INR 100,000 + 18% GST = INR 1,18,000 <br> 1 Fellowship + 1 Complimentary Registration</li>
                 </ul>    
                 
          </div>
@@ -865,8 +865,11 @@ Kharagpur)</div>
 							<li style="background:#fff8e0; padding:5px;">Exhibit Booth (6ft x 3ft): INR 25,000 + 18% GST = INR 29,500 <br> 1 Complimentary Registration</li>
 						</ul>                  
                  </div>
+				 <br>
+                <span style="color:#F00; font-size:14pt;">*</span> Fellowship includes full conference registration + 4 days shared accomodation. Programme committee would give these fellowships to 
+deserving participants and they would be named as Sponsor's fellows.
                 <br>
-                <span style="color:#F00; font-size:14pt;">*</span> Complimentary Registration includes conference registration + 3 days shared accomodation.
+                <span style="color:#F00; font-size:14pt;">**</span> Complimentary Registration includes conference registration + 3 days shared accomodation.
             </div>
         </div>
 
