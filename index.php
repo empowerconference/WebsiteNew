@@ -90,7 +90,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
      
      <div class="col-md-12">
 	<h3> Accessible Submission:</h3>
-     <p>   Your PDF file must be accessible. PDFs created with LaTex are very difficult to make accessible unless you edit the output directly in Acrobat; we strongly suggest using Microsoft Word due to the easier accessibility workflow. It may take you about an hour to make your file accessible (adding alt tags, etc.), so be sure to leave time before the submission deadline to do so. Please refer to the instructions on <a href="http://assets18.sigaccess.org/creating_accessible_pdfs.html">Creating an Accessible ACM Conference Paper</a> for information on how to accomplish this. If you cannot create an accessible PDF at submission time then you will be given the option to upload either an accessible HTML or Microsoft Word version of your paper in addition to your PDF to facilitate review. If your paper is accepted, the final version will need to be transformed into an accessible PDF document.<br>
+     <p>   Your PDF file must be accessible. PDFs created with LaTex are very difficult to make accessible unless you edit the output directly in Acrobat; we strongly suggest using Microsoft Word due to the easier accessibility workflow. It may take you about an hour to make your file accessible (adding alt tags, etc.), so be sure to leave time before the submission deadline to do so. Please refer to the instructions on <a href="http://assets18.sigaccess.org/creating_accessible_pdfs.html">Creating an Accessible ACM Conference Paper</a> for information on how to accomplish this.<br>
 <br>
         Note that making an accessible PDF is not well-supported by any standard LaTex editors that we are aware of. If you use LaTex you will need to manually edit your PDF using Adobe Acrobat in order to make it accessible.
 		</p>
@@ -123,7 +123,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                     <li style="background:#fff8e0; padding:5px;">Registration start date: September 01, 2018</li>
                     <li>Early Registration close date: October 07, 2018</li>
                     <li style="background:#fff8e0; padding:5px;">Registration close date: October 15, 2018</li>
-                </ul>    
+					<li>Room booking start date: </li>
+				</ul>    
                 
          </div>
             
@@ -143,9 +144,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                         <p>
                         Accommodation is available at the venue itself.<br>
                         Room Charges :<br>
-						INR 2500 (single occupancy) /day <span style="color:#F00; font-size:14pt;">*</span><br>
-                        INR 2700 (double occupancy) / day <span style="color:#F00; font-size:14pt;">*</span><br>
-                        <span style="color:#F00; font-size:14pt;">*</span> breakfast included | 18% GST Extra
+						INR 2950 (single occupancy) per person per day <span style="color:#F00; font-size:14pt;">*</span><br>
+                        INR 1593 (double occupancy) per person per day <span style="color:#F00; font-size:14pt;">*</span><br>
+                        <span style="color:#F00; font-size:14pt;">*</span> including breakfast and 18% GST 
 						</p>
                 </div>
                 
@@ -239,33 +240,35 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>General <span style="color:#F00; font-size:14pt;">*</span><br></td>
-                                <td>INR 5000</td>
-								<td>INR 6000</td>
-								<td>INR 2000</td>
-								<td>INR 2500</td>
+                                <td>INR 5900</td>
+								<td>INR 7080</td>
+								<td>INR 2360</td>
+								<td>INR 2950</td>
                             </tr>
                             <tr class="tr1">
                             	<td>Differently Abled<span style="color:#F00; font-size:14pt;">**</span><br></td>
-                                <td>INR 3000</td>
-								<td>INR 3500</td>
-								<td>INR 1000</td>
-								<td>INR 1500</td>
+                                <td>INR 3540</td>
+								<td>INR 4130</td>
+								<td>INR 1180</td>
+								<td>INR 1770</td>
                             </tr>
                             <tr class="tr0">
                             	<td>Student <span style="color:#F00; font-size:14pt;">**</span><br></td>
-                                <td>INR 3000</td>
-								<td>INR 3500</td>
-								<td>INR 1000</td>
-								<td>INR 1500</td>
+                                <td>INR 3540</td>
+								<td>INR 4130</td>
+								<td>INR 1180</td>
+								<td>INR 1770</td>
                             </tr>
                             <tr class="tr1">
                             	<td>Accompanying Person <span style="color:#F00; font-size:14pt;">#</span><br></td>
-                                <td>INR 1500</td>
-								<td>INR 1500</td>
-								<td>INR 500</td>
-								<td>INR 500</td>
+                                <td>INR 1770</td>
+								<td>INR 1770</td>
+								<td>INR 590</td>
+								<td>INR 590</td>
                             </tr>
                         </table>
+						<br>
+						All charges are inclusive of GST.
 						<br>
                         <span style="color:#F00; font-size:14pt;">*</span> Participation in all keynotes and 1 of each ongoing parallel tracks | Registration Kit  | 1 Banquet Dinner | Lunch & Tea during conference
 						<br>
@@ -287,7 +290,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<a class="anchor" id="program" ></a>
                 <div class="col-md-12 ">
 					
-                    <h3 class="section-title">Program Overview </h3>
+                    <h3 class="section-title">Tentative Program </h3>
                     
                     
                     
@@ -782,38 +785,52 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             <div class="row">
 			<h4 style="color:#192442;">Program Committee Members</h4>
             	<div class="col-md-6">  
-                <div>Dr. Akila Surendran<br>NISH, Trivandrum</div>
+                <div>Prof. Anupam Basu<br>NIT Durgapur (on leave from IIT 
+Kharagpur)</div>
          </div>
             
                 <div class="col-md-6"> 
-                <div>Prof. Supradip Das<br>DoDesign & AIISH</div>
+                <div>Prof. Supradip Das<br>IIT Guwahati</div>
          </div>
 		 
 		 </div>
 		 <br>
 		 <div class="row">
             	<div class="col-md-6">
-                <div>Swapna Narayanan<br>AIISH, Mysore</div>
+                <div>Dr. Sam Taraporevala<br>XRCVC, Mumbai</div>
          </div>
             
                 <div class="col-md-6">
-                <div>Swati Chakravorty<br>IICP, Kolkata</div>
+                <div>Prof. Sujata Srinivasan<br>IIT Madras</div>
          </div>
 		 
 		 </div>
+		 
+		 <br>
+		 <div class="row">
+            	<div class="col-md-6">
+                <div>Dr. Akila Surendran<br>NISH, Trivandrum</div>
+         </div>
+            
+                <!--<div class="col-md-6">
+                <div>Prof. Sujata Srinivasan<br>IIT Madras</div>
+         </div>-->
+		 
+		 </div>
+		 
 		 </section>
 		 
 		 <section id="advMembers" class="section advMembers">
 		 <div class="row">
 		 <h4 style="color:#192442;">Advisory Committee</h4>
             	<div class="col-md-6">
-                <div>Samuel N. Mathew<br>Executive Director, NISH, NIPMR</div>
+                <div>Dr. Samuel N. Mathew<br>Executive Director, NISH, NIPMR</div>
          </div>
             
-                <div class="col-md-6">
+                <!--<div class="col-md-6">
                 <div>Mukesh Jain<br>Joint Secretary, Ministry of Social Justice, GoI
 </div>
-         </div>
+         </div>-->
 		 
 		 </div>
 		 </section>
@@ -832,9 +849,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<div class="col-md-6">
             	<h4 style="color:#192442;">Sponsors</h4>
                 <ul style="list-style:none; margin:0; padding:0;">
-                    <li style="background:#fff8e0; padding:5px;">Platinum Sponsorship: INR 500,000 | 10 Complimentary Registrations</li>
-                    <li>Gold Sponsorship: INR 300,000 | 5 Complimentary Registrations</li>
-                    <li style="background:#fff8e0; padding:5px;">Silver Sponsorship: INR 100,000 | 1 Complimentary Registration</li>
+                    <li style="background:#fff8e0; padding:5px;">Platinum Sponsorship: INR 500,000 + 18% GST = INR 5,90,000 <br> 10 Complimentary Registrations</li>
+                    <li>Gold Sponsorship: INR 300,000 + 18% GST = INR 3,54,000 <br> 5 Complimentary Registrations</li>
+                    <li style="background:#fff8e0; padding:5px;">Silver Sponsorship: INR 100,000 + 18% GST = INR 1,18,000 <br> 1 Complimentary Registration</li>
                 </ul>    
                 
          </div>
@@ -843,9 +860,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                     <h4 style="color:#192442;">Exhibits</h4>
                     
                         <ul style="list-style:none; margin:0; padding:0;">
-							<li style="background:#fff8e0; padding:5px;">Exhibit Booth (6ft x 12ft): INR 100,000 | 2 Complimentary Registrations</li>
-							<li>Exhibit Booth (6ft x 6ft): INR 50,000 | 1 Complimentary Registration</li>
-							<li style="background:#fff8e0; padding:5px;">Exhibit Booth (6ft x 3ft): INR 25,000 | NO Complimentary Registrations</li>
+							<li style="background:#fff8e0; padding:5px;">Exhibit Booth (6ft x 12ft): INR 100,000 + 18% GST = INR 1,18,000 <br> 3 Complimentary Registrations</li>
+							<li>Exhibit Booth (6ft x 6ft): INR 50,000 + 18% GST = INR 59,000 <br> 2 Complimentary Registrations</li>
+							<li style="background:#fff8e0; padding:5px;">Exhibit Booth (6ft x 3ft): INR 25,000 + 18% GST = INR 29,500 <br> 1 Complimentary Registration</li>
 						</ul>                  
                  </div>
                 <br>
