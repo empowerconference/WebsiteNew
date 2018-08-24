@@ -121,9 +121,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<h4 style="color:#192442;">Important Dates</h4>
                 <ul style="list-style:none; margin:0; padding:0;">
                     <li style="background:#fff8e0; padding:5px;">Registration start date: September 01, 2018</li>
-                    <li>Early Registration close date: October 07, 2018</li>
-                    <li style="background:#fff8e0; padding:5px;">Registration close date: October 15, 2018</li>
-					
+                    <li>Room registration start date: September 05, 2018</li>
+                    <li style="background:#fff8e0; padding:5px;">Early Registration close date: October 07, 2018</li>
+					<li>Registration close date: October 15, 2018</li>
 				</ul>    
                 
          </div>
@@ -336,7 +336,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             	<td>2:15 PM</td>
                                 <td>Session 3A: Speech & Hearing Impaired  - P2 | Organizer: S. Akila (NISH)</td>
                                 <td>Session 3B: TV Raman with STEM students | Organizer: Himanshu Garg</td>
-                                <td>Session 3C: Antarchakshu - Grp 1 | Organizer: Krishna Warrier (XRCVC)</td>
+                                <td>Session 3C: Antarchakshu - Grp 2 | Organizer: Krishna Warrier (XRCVC)</td>
                             </tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -344,7 +344,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 4A  Keynote:  Mr. Michael Curran (NVDA)</td>
+                                <td colspan="3">Session 4A  Keynote: TBD</td>
                             </tr>
                         </table>
                     </div>
@@ -357,7 +357,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 5A Keynote: Prof. Katsuhita Yamaguchi (Nihon University, Japan) </td>
+                                <td colspan="3">Session 5A Keynote: Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University) </td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -385,7 +385,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 8 A  |     Keynote: Prof. Volker Sorge </td>
+                                <td colspan="3">Session 8 A  |     Keynote: Prof. Volker Sorge <br>(To be confirmed) </td>
                             </tr>
 							<tr class="tr1">
                             	<td>6:00 PM</td>
@@ -510,6 +510,47 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
 
                     </div><!-- /.speaker -->
                 </div><!-- /.col-md-4 -->
+            </div><!-- /.row -->
+			
+			<div class="row">
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+                        </figure>
+
+                        <h4>Dr. Masakazu Suzuki</h4>
+
+                        <p>Kyushu University</p>
+                        
+                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Masakazu Suzuki is Professor Emeritus, Kyushu University. He undertook academic counseling of a blind student in 1995 and keenly realized how difficult accessing math was for visually disabled people. To remove that impediment, he started studies on math accessibility and organized a research group: "Infty Project" in the end 1990s. He has over 50 publications in areas of Complex Analysis, Affine Algebraic Geometry and Mathematical document information processing. His hobbies include fishing, playing GO and not surprisingly mathematical formulae recognition.
+                        </p>
+
+                        
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
+                        </figure>
+
+                        <h4>Dr. Volker Sorge (To be confirmed)</h4>
+
+                        <p>University of Birmingham, UK</p>
+                        
+						  <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. Volker Sorge is an Associate Professor at the School of Computer Science, University of Birmingham, UK.  His research interests span a wide range of topics from computational mathematics, classical Artificial Intelligence to image recognition and accessibility. He has been actively working in the field of accessibility to improve access to chemical formulas, diagrams as well as online mathematics.
+                        </p>
+                        
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                
             </div><!-- /.row -->
 
           
@@ -742,19 +783,19 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<div class="col-md-4">
 				<h4 style="color:#192442;">General Program Chair</h4>
             	<div><img src="assets/images/chairs/chair1.png" alt="Prof. M. Balakrishnan"></div>  
-                <div>Prof. M. Balakrishnan<br><a href="www.cse.iitd.ernet.in/~mbala/">www.cse.iitd.ernet.in/~mbala/</a></div>
+                <div>Prof. M. Balakrishnan<br>Indian Institute of Technology, Delhi<br><a href="www.cse.iitd.ernet.in/~mbala/">www.cse.iitd.ernet.in/~mbala/</a></div>
          </div>
             
                 <div class="col-md-4">
 				<h4 style="color:#192442;">Organizing Chair</h4>
             	<div><img src="assets/images/chairs/chair2.png" alt="Prof. P.V.M. Rao"></div>  
-                <div>Prof. P.V.M. Rao<br><a href="web.iitd.ac.in/~pvmrao/">web.iitd.ac.in/~pvmrao/</a></div>
+                <div>Prof. P.V.M. Rao<br>Indian Institute of Technology, Delhi<br><a href="web.iitd.ac.in/~pvmrao/">web.iitd.ac.in/~pvmrao/</a></div>
          </div>
 		 
                 <div class="col-md-4">
 				<h4 style="color:#192442;">Finance Chair</h4>
             	<div><img src="assets/images/chairs/chair3.png" alt="Mr. Nekram Upadhyay"></div>  
-                <div>Mr. Nekram Upadhyay<br><a href="nekramupadhyay.com/">nekramupadhyay.com/</a></div>
+                <div>Mr. Nekram Upadhyay<br>Indian Spinal Injuries Center<br><a href="nekramupadhyay.com/">nekramupadhyay.com/</a></div>
          </div>
 		 
 		 </div>
@@ -763,19 +804,19 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<div class="col-md-4">
 				<h4 style="color:#192442;">Exhibit Chair</h4>
             	<div><img src="assets/images/chairs/chair4.png" alt="Mr. Dipendra Manocha"></div>  
-                <div>Mr. Dipendra Manocha<br><a href="www.daisy.org/stories/dipendra-manocha">www.daisy.org/stories/dipendra-manocha</a></div>
+                <div>Mr. Dipendra Manocha<br>Saksham Trust<br><a href="www.daisy.org/stories/dipendra-manocha">www.daisy.org/stories/dipendra-manocha</a></div>
          </div>
             
                 <div class="col-md-4">
 				<h4 style="color:#192442;">General Program Vice Chair</h4>
             	<div><img src="assets/images/chairs/chair5.png" alt="Prof. Anil Prabhakar"></div>  
-                <div>Prof. Anil Prabhakar<br><a href="www.iitm.ac.in/info/fac/anilpr">www.iitm.ac.in/info/fac/anilpr</a></div>
+                <div>Prof. Anil Prabhakar<br>Indian Institute of Technology,Madras<br><a href="www.iitm.ac.in/info/fac/anilpr">www.iitm.ac.in/info/fac/anilpr</a></div>
          </div>
 		 
                 <div class="col-md-4">
 				<h4 style="color:#192442;">Website Chair</h4>
             	<div><img src="assets/images/chairs/chair6.png" alt="Prof. Aman Parnami"></div>  
-                <div>Prof. Aman Parnami<br><a href="www.iiitd.ac.in/aman">www.iiitd.ac.in/aman</a></div>
+                <div>Prof. Aman Parnami<br>Indraprastha Institute of Information Technology, Delhi<br><a href="www.iiitd.ac.in/aman">www.iiitd.ac.in/aman</a></div>
          </div>
 		 
 		 </div>
@@ -785,12 +826,12 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             <div class="row">
 			<h4 style="color:#192442;">Program Committee Members</h4>
             	<div class="col-md-6">  
-                <div>Prof. Anupam Basu<br>NIT Durgapur (on leave from IIT 
+                <div>Prof. Anupam Basu<br>National Institute of Technology, Durgapur<br>(on leave from IIT 
 Kharagpur)</div>
          </div>
             
                 <div class="col-md-6"> 
-                <div>Prof. Supradip Das<br>IIT Guwahati</div>
+                <div>Prof. Supradip Das<br>Indian Institute of Technology, Guwahati</div>
          </div>
 		 
 		 </div>
@@ -801,39 +842,39 @@ Kharagpur)</div>
          </div>
             
                 <div class="col-md-6">
-                <div>Prof. Sujata Srinivasan<br>IIT Madras</div>
+                <div>Prof. Sujata Srinivasan<br>Indian Institute of Technology, Madras</div>
          </div>
 		 
 		 </div>
 		 
 		 <br>
-		 <div class="row">
+		 <!--<div class="row">
             	<div class="col-md-6">
                 <div>Dr. Akila Surendran<br>NISH, Trivandrum</div>
          </div>
             
-                <!--<div class="col-md-6">
+                <div class="col-md-6">
                 <div>Prof. Sujata Srinivasan<br>IIT Madras</div>
-         </div>-->
+         </div>
 		 
-		 </div>
+		 </div>-->
 		 
 		 </section>
 		 
-		 <section id="advMembers" class="section advMembers">
+		 <!--<section id="advMembers" class="section advMembers">
 		 <div class="row">
 		 <h4 style="color:#192442;">Advisory Committee</h4>
             	<div class="col-md-6">
                 <div>Dr. Samuel N. Mathew<br>Executive Director, NISH, NIPMR</div>
          </div>
             
-                <!--<div class="col-md-6">
+                <div class="col-md-6">
                 <div>Mukesh Jain<br>Joint Secretary, Ministry of Social Justice, GoI
 </div>
-         </div>-->
+         </div>
 		 
 		 </div>
-		 </section>
+		 </section>-->
 		 
         </div>
 
