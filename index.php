@@ -123,7 +123,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                     <li style="background:#fff8e0; padding:5px;">Registration start date: September 01, 2018</li>
                     <li>Early Registration close date: October 07, 2018</li>
                     <li style="background:#fff8e0; padding:5px;">Registration close date: October 15, 2018</li>
-					<li>Room booking start date: </li>
+					
 				</ul>    
                 
          </div>
@@ -869,7 +869,7 @@ Kharagpur)</div>
                 <span style="color:#F00; font-size:14pt;">*</span> Fellowship includes full conference registration + 4 days shared accomodation. Programme committee would give these fellowships to 
 deserving participants and they would be named as Sponsor's fellows.
                 <br>
-                <span style="color:#F00; font-size:14pt;">**</span> Complimentary Registration includes conference registration + 3 days shared accomodation.
+                <span style="color:#F00; font-size:14pt;">**</span> Complimentary Registration includes full conference registration
             </div>
         </div>
 

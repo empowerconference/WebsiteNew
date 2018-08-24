@@ -333,7 +333,7 @@ ul li {
   position: relative;
   text-align: center;
   background: url(../images/backgrounds/header.jpg) no-repeat center center/cover;
-  display: table;
+  /*display: table;*/
 }
 .site-header::before {
   content: "";

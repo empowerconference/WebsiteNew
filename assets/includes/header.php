@@ -51,7 +51,7 @@
             
             <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>
             <h2>25 - 27 October 2018</h2>
-            <a class="btn btn-white" data-scroll href="#registration_form">Register Now</a>
+            <a class="btn btn-white" data-scroll href="#registration">Register Now</a>
         
         </div>
     </header>
