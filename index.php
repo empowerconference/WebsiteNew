@@ -387,7 +387,7 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 8 A  |     Keynote: Prof. Volker Sorge <br>(To be confirmed) </td>
+                                <td colspan="3">Session 8 A  |     Keynote: Prof. Volker Sorge <br> </td>
                             </tr>
 							<tr class="tr1">
                             	<td>6:00 PM</td>
@@ -541,7 +541,7 @@ presentation in the relevant technical session.
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
                         </figure>
 
-                        <h4>Dr. Volker Sorge (To be confirmed)</h4>
+                        <h4>Dr. Volker Sorge </h4>
 
                         <p>University of Birmingham, UK</p>
                         
