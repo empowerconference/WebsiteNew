@@ -783,13 +783,13 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<div class="col-md-4">
 				<h4 style="color:#192442;">General Program Chair</h4>
             	<div><img src="assets/images/chairs/chair1.png" alt="Prof. M. Balakrishnan"></div>  
-                <div>Prof. M. Balakrishnan<br>Indian Institute of Technology, Delhi<br><a href="www.cse.iitd.ernet.in/~mbala/">www.cse.iitd.ernet.in/~mbala/</a></div>
+                <div>Prof. M. Balakrishnan<br>IIT Delhi<br><a href="www.cse.iitd.ernet.in/~mbala/">www.cse.iitd.ernet.in/~mbala/</a></div>
          </div>
             
                 <div class="col-md-4">
 				<h4 style="color:#192442;">Organizing Chair</h4>
             	<div><img src="assets/images/chairs/chair2.png" alt="Prof. P.V.M. Rao"></div>  
-                <div>Prof. P.V.M. Rao<br>Indian Institute of Technology, Delhi<br><a href="web.iitd.ac.in/~pvmrao/">web.iitd.ac.in/~pvmrao/</a></div>
+                <div>Prof. P.V.M. Rao<br>IIT Delhi<br><a href="web.iitd.ac.in/~pvmrao/">web.iitd.ac.in/~pvmrao/</a></div>
          </div>
 		 
                 <div class="col-md-4">
@@ -810,13 +810,13 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                 <div class="col-md-4">
 				<h4 style="color:#192442;">General Program Vice Chair</h4>
             	<div><img src="assets/images/chairs/chair5.png" alt="Prof. Anil Prabhakar"></div>  
-                <div>Prof. Anil Prabhakar<br>Indian Institute of Technology,Madras<br><a href="www.iitm.ac.in/info/fac/anilpr">www.iitm.ac.in/info/fac/anilpr</a></div>
+                <div>Prof. Anil Prabhakar<br>IIT Madras<br><a href="www.iitm.ac.in/info/fac/anilpr">www.iitm.ac.in/info/fac/anilpr</a></div>
          </div>
 		 
                 <div class="col-md-4">
 				<h4 style="color:#192442;">Website Chair</h4>
             	<div><img src="assets/images/chairs/chair6.png" alt="Prof. Aman Parnami"></div>  
-                <div>Prof. Aman Parnami<br>Indraprastha Institute of Information Technology, Delhi<br><a href="www.iiitd.ac.in/aman">www.iiitd.ac.in/aman</a></div>
+                <div>Prof. Aman Parnami<br>IIIT Delhi<br><a href="www.iiitd.ac.in/aman">www.iiitd.ac.in/aman</a></div>
          </div>
 		 
 		 </div>
@@ -826,12 +826,12 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             <div class="row">
 			<h4 style="color:#192442;">Program Committee Members</h4>
             	<div class="col-md-6">  
-                <div>Prof. Anupam Basu<br>National Institute of Technology, Durgapur<br>(on leave from IIT 
+                <div>Prof. Anupam Basu<br>NIT Durgapur (on leave from IIT 
 Kharagpur)</div>
          </div>
             
                 <div class="col-md-6"> 
-                <div>Prof. Supradip Das<br>Indian Institute of Technology, Guwahati</div>
+                <div>Prof. Supradip Das<br>IIT Guwahati</div>
          </div>
 		 
 		 </div>
@@ -842,7 +842,7 @@ Kharagpur)</div>
          </div>
             
                 <div class="col-md-6">
-                <div>Prof. Sujata Srinivasan<br>Indian Institute of Technology, Madras</div>
+                <div>Prof. Sujata Srinivasan<br>IIT Madras</div>
          </div>
 		 
 		 </div>
