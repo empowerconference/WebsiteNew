@@ -93,6 +93,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
      <p>   Your PDF file must be accessible. PDFs created with LaTex are very difficult to make accessible unless you edit the output directly in Acrobat; we strongly suggest using Microsoft Word due to the easier accessibility workflow. It may take you about an hour to make your file accessible (adding alt tags, etc.), so be sure to leave time before the submission deadline to do so. Please refer to the instructions on <a href="http://assets18.sigaccess.org/creating_accessible_pdfs.html">Creating an Accessible ACM Conference Paper</a> for information on how to accomplish this.<br>
 <br>
         Note that making an accessible PDF is not well-supported by any standard LaTex editors that we are aware of. If you use LaTex you will need to manually edit your PDF using Adobe Acrobat in order to make it accessible.
+		<br><br>
+		The submitted abstracts will be reviewed by Program Committee and shortlisted ones will be invited for poster presentation in the conference. Exceptional submissions may be considered for oral 
+presentation in the relevant technical session.
 		</p>
      </div>   
     </div>
@@ -121,9 +124,8 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             	<h4 style="color:#192442;">Important Dates</h4>
                 <ul style="list-style:none; margin:0; padding:0;">
                     <li style="background:#fff8e0; padding:5px;">Registration start date: September 01, 2018</li>
-                    <li>Room registration start date: September 05, 2018</li>
-                    <li style="background:#fff8e0; padding:5px;">Early Registration close date: October 07, 2018</li>
-					<li>Registration close date: October 15, 2018</li>
+                    <li>Room booking date starts: September 05, 2018</li>
+                    <li style="background:#fff8e0; padding:5px;">Early bird registration ends: October 07, 2018</li>
 				</ul>    
                 
          </div>
@@ -233,7 +235,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
             <table>
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
                             	<td style="padding:5px;">Delegate Type</td>
-								<td style="padding:5px;">Early Registration <br>(ends 7 <sup>th</sup> October)</td>
+								<td style="padding:5px;">Early bird Registration <br>(ends 7 <sup>th</sup> October)</td>
 								<td style="padding:5px;">Regular Registration <br>(ends 15 <sup>th</sup> October) </td>
 								<td style="padding:5px;">One Day Registration <br>(Early)</td>
 								<td style="padding:5px;">One Day Registration <br>(Regular)</td>
