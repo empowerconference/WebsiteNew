@@ -463,7 +463,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
+                            <img alt="Picture of Dr. T.V. Raman" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
                         </figure>
 
                         <h4>Dr. T.V.Raman</h4>
@@ -482,7 +482,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
+                            <img alt="Picture of Dr. Katsuhito Yamaguchi" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
                         </figure>
 
                         <h4>Dr. Katsuhito Yamaguchi</h4>
@@ -500,7 +500,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-3.jpg">
+                            <img alt="Picture of Saqib Shaikh" class="img-responsive center-block" src="assets/images/speakers/speaker-3.jpg">
                         </figure>
 
                         <h4>Saqib Shaikh (To be confirmed)</h4>
@@ -518,7 +518,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+                            <img alt="Picture of Dr. Masakazu Suzuki" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
                         </figure>
 
                         <h4>Dr. Masakazu Suzuki</h4>
@@ -537,7 +537,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
+                            <img alt="Picture of Dr. Volker Sorge" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
                         </figure>
 
                         <h4>Dr. Volker Sorge </h4>
