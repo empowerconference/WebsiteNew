@@ -46,7 +46,7 @@
         <div id="intro" class="intro">
 		<!-- logo -->
                 
-            <img src="assets/images/logo_big.png" alt="Logo">
+            <img src="assets/images/logo_big.png" alt="Empower 2018 Logo" longdesc="">
            
             
             <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>
