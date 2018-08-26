@@ -236,9 +236,9 @@ presentation in the relevant technical session.
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
                             	<td style="padding:5px;">Delegate Type</td>
 								<td style="padding:5px;">Early bird Registration <br>(ends 7 <sup>th</sup> October)</td>
-								<td style="padding:5px;">Regular Registration <br>(ends 15 <sup>th</sup> October) </td>
-								<td style="padding:5px;">One Day Registration <br>(Early)</td>
-								<td style="padding:5px;">One Day Registration <br>(Regular)</td>
+								<td style="padding:5px;">Regular Registration </td>
+								<td style="padding:5px;">Early One Day Registration <br>(ends 7 <sup>th</sup> October)</td>
+								<td style="padding:5px;">One Day Registration</td>
                             </tr>
                             <tr class="tr0">
                             	<td>General <span style="color:#F00; font-size:14pt;">*</span><br></td>
@@ -405,7 +405,7 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 9A Keynote: Mr. Saqib Shaikh (Microsoft, USA) | Organizer:  		</td>
+                                <td colspan="3">Session 9A Keynote: Mr. Saqib Shaikh (Microsoft, USA)<br> (To be confirmed)</td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -503,10 +503,9 @@ presentation in the relevant technical session.
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-3.jpg">
                         </figure>
 
-                        <h4>Saqib Shaikh</h4>
+                        <h4>Saqib Shaikh (To be confirmed)</h4>
 
                         <p>Microsoft, Seeing AI</p>
-
                          <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Saqib Shaikh (Microsoft) is the Tech Lead of the Seeing AI project which explores how Artificial Intelligence can be leveraged to empower the blind and low vision community to do more. The app gives its user the ability to see what is happening around the user in real-time. His current interest focuses at the intersection of Artificial Intelligence and Inclusive Design to create intelligent machines that level the playing field, and enable us all to do more.
                         </p>
 
