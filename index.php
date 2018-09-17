@@ -299,7 +299,7 @@ presentation in the relevant technical session.
 						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank">Room Details Here</a></em><br>
                         <span style="color:#F00; font-size:14pt;">*</span> including breakfast and 18% GST 
 						</p>
-					<button class="btn btn-primary">Room Booking starts from 15 September 2018</button>	
+					<button class="btn btn-primary">Room Booking starts from 18 September 2018</button>	
 					</div>
         </div>
         

@@ -63,22 +63,7 @@
         <label>Name<span style="color:red;">*</span> </label> 
 		<input type='text' name="name" class="form-control" id="name" placeholder='Enter your full name' required/>
 		</div>
-        
-        <!--<div class="form-control">
-		<label>Gender </label>        
-         <div class="form-check">
-          <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
-          <label class="form-check-label" for="exampleRadios1">
-            Male
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
-          <label class="form-check-label" for="exampleRadios2">
-            Female
-          </label>
-        </div>
-		</div>-->      
+             
         
          <div class="form_css"> 
 		<label>Email<span style="color:red;">*</span></label> 
@@ -93,7 +78,7 @@
         
         <div class="form_css">
 		<label>Contact Number<span style="color:red;">*</span> </label> <br />
-		<input type='text' name="contact" class="form-control"  id="contact" placeholder='Enter contact number' required/>
+		<input type='number' name="contact" class="form-control"  id="contact" placeholder='Enter contact number' required/>
         </div>
         
 		<div class="form_css">
