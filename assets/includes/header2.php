@@ -49,7 +49,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Conference</title>
+    <title>EMPOWER 2018: Assistive Technology Conference</title>
+    <meta property="og:title" content="EMPOWER 2018: Assistive Technology Conference" />
+    
+    <meta property="og:url" content="http://assistech.iitd.ac.in/empower2018/" />
+    <meta property="og:image" content="assets/images/og-image.jpg" />
 
     <!-- css -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -66,7 +70,7 @@
         <div id="intro" class="intro">
 		<!-- logo -->
                 
-            <img src="assets/images/logo_big.png" alt="Logo">
+            <img src="assets/images/logo_big.png" alt="Logo" style=" width: 100%; height: auto; max-width: 594px;">
            
             
             <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>

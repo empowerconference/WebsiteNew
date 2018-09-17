@@ -29,12 +29,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Conference</title>
+    <title>EMPOWER 2018: Assistive Technology Conference</title>
+    <meta property="og:title" content="EMPOWER 2018: Assistive Technology Conference" />
+    
+    <meta property="og:url" content="http://assistech.iitd.ac.in/empower2018/" />
+    <meta property="og:image" content="assets/images/og-image.jpg" />
 
     <!-- css -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Owl carousel -->
+        <link rel="stylesheet" href="assets/css/owl.carousel.css">
     
     
 </head>
@@ -46,12 +53,12 @@
         <div id="intro" class="intro">
 		<!-- logo -->
                 
-            <img src="assets/images/logo_big.png" alt="Empower 2018 Logo" longdesc="">
+            <img src="assets/images/logo_big.png" alt="Logo" style=" width: 100%; height: auto; max-width: 594px;">
            
             
             <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>
             <h2>25 - 27 October 2018</h2>
-            <a class="btn btn-white" data-scroll href="#registration">Register Now</a>
+            <a class="btn btn-white" data-scroll href="register">Register Now</a>
         
         </div>
     </header>
@@ -66,7 +73,8 @@
                     <a class="logo" href="index.php">
                         
                         <!-- logo image  -->
-                        <img src="assets/images/logo.png" alt="Logo">
+                        <img src="assets/images/logo.png" alt="Logo" style=" width: 100%; height: auto; max-width: 275px;
+                         margin-top: 5px;">
                     </a>
                 </div>
             

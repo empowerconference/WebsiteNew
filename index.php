@@ -1,6 +1,20 @@
 
 <?php include 'assets/includes/header.php' ?>
+<style>
+.rounded-rect {
+  border-radius: 5%;
+}
 
+.exhibit li{
+	float: left;
+    width: 100%;
+}
+
+.img-left {
+    float: left;
+	margin-right: 10px;
+}
+</style>
 <a class="anchor" id="about"></a>
     <section class="section about">
         <div class="container">
@@ -55,7 +69,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                 <div class="col-sm-4">
                 
                     <i class="ion-speakerphone"></i>
-                    <h3>03<br>Speakers</h3>
+                    <h3>05<br>Key Note Speakers</h3>
                 
                 </div>
             </div><!-- row -->
@@ -70,7 +84,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
     	<h4>Important Dates</h4>
 			<ul style="list-style:none; margin:0; padding:0;">
             	<li style="background:#fff8e0; padding:5px;">Submission start date: August 24, 2018</li>
-                <li>Submission deadline: September 15, 2018</li>
+                <li style="padding:5px;">Submission deadline: September 22, 2018</li>
 				<li style="background:#fff8e0; padding:5px;">Acceptance notification: September 30, 2018</li>
             </ul>    
             
@@ -81,9 +95,9 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
         
         <p>
         Submission Guidelines:<br>
-        Please use the ACM SIGCHI Extended Abstract format for submission.<br>
-        <a href="http://st.sigchi.org/sigchi-paper-template/SIGCHIExtendedAbstractsFormat.docx">Word</a> | <a href="https://github.com/sigchi/Document-Formats/tree/master/LaTeX">Latex</a> | 
-        <a href="https://chi2018.acm.org/wp-content/uploads/2017/04/SIGCHIExtendedAbstractsFormat.pdf">View Sample Extended Abstract</a> 
+        The abstract should be of 2 pages (excluding references). For detailed guidelines please use the ACM SIGCHI Extended Abstract format for submission.<br>
+        <a href="SIGCHIExtendedAbstractsFormat.docx">Word</a> | <a href="Document-Formats-masterX.zip">LateX</a> | 
+        <a href="SIGCHIExtendedAbstractsFormat.pdf">View Sample Extended Abstract</a> 
 		</p>
             
      </div>    
@@ -123,8 +137,8 @@ presentation in the relevant technical session.
             	<div class="col-md-4">
             	<h4 style="color:#192442;">Important Dates</h4>
                 <ul style="list-style:none; margin:0; padding:0;">
-                    <li style="background:#fff8e0; padding:5px;">Registration start date: September 01, 2018</li>
-                    <li>Room booking date starts: September 05, 2018</li>
+                    <li style="background:#fff8e0; padding:5px;">Registrations Open <a href="register">Click Here</a></li>
+                    <li style="padding:5px;">Room booking starts: September 15, 2018</li>
                     <li style="background:#fff8e0; padding:5px;">Early bird registration ends: October 07, 2018</li>
 				</ul>    
                 
@@ -133,23 +147,17 @@ presentation in the relevant technical session.
                 <div class="col-sm-4">
                     <h4 style="color:#192442;">Venue</h4>
                     
-                        <p>The Empower 2018 conference will be held at <br>
+                        <p> The Empower 2018 conference will be held at <br>
 							I-TEC IIT Delhi Technopark, Sonipat.<br>
 							Campus Plot #4-B<br>
-                        Rajiv Gandhi Education City, Kundli,<br>
-                        Sonipat Haryana- 131028<br>
+                            Rajiv Gandhi Education City, Kundli,<br>
+                            Sonipat Haryana- 131028<br>
                         </p>                   
                  </div>
     			
-                 <div class="col-md-4">	             
-	                    <h4 style="color:#192442;">Accommodation</h4>
-                        <p>
-                        Accommodation is available at the venue itself.<br>
-                        Room Charges :<br>
-						INR 2950 (single occupancy) per person per day <span style="color:#F00; font-size:14pt;">*</span><br>
-                        INR 1593 (double occupancy) per person per day <span style="color:#F00; font-size:14pt;">*</span><br>
-                        <span style="color:#F00; font-size:14pt;">*</span> including breakfast and 18% GST 
-						</p>
+                 <div class="col-md-4">	
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3491.1855040030646!2d77.10171821508982!3d28.952221882292722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390daddf6cade053%3A0xfd7ceeb61e0dbbe1!2sIIT+Delhi+Sonipat+Campus!5e0!3m2!1sen!2sin!4v1535714997883" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>             
+	                    
                 </div>
                 
             </div>
@@ -224,7 +232,7 @@ presentation in the relevant technical session.
         
     </section>-->
 	
-	<section id="registration_charges" class="registration" style="padding:90px 0 0 0;">
+	<section id="registration_charges" class="registration daily_program" style="padding:18px 0 0 0;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -234,11 +242,11 @@ presentation in the relevant technical session.
                 
             <table>
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
-                            	<td style="padding:5px;">Delegate Type</td>
-								<td style="padding:5px;">Early bird Registration <br>(ends 7 <sup>th</sup> October)</td>
-								<td style="padding:5px;">Regular Registration </td>
-								<td style="padding:5px;">Early One Day Registration <br>(ends 7 <sup>th</sup> October)</td>
-								<td style="padding:5px;">One Day Registration</td>
+                            	<th style="padding:5px;">Delegate Type</th>
+								<th style="padding:5px;">Early bird Registration <br>(ends 7 <sup>th</sup> October)</th>
+								<th style="padding:5px;">Regular Registration </th>
+								<th style="padding:5px;">Early One Day Registration <br>(ends 7 <sup>th</sup> October)</th>
+								<th style="padding:5px;">One Day Registration</th>
                             </tr>
                             <tr class="tr0">
                             	<td>General <span style="color:#F00; font-size:14pt;">*</span><br></td>
@@ -248,14 +256,14 @@ presentation in the relevant technical session.
 								<td>INR 2950</td>
                             </tr>
                             <tr class="tr1">
-                            	<td>Differently Abled<span style="color:#F00; font-size:14pt;">**</span><br></td>
+                            	<td>Student <span style="color:#F00; font-size:14pt;">**</span><br></td>
                                 <td>INR 3540</td>
 								<td>INR 4130</td>
 								<td>INR 1180</td>
 								<td>INR 1770</td>
                             </tr>
                             <tr class="tr0">
-                            	<td>Student <span style="color:#F00; font-size:14pt;">**</span><br></td>
+								<td>Differently Abled<span style="color:#F00; font-size:14pt;">**</span><br></td>
                                 <td>INR 3540</td>
 								<td>INR 4130</td>
 								<td>INR 1180</td>
@@ -277,6 +285,22 @@ presentation in the relevant technical session.
 						<span style="color:#F00; font-size:14pt;">**</span> Participation in all keynotes and 1 of each ongoing parallel tracks | Registration Kit | Lunch & Tea during conference
 						<br>
 						<span style="color:#F00; font-size:14pt;">#</span> Lunch & Tea during conference
+                        <br>
+						<br>
+                       
+					<div>		
+                        <h3 class="section-title">Accommodation</h3>
+                        <p>
+                        Accommodation is available at the venue itself.<br>
+                        Room Charges :<br>
+						INR 2950 (single occupancy)<span style="color:#F00; font-size:14pt;">*</span> per person per day. 
+						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank">Room Details Here</a></em>  <br>
+                        INR 1593 (double occupancy)<span style="color:#F00; font-size:14pt;">*</span> per person per day 
+						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank">Room Details Here</a></em><br>
+                        <span style="color:#F00; font-size:14pt;">*</span> including breakfast and 18% GST 
+						</p>
+					<button class="btn btn-primary">Room Booking starts from 15 September 2018</button>	
+					</div>
         </div>
         
         
@@ -297,7 +321,7 @@ presentation in the relevant technical session.
                     
                     
                 <ul class="nav nav-tabs md-tabs nav-justified">
-                    <li class="nav-item">
+                    <li class="active nav-item">
                         <a class="nav-link active" data-toggle="tab" href="#panel1" role="tab">Day 1</a>
                     </li>
                     <li class="nav-item">
@@ -451,26 +475,33 @@ presentation in the relevant technical session.
             <div class="row">
                 
                 <a class="anchor" id="speakers" ></a>
-                <div class="section col-md-12">
+                <section style="padding-top:120px;" class="col-md-12">
 
-                    <h3 class="section-title">Key Note Speakers</h3>
+                    <h3 class="section-title" style="padding-bottom:0px;">Key Note Speakers</h3>
                 
                 </div>
-            </div>
+           
 
             <div class="row">
                 <div class="col-md-4">
                     <div class="speaker">
 
                         <figure>
-                            <img alt="Picture of Dr. T.V. Raman" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
+                            <img alt="Picture of Dr. T.V. Raman" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-1.jpg">
                         </figure>
 
                         <h4>Dr. T.V.Raman</h4>
 
                         <p>Google Research</p>
                         
-                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. T. V. Raman is an accomplished Computer Scientist with over 8 years of industry experience in advanced technology development. He has authored 2 books and filed over 20 patents; He has leading edge expertise in auditory interfaces, scripting languages, Internet technologies including Web server applications and Web standards. He participates in numerous W3C working groups and has authored Aural CSS (ACSS); in 1996 he wrote the first ACSS implementation. He has been actively participating in defining XML specifications for the next generation WWW including XForms, XML Events, and XHTML+Voice. 
+                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. T. V. Raman is an accomplished Computer 
+						Scientist with over 25 years of leadership experience in advanced technology development. During this time, he has authored 3 
+						books and filed over 75 patents; his work on eyes-free interaction has been profiled in mainstream publications including the 
+						New York Times and Scientific American.
+						Dr. Raman now works on user-aware interfaces in the context of the Google Assistant. During his 12+ years as a Google 
+						Research Scientist, he has worked on Google Search, Android and ChromeOS to build the underpinnings of Accessibility on 
+						Google's core platforms. <a href="bio.html" target="_blank">Know More about Dr. T.V. Raman</a> 
+						
                         </p>
 
                         
@@ -482,7 +513,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="Picture of Dr. Katsuhito Yamaguchi" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
+                            <img alt="Picture of Dr. Katsuhito Yamaguchi" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-2.jpg">
                         </figure>
 
                         <h4>Dr. Katsuhito Yamaguchi</h4>
@@ -500,7 +531,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="Picture of Saqib Shaikh" class="img-responsive center-block" src="assets/images/speakers/speaker-3.jpg">
+                            <img alt="Picture of Saqib Shaikh" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-3.jpg">
                         </figure>
 
                         <h4>Saqib Shaikh (To be confirmed)</h4>
@@ -518,7 +549,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="Picture of Dr. Masakazu Suzuki" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+                            <img alt="Picture of Dr. Masakazu Suzuki" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-4.jpg">
                         </figure>
 
                         <h4>Dr. Masakazu Suzuki</h4>
@@ -537,7 +568,7 @@ presentation in the relevant technical session.
                     <div class="speaker">
 
                         <figure>
-                            <img alt="Picture of Dr. Volker Sorge" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
+                            <img alt="Picture of Dr. Volker Sorge" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-6.jpg">
                         </figure>
 
                         <h4>Dr. Volker Sorge </h4>
@@ -553,13 +584,54 @@ presentation in the relevant technical session.
 
                 
             </div><!-- /.row -->
+            
+            			<!--new code added-->
+			<div class="row">
+                
+                <a class="anchor" id="invited_speakers" ></a>
+                <div class="col-md-12">
 
-          
+                    <h3 class="section-title">Invited Speakers</h3>
+					<br>
+				<div class="row">
+					<div class="col-md-4">
+						<div>Prof. Ajish Abraham<br>Electronics & Acoustics<br>AIISH-Mysore</div>
+					</div>
+					<br>
+
+					<div class="col-md-4">
+						<div> Sri. Gopan George<br>Principal Engineer<br>CDAC, Thiruvananthapuram</div>
+					</div>
+				
+					<div class="col-md-4">
+						<div> Prof. Tirthankar Das Gupta<br>IIT Kharagpur</div>
+					</div>
+			 
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-4">
+						<div>Divya Jalan<br>President, Founder & Trustee<br>Breaking through Dyslexia,Dyslexia Trust of Kolkata</div>
+					</div>
+				
+					<div class="col-md-4">
+						<div> Dr. Ramaa S.<br>Dean of Instruction, Professor of Special Education<br>Regional Institute of Education (NCERT), Mysuru</div>
+					</div>
+				
+					<!--<div class="col-md-4">
+						<div> Prof. Tirthankar Das Gupta<br>IIT Kharagpur</div>
+					</div>-->
+			 
+				</div>
+            </div>
+			<!--new code added ends-->
+
+    </section>      
                 
 
              
         </div>
-    </section>
+    </div>
 
     
  <!--
@@ -774,108 +846,151 @@ presentation in the relevant technical session.
 
 <a class="anchor" id="people"></a>
 	
-    <section id="people" class="section people">
+    <section id="people" class="people">
 	        
         <div class="container">
         <h3 class="section-title">Program Committee</h3>
-		<section id="pChairs" class="section pChairs">
+		<div id="pChairs" class="pChairs" style="margin-bottom:60px;">
             <div class="row">
-			<h4 style="color:#192442;">Program Chairs</h4>
-            	<div class="col-md-4">
-				<h4 style="color:#192442;">General Program Chair</h4>
-            	<div><img src="assets/images/chairs/chair1.png" alt="Prof. M. Balakrishnan"></div>  
-                <div>Prof. M. Balakrishnan<br>IIT Delhi<br><a href="www.cse.iitd.ernet.in/~mbala/">www.cse.iitd.ernet.in/~mbala/</a></div>
-         </div>
+			<h4 class="committee_heading">Program Chairs</h4>
+            	<div class="col-md-4 center">
+                    <h4 style="color:#192442;">General Program Chair</h4>
+                    <div><img src="assets/images/chairs/chair1.png" alt="Prof. M. Balakrishnan"></div>  
+                    <div>Prof. M. Balakrishnan 
+					<a href="http://www.cse.iitd.ernet.in/~mbala/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. M. Balakrishnan's webpage"></a>
+					<a href="mailto:mbala@cse.iitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. M. Balakrishnan's email"></a><br>IIT Delhi<br></div>
+                </div>
             
-                <div class="col-md-4">
+                <div class="col-md-4 center">
 				<h4 style="color:#192442;">Organizing Chair</h4>
             	<div><img src="assets/images/chairs/chair2.png" alt="Prof. P.V.M. Rao"></div>  
-                <div>Prof. P.V.M. Rao<br>IIT Delhi<br><a href="web.iitd.ac.in/~pvmrao/">web.iitd.ac.in/~pvmrao/</a></div>
+                <div>Prof. P.V.M. Rao 
+				<a href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. P.V.M. Rao's webpage"></a>
+				<a href="mailto:pvmrao@mech.iitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. P.V.M. Rao's email"></a><br>IIT Delhi</div>
          </div>
 		 
-                <div class="col-md-4">
+                <div class="col-md-4 center">
 				<h4 style="color:#192442;">Finance Chair</h4>
             	<div><img src="assets/images/chairs/chair3.png" alt="Mr. Nekram Upadhyay"></div>  
-                <div>Mr. Nekram Upadhyay<br>Indian Spinal Injuries Center<br><a href="nekramupadhyay.com/">nekramupadhyay.com/</a></div>
+                <div>Mr. Nekram Upadhyay <a href="http://nekramupadhyay.com/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Mr. Nekram Upadhyay's webpage"></a> <a href="mailto:assistivetech@isiconline.org"><img src="assets/images/chairs/message.png" alt="Link to Mr. Nekram Upadhyay's email"></a><br>Indian Spinal Injuries Center</div>
          </div>
 		 
 		 </div>
 		 <br>
 		 <div class="row">
-            	<div class="col-md-4">
+            	<div class="col-md-4 center">
 				<h4 style="color:#192442;">Exhibit Chair</h4>
             	<div><img src="assets/images/chairs/chair4.png" alt="Mr. Dipendra Manocha"></div>  
-                <div>Mr. Dipendra Manocha<br>Saksham Trust<br><a href="www.daisy.org/stories/dipendra-manocha">www.daisy.org/stories/dipendra-manocha</a></div>
+                <div>Mr. Dipendra Manocha <a href="http://www.daisy.org/stories/dipendra-manocha" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Mr. Dipendra Manocha's webpage"></a> <a href="mailto:dipendra.manocha@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Mr. Dipendra Manocha's email"></a><br>Saksham Trust</div>
          </div>
             
-                <div class="col-md-4">
+                <div class="col-md-4 center">
 				<h4 style="color:#192442;">General Program Vice Chair</h4>
             	<div><img src="assets/images/chairs/chair5.png" alt="Prof. Anil Prabhakar"></div>  
-                <div>Prof. Anil Prabhakar<br>IIT Madras<br><a href="www.iitm.ac.in/info/fac/anilpr">www.iitm.ac.in/info/fac/anilpr</a></div>
+                <div>Prof. Anil Prabhakar <a href="http://www.iitm.ac.in/info/fac/anilpr" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. Anil Prabhakar's webpage"></a> <a href="mailto:anilpr@iitm.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. Anil Prabhakar's email"></a><br>IIT Madras</div>
          </div>
 		 
-                <div class="col-md-4">
+                <div class="col-md-4 center">
 				<h4 style="color:#192442;">Website Chair</h4>
             	<div><img src="assets/images/chairs/chair6.png" alt="Prof. Aman Parnami"></div>  
-                <div>Prof. Aman Parnami<br>IIIT Delhi<br><a href="www.iiitd.ac.in/aman">www.iiitd.ac.in/aman</a></div>
+                <div>Prof. Aman Parnami <a href="http://www.iiitd.ac.in/aman" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. Aman Parnami's webpage"></a> <a href="mailto:aman@iiitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. Aman Parnami's email"></a><br>IIIT Delhi</div>
          </div>
 		 
 		 </div>
-		 </section>
+		 </div>
 		 
-		 <section id="pcMembers" class="section pcMembers">
+		 <div id="pcMembers" class="pcMembers" style="margin-bottom:60px;">
             <div class="row">
-			<h4 style="color:#192442;">Program Committee Members</h4>
-            	<div class="col-md-6">  
-                <div>Prof. Anupam Basu<br>NIT Durgapur (on leave from IIT 
-Kharagpur)</div>
-         </div>
+			<h4 class="committee_heading">Program Committee Members</h4>
+            	<div class="col-md-4">  
+					<div>Prof. Anupam Basu<br>NIT Durgapur (on leave from IIT Kharagpur)
+					</div>
+				</div>
             
-                <div class="col-md-6"> 
-                <div>Prof. Supradip Das<br>IIT Guwahati</div>
-         </div>
+				<div class="col-md-4"> 
+					<div>Prof. Supradip Das<br>IIT Guwahati</div>
+				</div>
+			
+				<div class="col-md-4">
+					<div>Dr. Sam Taraporevala<br>XRCVC, Mumbai</div>
+				</div>
 		 
+			</div>
+			<br>
+			 <div class="row">
+				<div class="col-md-4">
+					<div>Prof. Sujata Srinivasan<br>IIT Madras</div>
+				</div>
+				
+				<div class="col-md-4">
+					<div>Dr. Akila Surendran<br>NISH, Trivandrum</div>
+				</div>
+				
+				<div class="col-md-4">
+					<div>Dr. Bipin B. Choudhary<br>Cradle</div>
+				</div>
+			 
+			 </div>
+             	<br>
+                
+                <!-- new code added-->
+			<div class="row">
+				<div class="col-md-4">
+					<div>Dr. Rajendra Prasad<br>Indraprastha Apollo Hospitals New Delhi</div>
+				</div>
+			 </div>
+			 <br>
+			 <!-- new code added ends-->
 		 </div>
-		 <br>
-		 <div class="row">
-            	<div class="col-md-6">
-                <div>Dr. Sam Taraporevala<br>XRCVC, Mumbai</div>
-         </div>
-            
-                <div class="col-md-6">
-                <div>Prof. Sujata Srinivasan<br>IIT Madras</div>
-         </div>
 		 
+		 <div id="advisoryMembers" class="advMembers" style="margin-bottom:60px;">
+            <div class="row">
+			<h4 class="committee_heading">Advisory Committee Members</h4>
+            	<div class="col-md-4">  
+					<div> Dr. Samuel N. Mathew<br>Ex-Executive Director<br>NISH, NIPMR
+					</div>
+				</div>
+            
+				<div class="col-md-4"> 
+					<div> Dr. Charudatta Jadhav<br>Head-Accessibility Lab<br>Corporate Research and Innovation, TCS</div>
+				</div>
+			
+				<div class="col-md-4">
+					<div>Dr. Namita Jacob<br>Director<br>Chetana Charitable Trust</div>
+				</div>
+		 
+			</div>
+			<br>
+			 <div class="row">
+				<div class="col-md-4">
+					<div>Dr. Loren O'Conor<br>Assistant Vice Chancellor of the Office of Accessible Education and Counseling Services<br>Brandman University, USA</div>
+				</div>
+				
+				<div class="col-md-4">
+					<div>Mukesh Jain<br>Madhya Pradesh Govt<br></div>
+				</div>
+				
+				<div class="col-md-4">
+					<div>Prof. Luc de Witte<br>Chair in Health Services Research<br>School of Health and Related Research, University of Sheffield</div>
+				</div>
+			 
+			 </div>
+			<br>
+			<div class="row">
+				<div class="col-md-4">
+					<div>Dr. Sudha Kaul<br>Vice Chairperson, founder Principal<br>Indian Institute of Cerebral Palsy, Centre for Special Education</div>
+				</div>
+				
+				<!--<div class="col-md-4">
+					<div>Mukesh Jain<br>Madhya Pradesh Govt</div>
+				</div>
+				
+				<div class="col-md-4">
+					<div>Prof. Luc de Witte<br>Chair in Health Services Research, School of Health and Related Research, University of Sheffield</div>
+				</div>-->
+			 
+			 </div>
 		 </div>
-		 
-		 <br>
-		 <!--<div class="row">
-            	<div class="col-md-6">
-                <div>Dr. Akila Surendran<br>NISH, Trivandrum</div>
-         </div>
-            
-                <div class="col-md-6">
-                <div>Prof. Sujata Srinivasan<br>IIT Madras</div>
-         </div>
-		 
-		 </div>-->
-		 
-		 </section>
-		 
-		 <!--<section id="advMembers" class="section advMembers">
-		 <div class="row">
-		 <h4 style="color:#192442;">Advisory Committee</h4>
-            	<div class="col-md-6">
-                <div>Dr. Samuel N. Mathew<br>Executive Director, NISH, NIPMR</div>
-         </div>
-            
-                <div class="col-md-6">
-                <div>Mukesh Jain<br>Joint Secretary, Ministry of Social Justice, GoI
-</div>
-         </div>
-		 
-		 </div>
-		 </section>-->
 		 
         </div>
 
@@ -883,7 +998,7 @@ Kharagpur)</div>
 
 <a class="anchor" id="sponsorship"></a>
 	
-    <section id="sponsors" class="section sponsors">
+    <!--<section id="sponsors" class="section sponsors">
 	        
         <div class="container">
         <h3 class="section-title">Sponsorship Details</h3>
@@ -915,5 +1030,123 @@ deserving participants and they would be named as Sponsor's fellows.
             </div>
         </div>
 
-</section>
+	</section>-->
+	<section id="sponsors" class="section sponsors">
+	        
+        <div class="container">
+        <h3 class="section-title">Sponsorship Details</h3>
+            <div class="row">
+            	<div class="col-md-6" style="padding-top:50px;">
+            	<h4 style="color:#192442;">Sponsors</h4>
+                <ul style="list-style:none; margin:0; padding:0;">
+                    <li><img src="assets/images/sponsorships/platinum_sponsor.png" class="img-responsive img-left rounded-rect" alt="platinum colored reounded rectangle with text platinum sponsorship in between"></img>Platinum Sponsorship<br>INR 500,000 + 18% GST = INR 5,90,000 <br>Supports 10 Fellowships<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><br>Includes 3 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
+                    <br>
+					<li><img src="assets/images/sponsorships/gold_sponsor.png" class="img-responsive img-left rounded-rect" "gold colored reounded rectangle with text gold sponsorship in between"></img>Gold Sponsorship<br>INR 300,000 + 18% GST = INR 3,54,000 <br>Supports 5 Fellowships<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><br>Includes 2 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
+					<br>
+                    <li><img src="assets/images/sponsorships/silver_sponsor.png" class="img-responsive img-left rounded-rect" "silver colored reounded rectangle with text silver sponsorship in between"></img>Silver Sponsorship<br>INR 100,000 + 18% GST = INR 1,18,000 <br>Supports 1 Fellowship<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><br>Includes 1 Complimentary Registration<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
+                </ul>    
+                
+				</div>
+			
+                <div class="col-sm-6" style="padding-top:50px;">
+                    <h4 style="color:#192442;">Exhibits</h4>
+                    
+                        <ul style="list-style:none; margin:0; padding:0;" class="exhibit">
+							<li><img src="assets/images/exhibits/large-exhibit.png" class="img-responsive img-left" alt="image depicting 6 feet X 12 feet exhibition panel dimensions"></img>Exhibit Booth (12ft x 6ft):<br>
+<span style="color:#F00; font-size:10pt;">Early Bird Price :75,000 + 18% GST = INR 88,500*</span>
+<br>Regular Price: INR 1,00,000 + 18% GST = 1,18,000
+	 <br>Includes 3 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
+							<br>
+							<li><img src="assets/images/exhibits/medium-exhibit.png" class="img-responsive img-left" alt="image depicting 6 feet X 6 feet exhibition panel dimensions"></img>Exhibit Booth (6ft x 6ft)<br>
+                            <span style="color:#F00; font-size:10pt;">Early Bird Price :37,500 + 18% GST = INR 44,250*</span><br>
+Regular Price: INR 50,000 + 18% GST = INR 59,000<br>Includes 2 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
+							<br>
+							<li><img src="assets/images/exhibits/small-exhibit.png" class="img-responsive img-left" alt="image depicting 6 feet X 6 feet exhibition panel dimensions"></img>Exhibit Booth (6ft x 3ft)<br>
+<span style="color:#F00; font-size:10pt;">Early Bird Price :18,750 + 18% GST = INR 22,125*</span><br>
+Regular Price: INR 25,000 + 18% GST = INR 29,500 <br>Includes 1 Complimentary Registration<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
+						</ul> 
+						<br>
+                        <div style="text-align:center;">
+<span style="color:#F00; font-size:10pt;">*Avail 25% Discount on Early Bird Registrations before 25th September 2018</span>
+	<a href="https://goo.gl/forms/oN5rXawYvj43NuDI3" class="btn btn-primary">Exhibit Registration Here<br>
+	<span style="text-transform:capitalize; font-size:9pt;">(Last Date: 3rd Oct 2018)</span>
+    </a>
+<br>View Exhibitor's guide <span style="color:#F00;"><a href="Empower 2018 Exhibitors Manual.pdf">here</a></span>
+</div>
+                 </div>
+				 
+            </div>
+			<div class="row">
+				<br>
+                 <i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i>Fellowship includes full conference registration + 4 days shared accomodation. Programme committee would give these fellowships to deserving participants and they would be named as Sponsor's fellows.
+                <br>
+                <i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i> Complimentary Registration includes full conference registration
+			</div>
+            
+            <br>
+            
+            <!-- new code added-->
+			<!--<div class="row">
+				<h4 style="color:#192442;">Sponsors</h4>
+            	<div class="col-md-4 center">  
+					<div><img src="assets/images/exhibits/exhibitor1.png" alt="Assistech Logo"></div>  
+					<div>L&T Technology Services<br>Gold Sponsor</div>
+				</div>
+			
+                <div class="col-md-4 center">
+                    <div><img src="assets/images/exhibits/exhibitor3.png" alt="Saksham Logo"></div>  
+					<div>Google<br>Silver Sponsor</div>
+                </div>
+				
+				 
+            </div>-->
+			<!-- new code added ends-->
+			<br>	
+           
+			<div class="row">
+				<h4 style="color:#192442;">Exhibitors</h4>
+            	<div class="col-md-4 col-sm-4 center">  
+					<div><a href="http://assistech.iitd.ac.in/"><img src="assets/images/exhibits/exhibitor1.png" alt="Assistech Logo"></a></div>  
+					
+				</div>
+			
+                <div class="col-md-4 col-sm-4 center">
+                    <div><a href="http://www.saksham.org/"><img src="assets/images/exhibits/exhibitor3.png" alt="Saksham Logo"></a></div>  
+					
+                </div>
+				
+				<div class="col-md-4 col-sm-4 center">
+                    <div><a href="http://www.kritikalsolutions.com/"><img src="assets/images/exhibits/exhibitor4.png" alt="KSPL Logo"></a></div>  
+					
+                </div>
+                
+                <div class="col-md-4 col-sm-4 center">
+                    <div><a href="https://raisedlines.org/"><img src="assets/images/exhibits/exhibitor5.png" alt="Raised Lines Foundation Logo"></a></div>  
+					
+                </div>
+                
+                <div class="col-md-4 col-sm-4 center">
+                    <div><a href="https://digitizeindia.gov.in/"><img src="assets/images/exhibits/exhibitor6.png" alt="Digital India Logo"></a></div>  
+					
+                </div>
+                
+                <div class="col-md-4 col-sm-4 center">
+                    <div><a href="http://enability.in/"><img src="assets/images/exhibits/exhibitor7.png" alt="
+Enability Foundation For Rehabilitation Logo"></a></div>          
+                </div>
+                
+                <div class="col-md-4 col-sm-4 center">
+                                    <div><a href="http://torchit.in/"><img src="assets/images/exhibits/exhibitor8.png" alt="
+                Torch It Logo"></a></div>  
+                </div>
+				
+                <div class="col-md-4 col-sm-4 center">
+                                    <div><a href="https://www.bookshare.org/cms/international"><img src="assets/images/exhibits/exhibitor9.png" alt="
+                Bookshare Logo"></a></div>	
+                </div>
+				 
+            </div>
+        </div>
+
+	</section>
 <?php include 'assets/includes/footer.php' ?>   

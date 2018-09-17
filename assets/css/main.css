@@ -6,14 +6,14 @@
  * 2.0 Global Style
  */
 html {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 16px;
 }
 
 body {
-  color: #4e4e4e;
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  color: #000;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 11pt;
   font-weight: 300;
   line-height: 1.6;
   position: relative;
@@ -44,7 +44,7 @@ p {
 }
 
 ul li {
-  font-weight: 700;
+  
   margin-bottom: 10px;
 }
 
@@ -116,9 +116,9 @@ ul li {
 .form-control {
   border-radius: 0;
   box-shadow: none;
-  height: 48px;
-  padding: 10px 12px;
-  font-size: 16px;
+  height: 38px;
+  padding: 5px 12px;
+  font-size: 14px;
   line-height: 1.6;
 }
 .form-control:focus {
@@ -139,12 +139,11 @@ ul li {
 }
 
 .section {
-  padding: 70px 0;
+  padding: 50px 0;
 }
 
 .section-title {
   color: #313131;
-  letter-spacing: 1px;
   margin: 0 0 20px;
   text-transform: uppercase;
   text-align: center;
@@ -242,7 +241,7 @@ ul li {
 
 @media (min-width: 768px) {
   .section {
-    padding: 90px 0;
+    padding: 50px 0;
   }
 
   .section-title {
@@ -327,13 +326,33 @@ ul li {
 /* 
  * 5.0 Site Header
  */
-.site-header {
+
+.site {
   width: 100%;
   min-height: 700px;
   position: relative;
   text-align: center;
   background: url(../images/backgrounds/header.jpg) no-repeat center center/cover;
-  /*display: table;*/
+  
+}
+.site::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.site-header {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  text-align: center;
+  background: url(../images/backgrounds/header.jpg) no-repeat center center/cover;
+  
 }
 .site-header::before {
   content: "";
@@ -357,12 +376,12 @@ ul li {
 }
 .site-header .intro h2 {
   margin-top: 0px;
-  font-size: 25px;
+  font-size: 1rem;
   font-weight: 300;
 }
 .site-header .intro h1 {
   margin-top: 0px;
-  font-size: 30px;
+  font-size: 1.5rem;
 }
 .site-header .intro p {
   font-size: 20px;
@@ -373,7 +392,7 @@ ul li {
 @media (min-width: 768px) {
   .navbar-custom {
     background-color: transparent;
-    padding: 20px 0;
+    padding: 12px 0;
   }
   
   .navbar-custom .site-branding{
@@ -424,6 +443,8 @@ ul li {
 .speaker h4 {
   margin-top: 15px;
   margin-bottom: 5px;
+  text-transform: capitalize;
+  font-size: 14pt;
 }
 .speaker p {
   margin-bottom: 5px;
@@ -650,6 +671,12 @@ ul li {
 	width:15%;
 }
 
+.daily_program table tr th{
+	padding:5px;
+	font-size:12pt;
+	text-align:center;
+}
+
 .tr0{
 	background:#ffdca2;
 }
@@ -672,4 +699,17 @@ ul li {
 	color:#000;
 	text-align:center;
 	font-weight:500;
+}
+
+
+.center{
+	text-align:center;
+}
+
+.committee_heading{
+	    color: #192442;
+    background: #FFCD38;
+    padding: 10px;
+    text-align: center;
+    margin: 0 0 40px 0;
 }
