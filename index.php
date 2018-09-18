@@ -26,7 +26,7 @@
                     <p style="text-align:justify;">The EMPOWER 2018 conference is being organized to bring together all stakeholders in the space of Assistive Technologies for people with disabilities. This includes users, user organizations, industries, special educators, inclusive designers, healthcare professionals,  entrepreneurs, policy makers and researchers engaged in
 different ways with the issues involved in the creation, production, and dissemination of assistive technology solutions. This three-day event will see the active participation of all stakeholders not only to discuss current solutions but also to seed ideas to work on future solutions.<br><br>
 Apart from an exhibition the event would consist of keynote talks, invited presentations, panel discussions, posters, tutorials, user forums and design challenges. Registrations are <a href="#registration"> now open </a>for individuals and organizations to participate. Participants can <a href="#participate"> submit their paper</a> for review and <a href="#sponsorship"> exhibit their products and innovations</a> and also <a
-href="">participate in design challenges</a>. <br><br> The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.  Proposals are invited for which further details can be found <a href="#participate">here</a> .</p>
+href="">participate in design challenges</a>. <br><br> The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.</p>
 
                     
 
@@ -337,14 +337,14 @@ presentation in the relevant technical session.
                 <div class="tab-content card daily_program" >
                     <!--Panel 1-->
                     <div class="tab-pane fade in active" id="panel1" role="tabpanel">
-                        <br>
+                        
                         <table>
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
-                            	<td colspan="4" >Day -1 | Thursday, 25<sup>th </sup> October 2018 </td>
+                            	<td colspan="4" >Thursday, 25<sup>th </sup> October 2018 </td>
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 1A Innauguration | Keynote: Dr. T.V. Raman (Google, USA) </td>
+                                <td colspan="3"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA) </td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -352,9 +352,9 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM</td>
-                                <td>Session 2A: Speech & Hearing Impaired  |  Organizer: S. Akila (NISH)</td>
-                                <td>Session 2B: User Interfaces |  Organizer: Aman</td>
-                                <td>Session 2C: Antarchakshu - Grp 1  |  Organizer: Krishna Warrier (XRCVC)</td>
+                                <td><b>Session 2A:</b> Augmentative and Alternative Communication<br><i>Chair: Dr. Sudha Kaul<br>Organizer: S. Akila (NISH)</i></td>
+                                <td><b>Session 2B:</b> User Interfaces <br>  <i>Organizer: Aman Parnami</i></td>
+                                <td><b>Session 2C:</b> Antarchakshu - Grp 1  <br><i>  Organizer: Krishna Warrier (XRCVC)</i></td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -362,9 +362,9 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 3A: Speech & Hearing Impaired  - P2 | Organizer: S. Akila (NISH)</td>
-                                <td>Session 3B: TV Raman with STEM students | Organizer: Himanshu Garg</td>
-                                <td>Session 3C: Antarchakshu - Grp 2 | Organizer: Krishna Warrier (XRCVC)</td>
+                                <td><b>Session 3A:</b> AT for speech and hearing impairment<br><i>Chair: Dr. Ajish Abraham <br> Organizer: S. Akila (NISH)</i></td>
+                                <td><b>Session 3B:</b> TV Raman with STEM students <br><i> Coordinator: Himanshu Garg</i></td>
+                                <td><b>Session 3C:</b> Antarchakshu - Grp 2 <br><i> Organizer: Krishna Warrier (XRCVC)</i></td>
                             </tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -372,7 +372,7 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 4A  Keynote: TBD</td>
+                                <td colspan="3"><b>Session 4A  Keynote:</b> TBD</td>
                             </tr>
                         </table>
                     </div>
@@ -381,11 +381,11 @@ presentation in the relevant technical session.
                     <div class="tab-pane fade" id="panel2" role="tabpanel" >
                         <table>
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
-                            	<td colspan="4" >Day -2 | Friday, 26<sup>th </sup> October 2018 </td>
+                            	<td colspan="4" >Friday, 26<sup>th </sup> October 2018 </td>
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 5A Keynote: Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University) </td>
+                                <td colspan="3"><b>Session 5A Keynote:</b> Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University) </td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -393,9 +393,9 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM</td>
-                                <td>Session 6A: Affordable Assistive Technology Solutions |  Organizer: Anil Prabhakar/S. Akila</td>
-                                <td>Session 6B: Cognitive Disability related - P1  |   Organizer: Anupam Basu</td>
-                                <td>Session 6C: Diagram and Maths accessibility for VI |  Organizer:Akashdeep Bansal </td>
+                                <td><b>Session 6A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer: Anil Prabhakar/S. Akila</i></td>
+                                <td><b>Session 6B:</b> Cognitive Disability related - P1  <br><i>   Organizer: Anupam Basu</i></td>
+                                <td><b>Session 6C:</b> Diagram and Maths accessibility for VI <br><i>  Organizer:Akashdeep Bansal</i> </td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -403,9 +403,9 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 7A: Affordable Assistive Technology Solutions |  Organizer:Anil Prabhakar/S. Akila</td>
-                                <td>Session 7B: Cognitive Disability related -P2 |  Organizer: Anupam Basu</td>
-                                <td>Session 7C:  Infty Reader Workshop |  Organizer: Akashdeep Bansal</td>
+                                <td><b>Session 7A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer:Anil Prabhakar/S. Akila</i></td>
+                                <td><b>Session 7B:</b> Cerebral Palsy and Neuro Motor Disabilities <br> <i> Organizer: Anupam Basu</i></td>
+                                <td><b>Session 7C:</b>  Infty Reader Workshop <br><i>  Organizer: Dr. Kanahori<br> Coordinator: Akashdeep Bansal</i></td>
                             </tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -413,11 +413,11 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 8 A  |     Keynote: Prof. Volker Sorge <br> </td>
+                                <td colspan="3"><b>Session 8A Keynote:</b> Prof. Volker Sorge <br> </td>
                             </tr>
 							<tr class="tr1">
                             	<td>6:00 PM</td>
-                                <td colspan="3">Banquet Dinner @ Choki Dhani (Return by 10:00 PM) |     Organizer: 		</td>
+                                <td colspan="3">Banquet Dinner @ Choki Dhani (Return by 10:00 PM)</td>
                             </tr>
                         </table>
                     </div>
@@ -427,11 +427,11 @@ presentation in the relevant technical session.
                         
                         <table>
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
-                            	<td colspan="4" >Day -3 | Saturday, 27<sup>th </sup> October 2018 </td>
+                            	<td colspan="4" >Saturday, 27<sup>th </sup> October 2018 </td>
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3">Session 9A Keynote: Mr. Saqib Shaikh (Microsoft, USA)<br> (To be confirmed)</td>
+                                <td colspan="3"><b>Session 9A Keynote:</b> Mr. Saqib Shaikh (Microsoft, USA)<br> (To be confirmed)</td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -439,9 +439,9 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM</td>
-                                <td>Session 10A: Orthopaedic related  - P1 |  Organizer: Nekram</td>
-                                <td>Session 10B: Digital world accessibility |  Organizer: Neha Jadhav</td>
-                                <td>Session 10C: Users engage with Design + Engineering Students  |  Organizer: PVM Rao + Supradip Das</td>
+                                <td><b>Session 10A:</b> Assistive Technology for Mobility: Principles and Practices in India - P1 <br><i> Organizer: Nekram</i></td>
+                                <td><b>Session 10B:</b> Digital world accessibility <br><i> Organizer: Dipendra Manocha<br>  Coordinator: Neha Jadhav</i></td>
+                                <td><b>Session 10C:</b> Users engage with Design + Engineering Students  <br> <i> Organizer: PVM Rao + Supradip Das</i></td>
                             </tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -449,9 +449,9 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM</td>
-                                <td>Session 11A: Orthopaedic related - P2      | Organizer: Nekram</td>
-                                <td>Session 11B: AI in Assistive Technology   | Organizer: Anupam Sobti</td>
-                                <td>Session 11C:  Users engage with Design + Engineering Students |  Organizer: PVM Rao + Supradip Das</td>
+                                <td><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Organizer: Nekram</i></td>
+                                <td><b>Session 11B:</b> AI in Assistive Technology <br><i> Organizer: Anupam Sobti</i></td>
+                                <td><b>Session 11C:</b> Users engage with Design + Engineering Students <br><i>  Organizer: PVM Rao + Supradip Das</i></td>
                             </tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -459,7 +459,7 @@ presentation in the relevant technical session.
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3">Session 12A  | Panel Discussion & Closing Ceremony </td>
+                                <td colspan="3"><b>Session 12A:</b> Panel Discussion & Closing Ceremony </td>
                             </tr>
                         </table>
                     </div>
@@ -599,8 +599,6 @@ presentation in the relevant technical session.
 					<div class="col-md-4">
 						<div>Prof. Ajish Abraham<br>Electronics & Acoustics<br>AIISH-Mysore</div>
 					</div>
-					<br>
-
 					<div class="col-md-4">
 						<div> Sri. Gopan George<br>Principal Engineer<br>CDAC, Thiruvananthapuram</div>
 					</div>
@@ -620,8 +618,65 @@ presentation in the relevant technical session.
 						<div> Dr. Ramaa S.<br>Dean of Instruction, Professor of Special Education<br>Regional Institute of Education (NCERT), Mysuru</div>
 					</div>
 				
+					<div class="col-md-4">
+						<div>Swati Chakraborty<br>IICP</div>
+					</div>
+			 
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-4">
+						<div>Dr. Charudatta Jadhav<br>TCS<br></div>
+					</div>
+
+					<div class="col-md-4">
+						<div>Sumeet Agrawal<br>TCS</div>
+					</div>
+				
+					<div class="col-md-4">
+						<div>Pradip Sinha<br>Chairperson<br>Society for the Empowerment of the Deafblind</div>
+					</div>
+			 
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-4">
+						<div>Dr. Akila S.<br>NISH<br></div>
+					</div>
+					<div class="col-md-4">
+						<div>Bhavna Botta<br>Editor in Chief<br>Connect Special</div>
+					</div>
+				
+					<div class="col-md-4">
+						<div>Dr. Jacob Roy<br>THFI, Kerala<br></div>
+					</div>
+			 
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-4">
+						<div>S G Akhil<br>ICFOSS, Kerala<br></div>
+					</div>
+					<div class="col-md-4">
+						<div>Prof. Anupam Basu<br>IIT Kharagpur<br></div>
+					</div>
+				
+					<div class="col-md-4">
+						<div>Kasthuri<br>IIT Chennai<br></div>
+					</div>
+			 
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-4">
+						<div>Dr. Sudha Kaul<br>Vice Chairperson<br>Indian Institute of Cerebral Palsy</div>
+					</div>
+					<div class="col-md-4">
+						<div>Namita Jacob<br>Chetana Charitable Trust<br></div>
+					</div>
+				
 					<!--<div class="col-md-4">
-						<div> Prof. Tirthankar Das Gupta<br>IIT Kharagpur</div>
+						<div>Kasthuri<br>IIT Chennai<br></div>
 					</div>-->
 			 
 				</div>
@@ -858,23 +913,25 @@ presentation in the relevant technical session.
             	<div class="col-md-4 center">
                     <h4 style="color:#192442;">General Program Chair</h4>
                     <div><img src="assets/images/chairs/chair1.png" alt="Prof. M. Balakrishnan"></div>  
-                    <div>Prof. M. Balakrishnan 
-					<a href="http://www.cse.iitd.ernet.in/~mbala/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. M. Balakrishnan's webpage"></a>
+                    <div><a href="http://www.cse.iitd.ernet.in/~mbala/" target="_blank">Prof. M. Balakrishnan</a>
+					<!--<a href="http://www.cse.iitd.ernet.in/~mbala/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. M. Balakrishnan's webpage"></a>-->
 					<a href="mailto:mbala@cse.iitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. M. Balakrishnan's email"></a><br>IIT Delhi<br></div>
                 </div>
             
                 <div class="col-md-4 center">
 				<h4 style="color:#192442;">Organizing Chair</h4>
             	<div><img src="assets/images/chairs/chair2.png" alt="Prof. P.V.M. Rao"></div>  
-                <div>Prof. P.V.M. Rao 
-				<a href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. P.V.M. Rao's webpage"></a>
+                <div><a href="http://web.iitd.ac.in/~pvmrao/" target="_blank">Prof. P.V.M. Rao </a>
+				<!--<a href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. P.V.M. Rao's webpage"></a>-->
 				<a href="mailto:pvmrao@mech.iitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. P.V.M. Rao's email"></a><br>IIT Delhi</div>
          </div>
 		 
                 <div class="col-md-4 center">
 				<h4 style="color:#192442;">Finance Chair</h4>
             	<div><img src="assets/images/chairs/chair3.png" alt="Mr. Nekram Upadhyay"></div>  
-                <div>Mr. Nekram Upadhyay <a href="http://nekramupadhyay.com/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Mr. Nekram Upadhyay's webpage"></a> <a href="mailto:assistivetech@isiconline.org"><img src="assets/images/chairs/message.png" alt="Link to Mr. Nekram Upadhyay's email"></a><br>Indian Spinal Injuries Center</div>
+                <div><a href="http://nekramupadhyay.com/" target="_blank">Mr. Nekram Upadhyay </a>
+				<!--<a href="http://nekramupadhyay.com/" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Mr. Nekram Upadhyay's webpage"></a> -->
+				<a href="mailto:assistivetech@isiconline.org"><img src="assets/images/chairs/message.png" alt="Link to Mr. Nekram Upadhyay's email"></a><br>Indian Spinal Injuries Center</div>
          </div>
 		 
 		 </div>
@@ -883,19 +940,25 @@ presentation in the relevant technical session.
             	<div class="col-md-4 center">
 				<h4 style="color:#192442;">Exhibit Chair</h4>
             	<div><img src="assets/images/chairs/chair4.png" alt="Mr. Dipendra Manocha"></div>  
-                <div>Mr. Dipendra Manocha <a href="http://www.daisy.org/stories/dipendra-manocha" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Mr. Dipendra Manocha's webpage"></a> <a href="mailto:dipendra.manocha@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Mr. Dipendra Manocha's email"></a><br>Saksham Trust</div>
+                <div><a href="http://www.daisy.org/stories/dipendra-manocha" target="_blank">Mr. Dipendra Manocha</a> 
+				<!--<a href="http://www.daisy.org/stories/dipendra-manocha" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Mr. Dipendra Manocha's webpage"></a>--> 
+				<a href="mailto:dipendra.manocha@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Mr. Dipendra Manocha's email"></a><br>Saksham Trust</div>
          </div>
             
                 <div class="col-md-4 center">
 				<h4 style="color:#192442;">General Program Vice Chair</h4>
             	<div><img src="assets/images/chairs/chair5.png" alt="Prof. Anil Prabhakar"></div>  
-                <div>Prof. Anil Prabhakar <a href="http://www.iitm.ac.in/info/fac/anilpr" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. Anil Prabhakar's webpage"></a> <a href="mailto:anilpr@iitm.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. Anil Prabhakar's email"></a><br>IIT Madras</div>
+                <div><a href="http://www.iitm.ac.in/info/fac/anilpr" target="_blank">Prof. Anil Prabhakar</a>
+				<!--<a href="http://www.iitm.ac.in/info/fac/anilpr" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. Anil Prabhakar's webpage"></a>--> 
+				<a href="mailto:anilpr@iitm.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. Anil Prabhakar's email"></a><br>IIT Madras</div>
          </div>
 		 
                 <div class="col-md-4 center">
 				<h4 style="color:#192442;">Website Chair</h4>
             	<div><img src="assets/images/chairs/chair6.png" alt="Prof. Aman Parnami"></div>  
-                <div>Prof. Aman Parnami <a href="http://www.iiitd.ac.in/aman" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. Aman Parnami's webpage"></a> <a href="mailto:aman@iiitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. Aman Parnami's email"></a><br>IIIT Delhi</div>
+                <div><a href="http://www.iiitd.ac.in/aman" target="_blank">Prof. Aman Parnami </a>
+				<!--<a href="http://www.iiitd.ac.in/aman" target="_blank"><img src="assets/images/chairs/link.png" alt="Link to Prof. Aman Parnami's webpage"></a>-->
+				<a href="mailto:aman@iiitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Prof. Aman Parnami's email"></a><br>IIIT Delhi</div>
          </div>
 		 
 		 </div>
@@ -938,11 +1001,28 @@ presentation in the relevant technical session.
                 <!-- new code added-->
 			<div class="row">
 				<div class="col-md-4">
-					<div>Dr. Rajendra Prasad<br>Indraprastha Apollo Hospitals New Delhi</div>
+					<div>Dr. Rajendra Prasad<br>Indian Head Injury Foundation</div>
+				</div>
+				<div class="col-md-4">
+					<div>Prof. Deepti Gupta<br>Department of Textile Technology, IIT Delhi</div>
+				</div>
+				<div class="col-md-4">
+					<div> V. Sashi Kumar<br>Phoenix Medical Systems</div>
 				</div>
 			 </div>
 			 <br>
 			 <!-- new code added ends-->
+			 <div class="row">
+				<div class="col-md-4">
+					<div>Dr. Rohan Paul<br>MIT</div>
+				</div>
+				<!--<div class="col-md-4">
+					<div>Prof. Deepti Gupta<br>Department of Textile Technology, IIT Delhi</div>
+				</div>
+				<div class="col-md-4">
+					<div> V. Sashi Kumar<br>Phoenix Medical Systems</div>
+				</div>-->
+			 </div>
 		 </div>
 		 
 		 <div id="advisoryMembers" class="advMembers" style="margin-bottom:60px;">

@@ -57,6 +57,7 @@
            
             
             <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>
+			<h2>where users, academia and industry meet to talk about Assistive Technology</h2>
             <h2>25 - 27 October 2018</h2>
             <a class="btn btn-white" data-scroll href="register">Register Now</a>
         
