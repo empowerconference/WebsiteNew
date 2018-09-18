@@ -713,3 +713,10 @@ ul li {
     text-align: center;
     margin: 0 0 40px 0;
 }
+
+.input_date{
+	outline:none;
+	padding:5px;
+	    width: 75px;
+    font-size: 9pt;
+}

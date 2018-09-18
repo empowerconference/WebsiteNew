@@ -61,14 +61,14 @@
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Registration</li>
+                <li class="breadcrumb-item active" aria-current="page">Room Booking</li>
               </ol>
             </nav>		
             
             <section>
             <div class="bootstrap-iso">
              <div class="container wrap" >
-                <div class="col-md-8 col-sm-12">
+                <div class="col-md-10 col-sm-12">
                     <h2 class="section-title">Room Booking</h2></br>
                     
                     <form method="post" action="room_booking.php">
@@ -104,51 +104,59 @@
 				<label>Affiliation<span style="color:red;">*</span> </label> <br />
 				<input name="affiliation" class="form-control" id="address" value="" placeholder='Enter your organization name' required />
 				</div>
-			
+				
+				
+				<div class="row form_css" style="margin:35px 20px;">	
+				<div style="font-family: 'Tahoma', sans-serif!important; font-weight: 100!important; font-size: 12pt; padding: 5px;">Booking Dates</div>
+				 <div class="col-md-12" style="margin: 4px 0px; border: 1px solid #CCC!important; border-radius: 2px!important; padding: 20px 0;">
+					<div class=" col-md-6">
+					<label style="font-size:10pt;">Enter Check-In Date<span style="color: red;"> *</span><br/></label>
+					<input type="text" id="check-in" class="input_date" name="checkin" placeholder='Check-In' required onchange="displayVals();" />
+					Oct 2018				
+					</div>				
+					
+				
+					<div class="col-md-6">
+					<label style="font-size:11pt;">Enter Check-Out Date <span style="color: red;"> *</span><br/></label>
+					<input type="text" id="check-out" class="input_date" name="checkout" placeholder='Check-Out' required onchange="displayVals();" />
+					Oct 2018
+					</div>
+				 </div>
+				</div>
+				
 				<div class="form_css">
 				<label for="sel1">Occupancy Type<span style="color:red;">*</span></label><br>
 				  <select id="sel" name="type" class="form-control" required>
+					<option id ="o" value="select">Select</option>
 					<option id ="a" value="single">Single Occupancy</option>
 					<option id="b" value="double">Double Occupancy</option>
 					
 				  </select>
 			    </div>
-				
-				<div class="form_css">Check-In<span style="color: red;"> *</span><br/>
-				<input type="date" id="pick_date" name="check-in" placeholder='Enter Check-In date' required class="form-control" onchange="cal()"/>
-				</div>				
-      
-			
-				<div class="form_css"> Check-Out <span style="color: red;"> *</span><br/>
-				<input type="date" id="drop_date" name="check-out" class="form-control" placeholder='Enter Check-Out date' onchange="cal()" class="form-control" required />
-				</div>
-				
-				<div class="form_css">Number of Days<span style="color: red;"> *</span><br/>
-				<input type="number"  id="numdays2" name="numdays" class="form-control"/>
-				</div>
-				
-				 
-	
-				<div class="form_css">
-				<label>Total Amount (in INR)<span style="color:red;">*</span></label>
-				<input type="text" name="amount" class="form-control" id="amount" value="" readonly/>
-				</div>
-				
-				
+								 
 				<div class="form_css">Questions / Comments<br/>
-				<textarea id="data_10" false name="comment" class="form-control"></textarea>
-				</div>
-				
-				<div class="form_css" style="display:none;">
-				<label>Booking Date</label>
-				<input type="text" name="date" class="form-control" readonly value="<?php echo date('d/m/y');?>"/>
+				<input type="text" name="questions" class="form-control" />
 				</div>
 				
 				
-          
-		  <div class="form_css" style="text-align:center">
-		<input type='submit' id='btn' class="btn btn-primary" name="submit" Value='Submit' /><br />
-	 	</div>  
+				<div class="form_css">
+				<label class="col-md-3">Total Amount (in INR) :</label>
+				<input type="text" name="amount" class="col-md-6" style=" color: darkgreen; border: none!important; background: none;  font-size: 13pt;
+                 width: 50%; font-weight: bold; padding:5px;" id="amount" value="" readonly/>
+				</div>
+				
+				
+				
+				
+				<div class="form_css" style="display:none;" >No. of Days<br/>
+				<input id="days" name="days" class="form-control" />
+				</div>
+				
+				<div class="clearfix"></div>
+				          
+			  <div class="form_css" style="text-align:center">
+				<input type='submit' id='btn' class="btn btn-primary" name="submit" Value='Submit' /><br />
+			  </div>  
 		 
 <?php
 		include "include/redirect_bookings.php";
@@ -162,58 +170,37 @@
     </script>
 
 <script>
-     function GetDays(){
-                var dropdt = new Date(document.getElementById("drop_date").value);
-                var pickdt = new Date(document.getElementById("pick_date").value);
-                return parseInt((dropdt - pickdt) / (24 * 3600 * 1000));
-        }
-
-        function cal(){
-        if(document.getElementById("drop_date")){
-            document.getElementById("numdays2").value=GetDays();
-        }  
-    }
-
-
+     
 function displayVals() {    
-    
-	
+  
+	var datein = $("#check-in").val();
+	var dateout = $("#check-out").val();
+	var days = dateout - datein;
+	var am;
   var singleValues = $( "#sel" ).val();
-
-  	if ((singleValues == "single") & (days == 1)){
-			alert("1 day");
-			$("#amount").val("2950");	
-			document.getElementById("ref").style.display = "none";
+	if (singleValues == "select") {
+			var am = days * 0
+			$("#amount").val(am);
+			$("#days").val(days);			
+			
 		}  
 	
-	else if ((singleValues == "single") & (days == 2)){
-		alert("2 days");
-			$("#amount").val("5900");	
-			document.getElementById("ref").style.display = "none";
+	
+	
+  	else if (singleValues == "single") {
+			var am = days * 2950
+			$("#amount").val(am);	
+			$("#days").val(days);
+			
 		}  
 	
-
-	else if ((singleValues == "single") & (days == "3")){
-			$("#amount").val("8850");	
-			document.getElementById("ref").style.display = "none";
-		}
 		
-	else if ((singleValues == "double") & (days == "1")){
-			$("#amount").val("1592");	
-			document.getElementById("ref").style.display = "none";
+	else if (singleValues == "double"){
+			var am = days * 1592
+			$("#amount").val(am);	
+			$("#days").val(days);
+			
 		}	 
-		
-	else if ((singleValues == "double") & (days == "2")){
-			$("#amount").val("3186");	
-			document.getElementById("ref").style.display = "none";
-		}
-		
-	else if ((singleValues == "double") & (days == "3")){
-			$("#amount").val("4776");	
-			document.getElementById("ref").style.display = "none";
-		}	 
-		
-		
 }    
 
 
