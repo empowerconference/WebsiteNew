@@ -443,9 +443,9 @@ href="">participate in design challenges</a>. <br><br> The venue is <a href="htt
 						<div>Namita Jacob<br>Chetana Charitable Trust<br></div>
 					</div>
 				
-					<!--<div class="col-md-4">
-						<div>Kasthuri<br>IIT Chennai<br></div>
-					</div>-->
+					<div class="col-md-4">
+						<div>S Kanagaraj<br>Department of Mechanical Engineering, IIT Guwahati<br></div>
+					</div>
 			 
 				</div>
             </div>
