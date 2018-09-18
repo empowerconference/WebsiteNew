@@ -23,8 +23,10 @@
 
                     <h3 class="section-title">About the Conference</h3>
 
-                    <p style="text-align:justify;">The EMPOWER 2018 conference is being organized to bring together all stakeholders in the assistive technology sector. This includes researchers, user organizations, industries as well as policymakers engaged in different ways with the issues involved in the creation, production, and dissemination of assistive technology solutions. This three-day event will see the active participation of all stakeholders not only to discuss current solutions but also to seed ideas for research groups to work on.<br><br>
-The event would consist of keynote talks, invited papers, submitted and reviewed papers, posters, tutorials, user forums, a panel discussion as well as an exhibition. The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.  Proposals are invited for which further details can be found <a href="#participate">here</a> .</p>
+                    <p style="text-align:justify;">The EMPOWER 2018 conference is being organized to bring together all stakeholders in the space of Assistive Technologies for people with disabilities. This includes users, user organizations, industries, special educators, inclusive designers, healthcare professionals,  entrepreneurs, policy makers and researchers engaged in
+different ways with the issues involved in the creation, production, and dissemination of assistive technology solutions. This three-day event will see the active participation of all stakeholders not only to discuss current solutions but also to seed ideas to work on future solutions.<br><br>
+Apart from an exhibition the event would consist of keynote talks, invited presentations, panel discussions, posters, tutorials, user forums and design challenges. Registrations are <a href="#registration"> now open </a>for individuals and organizations to participate. Participants can <a href="#participate"> submit their paper</a> for review and <a href="#sponsorship"> exhibit their products and innovations</a> and also <a
+href="">participate in design challenges</a>. <br><br> The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.  Proposals are invited for which further details can be found <a href="#participate">here</a> .</p>
 
                     
 
@@ -69,7 +71,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
                 <div class="col-sm-4">
                 
                     <i class="ion-speakerphone"></i>
-                    <h3>05<br>Key Note Speakers</h3>
+                    <h3> Engage, Exhibit<br>and Experience</h3>
                 
                 </div>
             </div><!-- row -->
@@ -95,7 +97,7 @@ The event would consist of keynote talks, invited papers, submitted and reviewed
         
         <p>
         Submission Guidelines:<br>
-        The abstract should be of 2 pages (excluding references). For detailed guidelines please use the ACM SIGCHI Extended Abstract format for submission.<br>
+        The abstract should be of 2 pages (excluding references). Please use the below format for submission.<br>
         <a href="SIGCHIExtendedAbstractsFormat.docx">Word</a> | <a href="Document-Formats-masterX.zip">LateX</a> | 
         <a href="SIGCHIExtendedAbstractsFormat.pdf">View Sample Extended Abstract</a> 
 		</p>
@@ -214,7 +216,7 @@ presentation in the relevant technical session.
                         </div>
 
                         <div class="form-group">
-                            <select class="form-control" name="program" id="program" required>
+                            <select class="form-control" name="program" id="program" req.ired>
                                 <option readonly>Select Your Program</option>
                                 <option>Program Name 1</option>
                                 <option>Program Name 2</option>
@@ -981,11 +983,11 @@ presentation in the relevant technical session.
 					<div>Dr. Sudha Kaul<br>Vice Chairperson, founder Principal<br>Indian Institute of Cerebral Palsy, Centre for Special Education</div>
 				</div>
 				
-				<!--<div class="col-md-4">
-					<div>Mukesh Jain<br>Madhya Pradesh Govt</div>
+				<div class="col-md-4">
+					<div>Shilpi Kapoor<br>Founder<br>Barrier Break</div>
 				</div>
 				
-				<div class="col-md-4">
+				<!--<div class="col-md-4">
 					<div>Prof. Luc de Witte<br>Chair in Health Services Research, School of Health and Related Research, University of Sheffield</div>
 				</div>-->
 			 
@@ -1149,4 +1151,4 @@ Enability Foundation For Rehabilitation Logo"></a></div>
         </div>
 
 	</section>
-<?php include 'assets/includes/footer.php' ?>   
+<?php include 'assets/includes/footer.php' ?>  
