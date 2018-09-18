@@ -48,22 +48,6 @@
 <body data-spy="scroll" data-target="#site-nav">
 
 <div id="wrap" class="wrap">
-<header id="site-header" class="site-header valign-center"> 
-        
-        <div id="intro" class="intro">
-		<!-- logo -->
-                
-            <img src="assets/images/logo_big.png" alt="Logo" style=" width: 100%; height: auto; max-width: 594px;">
-           
-            
-            <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>
-			<h2>where users, academia and industry meet to talk about Assistive Technology</h2>
-            <h2>25 - 27 October 2018</h2>
-            <a class="btn btn-white" data-scroll href="register">Register Now</a>
-        
-        </div>
-    </header>
-
 <nav id="site-nav" class="navbar navbar-custom" data-spy="affix" data-offset-top="700">
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
