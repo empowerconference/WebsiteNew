@@ -26,7 +26,7 @@
                     <p style="text-align:justify;">The EMPOWER 2018 conference is being organized to bring together all stakeholders in the space of Assistive Technologies for people with disabilities. This includes users, user organizations, industries, special educators, inclusive designers, healthcare professionals,  entrepreneurs, policy makers and researchers engaged in
 different ways with the issues involved in the creation, production, and dissemination of assistive technology solutions. This three-day event will see the active participation of all stakeholders not only to discuss current solutions but also to seed ideas to work on future solutions.<br><br>
 Apart from an exhibition the event would consist of keynote talks, invited presentations, panel discussions, posters, tutorials, user forums and design challenges. Registrations are <a href="#registration"> now open </a>for individuals and organizations to participate. Participants can <a href="#participate"> submit their paper</a> for review and <a href="#sponsorship"> exhibit their products and innovations</a> and also <a
-href="">participate in design challenges</a>. <br><br> The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.</p>
+href="coming_soon.php">participate in design challenges</a>. <br><br> The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.</p>
 
                     
 
