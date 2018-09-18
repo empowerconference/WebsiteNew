@@ -670,7 +670,7 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
      </div>    
      
      <div class="col-md-12">
-	<h3> Accessible Submission:</h3>
+	<h3> Poster Submission:</h3>
      <p>   Your PDF file must be accessible. PDFs created with LaTex are very difficult to make accessible unless you edit the output directly in Acrobat; we strongly suggest using Microsoft Word due to the easier accessibility workflow. It may take you about an hour to make your file accessible (adding alt tags, etc.), so be sure to leave time before the submission deadline to do so. Please refer to the instructions on <a href="http://assets18.sigaccess.org/creating_accessible_pdfs.html">Creating an Accessible ACM Conference Paper</a> for information on how to accomplish this.<br>
 <br>
         Note that making an accessible PDF is not well-supported by any standard LaTex editors that we are aware of. If you use LaTex you will need to manually edit your PDF using Adobe Acrobat in order to make it accessible.
