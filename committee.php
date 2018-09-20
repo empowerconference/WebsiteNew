@@ -1,4 +1,4 @@
-<?php include 'assets/includes/header3.php' ?>
+<?php include 'assets/includes/header2.php' ?>
 <a class="anchor" id="people"></a>
 	
     <section id="people" class="people">

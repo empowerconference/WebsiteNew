@@ -141,7 +141,7 @@
 				
 				<div class="form_css">
 				<label class="col-md-3">Total Amount (in INR) :</label>
-				<input type="text" name="amount" class="col-md-6" style=" color: darkgreen; border: none!important; background: none;  font-size: 13pt;
+				<input type="text" name="room_amount" class="col-md-6" style=" color: darkgreen; border: none!important; background: none;  font-size: 13pt;
                  width: 50%; font-weight: bold; padding:5px;" id="amount" value="" readonly/>
 				</div>
 				

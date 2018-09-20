@@ -20,6 +20,30 @@
     top: -100px;
     visibility: hidden;
 }
+.intro{
+	top:10px!important;
+}
+
+.site-header{
+	min-height:40vh!important;
+}
+
+.navbar-custom{
+		background-color: #192442 !important;
+		padding:5px 0!important;
+	}
+	.navbar-nav{
+		width:100%!important;
+	}
+	
+	.navbar-nav li{
+		width:14%!important;
+	}
+	
+.navbar-custom .site-branding{
+	display:block!important;
+}	
+
 
 </style>
 
@@ -48,7 +72,21 @@
 <body data-spy="scroll" data-target="#site-nav">
 
 <div id="wrap" class="wrap">
-<nav id="site-nav" class="navbar navbar-custom" data-spy="affix" data-offset-top="700">
+	<header id="site-header" class="site-header valign-center"> 
+        
+        <div id="intro" class="intro">
+		<!-- logo -->
+                
+            <img src="assets/images/logo_big.png" alt="Logo" style=" width: 100%; height: auto; max-width: 594px;">
+           
+            
+            <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>
+            <h2>25 - 27 October 2018</h2>
+            
+        
+        </div>
+    </header>
+<nav id="site-nav" class="navbar navbar-custom" data-spy="affix" data-offset-top="200">
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">

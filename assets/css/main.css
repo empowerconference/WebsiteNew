@@ -37,6 +37,21 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  font-family:'Tahoma', Sans-serif;
+}
+
+h1{
+    font-size: 14pt;
+    color: #176183;
+}
+
+h2{
+    font-size: 12pt;
+}
+
+h4{
+	color: #db5200!important;
+    font-size: 12pt;
 }
 
 p {
@@ -444,10 +459,12 @@ ul li {
   margin-top: 15px;
   margin-bottom: 5px;
   text-transform: capitalize;
-  font-size: 14pt;
+  font-size: 12pt;
 }
 .speaker p {
   margin-bottom: 5px;
+  font-size: 11pt;
+  text-transform: capitalize;
 }
 .speaker img:hover {
   opacity: .7;
@@ -708,10 +725,16 @@ ul li {
 
 .committee_heading{
 	    color: #192442;
-    background: #FFCD38;
+    border-bottom: 2px solid orangered;
+    /* border-style: double; */
+    /* background: url(../images/h2-bg.png); */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
     padding: 10px;
     text-align: center;
-    margin: 0 0 40px 0;
+    margin: 36px auto;
+    width: 269px;
 }
 
 .input_date{
@@ -720,3 +743,18 @@ ul li {
 	    width: 75px;
     font-size: 9pt;
 }
+
+.invited-speaker{
+	padding: 20px 10px;
+    margin: 20px 20px;
+    background: #eeeeee;
+    text-align: center;
+	height:153px;
+}
+
+.location{
+	background:url(../images/backgrounds/wall.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+	

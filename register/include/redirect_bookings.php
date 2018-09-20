@@ -14,7 +14,7 @@ if(isset($_POST['submit'])){
 	//$dbname = "formdata";
 	
 	$_SESSION["amount"] = $_POST['amount'];
-	$amount=$_SESSION["amount"];
+	$amount=$_SESSION["room_amount"];
 	$name = $_POST['name'];
 	$gender=$_POST['gender'];
 	$contact = $_POST['contact'];
@@ -41,7 +41,7 @@ if(isset($_POST['submit'])){
 
 		if ($conn->query($sql) === TRUE) {
 			echo '<script type="text/javascript">
-           window.location = "payment.php"
+           window.location = "room_payment.php"
 			</script>';
 			$_POST = array();
 		} else {

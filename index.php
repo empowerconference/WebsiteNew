@@ -21,7 +21,7 @@
             <div class="row">
                 <div class="col-sm-12">
 
-                    <h3 class="section-title">About the Conference</h3>
+                    <h1 class="section-title">About the Conference</h1>
 
                     <p style="text-align:justify;">The EMPOWER 2018 conference is being organized to bring together all stakeholders in the space of Assistive Technologies for people with disabilities. This includes users, user organizations, industries, special educators, inclusive designers, healthcare professionals,  entrepreneurs, policy makers and researchers engaged in
 different ways with the issues involved in the creation, production, and dissemination of assistive technology solutions. This three-day event will see the active participation of all stakeholders not only to discuss current solutions but also to seed ideas to work on future solutions.<br><br>
@@ -78,14 +78,227 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
         </div><!-- container -->
     </section>
 
+
+
+	     
+                
+                <section style="padding-top:120px;" class="col-md-12">
+                	<div class="container">
+					<a class="anchor" id="speakers"></a>
+                    <h1 class="section-title" style="padding-bottom:0px;">Speakers</h1>
+                
+            
+           
+			<h2 class="committee_heading">Keynote Speakers</h2>
+            <div class="col-md-12">
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="Picture of Dr. T.V. Raman" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-1.jpg">
+                        </figure>
+
+                        <h4>Dr. T.V.Raman</h4>
+
+                        <p>Google Research</p>
+                        
+                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. T. V. Raman is an accomplished Computer 
+						Scientist with over 25 years of leadership experience in advanced technology development. During this time, he has authored 3 
+						books and filed over 75 patents; his work on eyes-free interaction has been profiled in mainstream publications including the 
+						New York Times and Scientific American.
+						Dr. Raman now works on user-aware interfaces in the context of the Google Assistant. During his 12+ years as a Google 
+						Research Scientist, he has worked on Google Search, Android and ChromeOS to build the underpinnings of Accessibility on 
+						Google's core platforms. <a href="bio.html" target="_blank">Know More about Dr. T.V. Raman</a> 
+						
+                        </p>
+
+                        
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="Picture of Dr. Katsuhito Yamaguchi" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-2.jpg">
+                        </figure>
+
+                        <h4>Dr. Katsuhito Yamaguchi</h4>
+
+                        <p>Nihon University, Japan</p>
+                        
+						  <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr.  Katsuhito Yamaguchi (Nihon University, Japan) specialises in the development of assistive tools for print disabled people to access scientific and mathematical content. He has been working at Nihon University since April 1990; he is now Professor at Nihon University and COO of NPO: Science Accessibility Net. Dr Yamaguchi is a member of several professional bodies, including the Institute of Electronics, Information and Communication and the Physical Society of Japan
+                        </p>
+                        
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="Picture of Saqib Shaikh" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-3.jpg">
+                        </figure>
+
+                        <h4>Saqib Shaikh (To be confirmed)</h4>
+
+                        <p>Microsoft, Seeing AI</p>
+                         <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Saqib Shaikh (Microsoft) is the Tech Lead of the Seeing AI project which explores how Artificial Intelligence can be leveraged to empower the blind and low vision community to do more. The app gives its user the ability to see what is happening around the user in real-time. His current interest focuses at the intersection of Artificial Intelligence and Inclusive Design to create intelligent machines that level the playing field, and enable us all to do more.
+                        </p>
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+            </div><!-- /.row -->
+			
+			<div class="col-md-12">
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="Picture of Dr. Masakazu Suzuki" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-4.jpg">
+                        </figure>
+
+                        <h4>Dr. Masakazu Suzuki</h4>
+
+                        <p>Kyushu University</p>
+                        
+                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Masakazu Suzuki is Professor Emeritus, Kyushu University. He undertook academic counseling of a blind student in 1995 and keenly realized how difficult accessing math was for visually disabled people. To remove that impediment, he started studies on math accessibility and organized a research group: "Infty Project" in the end 1990s. He has over 50 publications in areas of Complex Analysis, Affine Algebraic Geometry and Mathematical document information processing. His hobbies include fishing, playing GO and not surprisingly mathematical formulae recognition.
+                        </p>
+
+                        
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="Picture of Dr. Volker Sorge" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-6.jpg">
+                        </figure>
+
+                        <h4>Dr. Volker Sorge </h4>
+
+                        <p>University of Birmingham, UK</p>
+                        
+						  <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. Volker Sorge is an Associate Professor at the School of Computer Science, University of Birmingham, UK.  His research interests span a wide range of topics from computational mathematics, classical Artificial Intelligence to image recognition and accessibility. He has been actively working in the field of accessibility to improve access to chemical formulas, diagrams as well as online mathematics.
+                        </p>
+                        
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                
+            </div><!-- /.row -->
+            
+            			<!--new code added-->
+			<div class="row">
+                
+                <a class="anchor" id="invited_speakers" ></a>
+                <div class="row">
+
+                    <!--<h3 class="section-title">Invited Speakers</h3>-->
+					<h2 class="committee_heading">Invited Speakers</h2>
+					<br>
+				<div class="col-md-12">
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Prof. Ajish Abraham</strong><br>Electronics & Acoustics<br>AIISH-Mysore</div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong> Sri. Gopan George</strong><br>Principal Engineer<br>CDAC, Thiruvananthapuram</div>
+					</div>
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"> <strong>Prof. Tirthankar Das Gupta</strong><br>IIT Kharagpur</div>
+					</div>
+			 
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Divya Jalan</strong><br>President, Founder & Trustee<br>Breaking through Dyslexia,Dyslexia Trust of Kolkata</div>
+					</div>
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong> Dr. Ramaa S.</strong><br>Dean of Instruction,<br>Professor of Special Education<br>Regional Institute of Education (NCERT), Mysuru</div>
+					</div>
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Swati Chakraborty</strong><br>IICP</div>
+					</div>
+			 
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Dr. Charudatta Jadhav</strong><br>TCS<br></div>
+					</div>
+
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Sumeet Agrawal</strong><br>TCS</div>
+					</div>
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Pradip Sinha</strong><br>Chairperson<br>Society for the Empowerment of the Deafblind</div>
+					</div>
+			 
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Dr. Akila S.</strong><br>NISH<br></div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Bhavna Botta</strong><br>Editor in Chief<br>Connect Special</div>
+					</div>
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Dr. Jacob Roy</strong><br>THFI, Kerala<br></div>
+					</div>
+			 
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>S G Akhil</strong><br>ICFOSS, Kerala<br></div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Prof. Anupam Basu</strong><br>IIT Kharagpur<br></div>
+					</div>
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Kasthuri</strong><br>IIT Chennai<br></div>
+					</div>
+			 
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Dr. Sudha Kaul</strong><br>Vice Chairperson<br>Indian Institute of Cerebral Palsy</div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>Namita Jacob</strong><br>Chetana Charitable Trust<br></div>
+					</div>
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="invited-speaker"><strong>S Kanagaraj</strong><br>Department of Mechanical Engineering, IIT Guwahati<br></div>
+					</div>
+                    
+                    
+                    
+                    
+                    
+                    
+			 
+				</div>
+            </div>
+			<!--new code added ends-->
+			</div>
+			
+            </div>
+    </section>      
+           <div class="clearfix"></div>     
 	<!--adding program and speaker section here-->
-	<section class="speakers section">
+	<section class="speakers section" style="margin-top:50px;">
 	<div class="container">
         	<div class="row">
-            	<a class="anchor" id="program" ></a>
+            	
                 <div class="col-md-12 ">
+                <a class="anchor" id="program" ></a>
 					
-                    <h3 class="section-title">Tentative Program </h3>
+                    <h1 class="section-title">Tentative Program </h1>
                     
                     
                     
@@ -241,223 +454,14 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                 </div>	
             </div>
         	
-            <div class="row">
-                
-                <a class="anchor" id="speakers" ></a>
-                <section style="padding-top:120px;" class="col-md-12">
-
-                    <h3 class="section-title" style="padding-bottom:0px;">Speakers</h3>
-                
-            </div>
-           
-			<h4 class="committee_heading">Keynote Speakers</h4>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="Picture of Dr. T.V. Raman" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-1.jpg">
-                        </figure>
-
-                        <h4>Dr. T.V.Raman</h4>
-
-                        <p>Google Research</p>
-                        
-                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. T. V. Raman is an accomplished Computer 
-						Scientist with over 25 years of leadership experience in advanced technology development. During this time, he has authored 3 
-						books and filed over 75 patents; his work on eyes-free interaction has been profiled in mainstream publications including the 
-						New York Times and Scientific American.
-						Dr. Raman now works on user-aware interfaces in the context of the Google Assistant. During his 12+ years as a Google 
-						Research Scientist, he has worked on Google Search, Android and ChromeOS to build the underpinnings of Accessibility on 
-						Google's core platforms. <a href="bio.html" target="_blank">Know More about Dr. T.V. Raman</a> 
-						
-                        </p>
-
-                        
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-
-                <div class="col-md-4">
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="Picture of Dr. Katsuhito Yamaguchi" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-2.jpg">
-                        </figure>
-
-                        <h4>Dr. Katsuhito Yamaguchi</h4>
-
-                        <p>Nihon University, Japan</p>
-                        
-						  <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr.  Katsuhito Yamaguchi (Nihon University, Japan) specialises in the development of assistive tools for print disabled people to access scientific and mathematical content. He has been working at Nihon University since April 1990; he is now Professor at Nihon University and COO of NPO: Science Accessibility Net. Dr Yamaguchi is a member of several professional bodies, including the Institute of Electronics, Information and Communication and the Physical Society of Japan
-                        </p>
-                        
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-
-                <div class="col-md-4">
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="Picture of Saqib Shaikh" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-3.jpg">
-                        </figure>
-
-                        <h4>Saqib Shaikh (To be confirmed)</h4>
-
-                        <p>Microsoft, Seeing AI</p>
-                         <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Saqib Shaikh (Microsoft) is the Tech Lead of the Seeing AI project which explores how Artificial Intelligence can be leveraged to empower the blind and low vision community to do more. The app gives its user the ability to see what is happening around the user in real-time. His current interest focuses at the intersection of Artificial Intelligence and Inclusive Design to create intelligent machines that level the playing field, and enable us all to do more.
-                        </p>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-            </div><!-- /.row -->
-			
-			<div class="row">
-                <div class="col-md-4">
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="Picture of Dr. Masakazu Suzuki" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-4.jpg">
-                        </figure>
-
-                        <h4>Dr. Masakazu Suzuki</h4>
-
-                        <p>Kyushu University</p>
-                        
-                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Masakazu Suzuki is Professor Emeritus, Kyushu University. He undertook academic counseling of a blind student in 1995 and keenly realized how difficult accessing math was for visually disabled people. To remove that impediment, he started studies on math accessibility and organized a research group: "Infty Project" in the end 1990s. He has over 50 publications in areas of Complex Analysis, Affine Algebraic Geometry and Mathematical document information processing. His hobbies include fishing, playing GO and not surprisingly mathematical formulae recognition.
-                        </p>
-
-                        
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-
-                <div class="col-md-4">
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="Picture of Dr. Volker Sorge" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-6.jpg">
-                        </figure>
-
-                        <h4>Dr. Volker Sorge </h4>
-
-                        <p>University of Birmingham, UK</p>
-                        
-						  <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. Volker Sorge is an Associate Professor at the School of Computer Science, University of Birmingham, UK.  His research interests span a wide range of topics from computational mathematics, classical Artificial Intelligence to image recognition and accessibility. He has been actively working in the field of accessibility to improve access to chemical formulas, diagrams as well as online mathematics.
-                        </p>
-                        
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-
-                
-            </div><!-- /.row -->
             
-            			<!--new code added-->
-			<div class="row">
-                
-                <a class="anchor" id="invited_speakers" ></a>
-                <div class="col-md-12">
-
-                    <!--<h3 class="section-title">Invited Speakers</h3>-->
-					<h4 class="committee_heading">Invited Speakers</h4>
-					<br>
-				<div class="row">
-					<div class="col-md-4">
-						<div>Prof. Ajish Abraham<br>Electronics & Acoustics<br>AIISH-Mysore</div>
-					</div>
-					<div class="col-md-4">
-						<div> Sri. Gopan George<br>Principal Engineer<br>CDAC, Thiruvananthapuram</div>
-					</div>
-				
-					<div class="col-md-4">
-						<div> Prof. Tirthankar Das Gupta<br>IIT Kharagpur</div>
-					</div>
-			 
-				</div>
-				<br>
-				<div class="row">
-					<div class="col-md-4">
-						<div>Divya Jalan<br>President, Founder & Trustee<br>Breaking through Dyslexia,Dyslexia Trust of Kolkata</div>
-					</div>
-				
-					<div class="col-md-4">
-						<div> Dr. Ramaa S.<br>Dean of Instruction, Professor of Special Education<br>Regional Institute of Education (NCERT), Mysuru</div>
-					</div>
-				
-					<div class="col-md-4">
-						<div>Swati Chakraborty<br>IICP</div>
-					</div>
-			 
-				</div>
-				<br>
-				<div class="row">
-					<div class="col-md-4">
-						<div>Dr. Charudatta Jadhav<br>TCS<br></div>
-					</div>
-
-					<div class="col-md-4">
-						<div>Sumeet Agrawal<br>TCS</div>
-					</div>
-				
-					<div class="col-md-4">
-						<div>Pradip Sinha<br>Chairperson<br>Society for the Empowerment of the Deafblind</div>
-					</div>
-			 
-				</div>
-				<br>
-				<div class="row">
-					<div class="col-md-4">
-						<div>Dr. Akila S.<br>NISH<br></div>
-					</div>
-					<div class="col-md-4">
-						<div>Bhavna Botta<br>Editor in Chief<br>Connect Special</div>
-					</div>
-				
-					<div class="col-md-4">
-						<div>Dr. Jacob Roy<br>THFI, Kerala<br></div>
-					</div>
-			 
-				</div>
-				<br>
-				<div class="row">
-					<div class="col-md-4">
-						<div>S G Akhil<br>ICFOSS, Kerala<br></div>
-					</div>
-					<div class="col-md-4">
-						<div>Prof. Anupam Basu<br>IIT Kharagpur<br></div>
-					</div>
-				
-					<div class="col-md-4">
-						<div>Kasthuri<br>IIT Chennai<br></div>
-					</div>
-			 
-				</div>
-				<br>
-				<div class="row">
-					<div class="col-md-4">
-						<div>Dr. Sudha Kaul<br>Vice Chairperson<br>Indian Institute of Cerebral Palsy</div>
-					</div>
-					<div class="col-md-4">
-						<div>Namita Jacob<br>Chetana Charitable Trust<br></div>
-					</div>
-				
-					<div class="col-md-4">
-						<div>S Kanagaraj<br>Department of Mechanical Engineering, IIT Guwahati<br></div>
-					</div>
-			 
-				</div>
-            </div>
-			<!--new code added ends-->
-			</div>
-			<br><b>For detailed program click <span style="color:#F00;"><a href="#program">here</a></span></b>
-    </section>      
-                
+           
 
              
         
     </div>
+    
+    </section>
 	<!--ending program and speaker section here-->
 	
 	<!--Attend section starts-->
@@ -466,10 +470,10 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
     <section id="location" class="section location">
 	        
         <div class="container">
-        <h3 class="section-title">Attend</h3>
+        <h1 class="section-title">Attend</h1>
             <div class="row">
             	<div class="col-md-4">
-            	<h4 style="color:#192442;">Important Dates</h4>
+            	<h2 style="color:#192442;">Important Dates</h2>
                 <ul style="list-style:none; margin:0; padding:0;">
                     <li style="background:#fff8e0; padding:5px;">Registrations Open <a href="register">Click Here</a></li>
                     <li style="padding:5px;">Room Bookings Open<a href="register/room_booking.php"> Click Here</a></li>
@@ -479,7 +483,7 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
          </div>
             
                 <div class="col-sm-4">
-                    <h4 style="color:#192442;">Venue</h4>
+                    <h2 style="color:#192442;">Venue</h2>
                     
                         <p> The Empower 2018 conference will be held at <br>
 							I-TEC IIT Delhi Technopark, Sonipat.<br>
@@ -571,7 +575,7 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
             <div class="row">
                 <div class="col-md-12">
                     <!--<h3 class="section-title">Registration Charges</h3>-->
-					<h4 class="committee_heading">Registration Charges</h4>
+					<h2 class="committee_heading">Registration Charges</h2>
                 </div>
             </div>
                 
@@ -624,8 +628,8 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
 						<br>
                        
 					<div>		
-                        <!--<h3 class="section-title">Accommodation</h3>-->
-						<h4 class="committee_heading">Accomodation</h4>
+                        <a class="anchor" id="accomodation"></a>
+						<h2 class="committee_heading" >Accomodation</h2>
                         <p>
                         Accommodation is available at the venue itself.<br>
                         Room Charges :<br>
@@ -646,9 +650,9 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
 	<!-- Attend section ends-->
 	<a class="anchor" id="participate"></a>
     <div class="container">
-    <h3 class="section-title" style="padding:100px 0 30px 0;">Submit Abstract</h3>
+    <h1 class="section-title" style="padding:100px 0 30px 0;">Submit Abstract</h1>
 	<div class="col-md-6">
-    	<h4>Important Dates</h4>
+    	<h2>Important Dates</h2>
 			<ul style="list-style:none; margin:0; padding:0;">
             	<li style="background:#fff8e0; padding:5px;">Submission start date: August 24, 2018</li>
                 <li style="padding:5px;">Submission deadline: September 22, 2018</li>
@@ -658,19 +662,19 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
      </div>
      
      <div class="col-md-6">
-    	<h4>Call For Extended Abstracts</h4>
+    	<h2>Call For Extended Abstracts</h2>
         
         <p>
         Submission Guidelines:<br>
         The abstract should be of 2 pages (excluding references). Please use the below format for submission.<br>
-        <a href="SIGCHIExtendedAbstractsFormat.docx">Word</a> | <a href="Document-Formats-masterX.zip">LateX</a> | 
+        <a href="SIGCHIExtendedAbstractsFormat.docx">Word</a> | <a href="Document-Formats-master.zip">LateX</a> | 
         <a href="SIGCHIExtendedAbstractsFormat.pdf">View Sample Extended Abstract</a> 
 		</p>
             
      </div>    
      
      <div class="col-md-12">
-	<h3> Poster Submission:</h3>
+	<h2> Poster Submission:</h2>
      <p>   Your PDF file must be accessible. PDFs created with LaTex are very difficult to make accessible unless you edit the output directly in Acrobat; we strongly suggest using Microsoft Word due to the easier accessibility workflow. It may take you about an hour to make your file accessible (adding alt tags, etc.), so be sure to leave time before the submission deadline to do so. Please refer to the instructions on <a href="http://assets18.sigaccess.org/creating_accessible_pdfs.html">Creating an Accessible ACM Conference Paper</a> for information on how to accomplish this.<br>
 <br>
         Note that making an accessible PDF is not well-supported by any standard LaTex editors that we are aware of. If you use LaTex you will need to manually edit your PDF using Adobe Acrobat in order to make it accessible.
@@ -692,16 +696,114 @@ presentation in the relevant technical session.
             </div>
         </div>
     </section>
+    
+    <section class="section sponsors">
+    	<div class="container">
+    		<div class="col-md-6 col-sm-6 col-xs-12">
+            <a class="anchor" id="exhibit"></a>
+                    <h1 class="section-title">Exhibits</h1>
+                    
+                        <ul style="list-style:none; margin:0; padding:0;" class="exhibit">
+							<li><img src="assets/images/exhibits/large-exhibit.png" class="img-responsive img-left" 
+                            alt="image depicting 6 feet X 12 feet exhibition panel dimensions"></img>Exhibit Booth (12ft x 6ft):
+                            <br>
+                         
+                            <span style="color:#F00; font-size:10pt;">Early Bird Price :75,000 + 18% GST = INR 88,500*</span>
+                            <br>Regular Price: INR 1,00,000 + 18% GST = 1,18,000
+                                 <br>Includes 3 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; 
+                                 font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
+							<br>
+							<li><img src="assets/images/exhibits/medium-exhibit.png" class="img-responsive img-left" 
+                            alt="image depicting 6 feet X 6 feet exhibition panel dimensions"></img>Exhibit Booth (6ft x 6ft)<br>
+                            
+                            <span style="color:#F00; font-size:10pt;">Early Bird Price :37,500 + 18% GST = INR 44,250*</span>
+                            <br>Regular Price: INR 50,000 + 18% GST = INR 59,000<br>Includes 2 Complimentary Registrations
+                            <i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  
+                            style="color:#F00; font-size:10pt;"></i></li>
+							<br>
+							<li><img src="assets/images/exhibits/small-exhibit.png" class="img-responsive img-left" 
+                            alt="image depicting 6 feet X 6 feet exhibition panel dimensions"></img>Exhibit Booth (6ft x 3ft)
+                            <br><span style="color:#F00; font-size:10pt;">Early Bird Price :18,750 + 18% GST = INR 22,125*</span>
+                            <br>Regular Price: INR 25,000 + 18% GST = INR 29,500 <br>Includes 1 Complimentary Registration
+                            <i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  
+                            style="color:#F00; font-size:10pt;"></i></li>
+						</ul> 
+						<br>
+                        <div>
+                            <span style="color:#F00; font-size:10pt;">*Avail 25% Discount on Early Bird Registrations before 
+                              25th September 2018</span><br>
+<br>
+
+                                <a href="https://goo.gl/forms/oN5rXawYvj43NuDI3" class="btn btn-primary">Exhibit Registration
+                                 Here<br>
+                                <span style="text-transform:capitalize; font-size:9pt;">(Last Date: 3rd Oct 2018)</span>
+                                </a>
+                            <br>View Exhibitor's guide <span style="color:#F00;"><a href="Empower 2018 Exhibitors Manual.pdf">
+                            here</a></span>
+                            </div>
+                 </div>
+    
+    
+    <div class="col-md-6 col-sm-6 col-xs-12 center" style="margin-top:40px;">
+				<h4 style="color:#192442;">Exhibitors</h4>
+            	<div class="col-md-4 col-sm-6 center">  
+					<div><a href="http://assistech.iitd.ac.in/">
+                    <img src="assets/images/exhibits/exhibitor1.png" alt="Assistech Logo"></a></div>  
+					
+				</div>
+			
+                <div class="col-md-4 col-sm-6 center">
+                    <div><a href="http://www.saksham.org/"><img src="assets/images/exhibits/exhibitor3.png" alt="Saksham Logo"></a></div>  
+					
+                </div>
+				
+				<div class="col-md-4 col-sm-6 center">
+                    <div><a href="http://www.kritikalsolutions.com/"><img src="assets/images/exhibits/exhibitor4.png" alt="KSPL Logo"></a></div>  
+					
+                </div>
+                
+                <div class="col-md-4 col-sm-6 center">
+                    <div><a href="https://raisedlines.org/"><img src="assets/images/exhibits/exhibitor5.png" alt="Raised Lines Foundation Logo"></a></div>  
+					
+                </div>
+                
+                <div class="col-md-4 col-sm-6 center">
+                    <div><a href="https://digitizeindia.gov.in/"><img src="assets/images/exhibits/exhibitor6.png" alt="Digital India Logo"></a></div>  
+					
+                </div>
+                
+                <div class="col-md-4 col-sm-6 center">
+                    <div><a href="http://enability.in/"><img src="assets/images/exhibits/exhibitor7.png" 
+                    alt="Enability Foundation For Rehabilitation Logo"></a></div>          
+                </div>
+                
+                <div class="col-md-4 col-sm-6 center">
+                                    <div><a href="http://torchit.in/">
+                                    <img src="assets/images/exhibits/exhibitor8.png" alt="Torch It Logo"></a></div>  
+                </div>
+				
+                <div class="col-md-4 col-sm-6 center">
+                                    <div><a href="https://www.bookshare.org/cms/international">
+                                    <img src="assets/images/exhibits/exhibitor9.png" alt="Bookshare Logo"></a></div>	
+                </div>
+				 
+            </div>
+    
+    	</div>
+    </section>
+	
 
 	<!-- Exhibit and Sponsors section start-->
-	<a class="anchor" id="sponsorship"></a>
-	<section id="sponsors" class="section sponsors">
-	        
+	
+		        
+        
+        <section class="section sponsors">
         <div class="container">
-        <h3 class="section-title">Sponsorship Details</h3>
-            <div class="row">
-            	<div class="col-md-6" style="padding-top:50px;">
-            	<h4 style="color:#192442;">Sponsors</h4>
+		<a class="anchor" id="sponsorship"></a>
+        <h1 class="section-title">Sponsorship Details</h1>
+            <div class="col-md-12">
+            	<div class="col-md-6">
+            
                 <ul style="list-style:none; margin:0; padding:0;">
                     <li><img src="assets/images/sponsorships/platinum_sponsor.png" class="img-responsive img-left rounded-rect" alt="platinum colored reounded rectangle with text platinum sponsorship in between"></img>Platinum Sponsorship<br>INR 500,000 + 18% GST = INR 5,90,000 <br>Supports 10 Fellowships<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><br>Includes 3 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
                     <br>
@@ -710,96 +812,34 @@ presentation in the relevant technical session.
                     <li><img src="assets/images/sponsorships/silver_sponsor.png" class="img-responsive img-left rounded-rect" "silver colored reounded rectangle with text silver sponsorship in between"></img>Silver Sponsorship<br>INR 100,000 + 18% GST = INR 1,18,000 <br>Supports 1 Fellowship<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><br>Includes 1 Complimentary Registration<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
                 </ul>    
                 
-				</div>
-			
-                <div class="col-sm-6" style="padding-top:50px;">
-                    <h4 style="color:#192442;">Exhibits</h4>
-                    
-                        <ul style="list-style:none; margin:0; padding:0;" class="exhibit">
-							<li><img src="assets/images/exhibits/large-exhibit.png" class="img-responsive img-left" alt="image depicting 6 feet X 12 feet exhibition panel dimensions"></img>Exhibit Booth (12ft x 6ft):<br>
-<span style="color:#F00; font-size:10pt;">Early Bird Price :75,000 + 18% GST = INR 88,500*</span>
-<br>Regular Price: INR 1,00,000 + 18% GST = 1,18,000
-	 <br>Includes 3 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
-							<br>
-							<li><img src="assets/images/exhibits/medium-exhibit.png" class="img-responsive img-left" alt="image depicting 6 feet X 6 feet exhibition panel dimensions"></img>Exhibit Booth (6ft x 6ft)<br>
-                            <span style="color:#F00; font-size:10pt;">Early Bird Price :37,500 + 18% GST = INR 44,250*</span><br>
-Regular Price: INR 50,000 + 18% GST = INR 59,000<br>Includes 2 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
-							<br>
-							<li><img src="assets/images/exhibits/small-exhibit.png" class="img-responsive img-left" alt="image depicting 6 feet X 6 feet exhibition panel dimensions"></img>Exhibit Booth (6ft x 3ft)<br>
-<span style="color:#F00; font-size:10pt;">Early Bird Price :18,750 + 18% GST = INR 22,125*</span><br>
-Regular Price: INR 25,000 + 18% GST = INR 29,500 <br>Includes 1 Complimentary Registration<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
-						</ul> 
-						<br>
-                        <div style="text-align:center;">
-<span style="color:#F00; font-size:10pt;">*Avail 25% Discount on Early Bird Registrations before 25th September 2018</span>
-	<a href="https://goo.gl/forms/oN5rXawYvj43NuDI3" class="btn btn-primary">Exhibit Registration Here<br>
-	<span style="text-transform:capitalize; font-size:9pt;">(Last Date: 3rd Oct 2018)</span>
-    </a>
-<br>View Exhibitor's guide <span style="color:#F00;"><a href="Empower 2018 Exhibitors Manual.pdf">here</a></span>
-</div>
-                 </div>
-				 
-            </div>
-			<div class="row">
+                <div class="row">
 				<br>
                  <i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i>Fellowship includes full conference registration + 4 days shared accomodation. Programme committee would give these fellowships to deserving participants and they would be named as Sponsor's fellows.
                 <br>
                 <i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i> Complimentary Registration includes full conference registration
 			</div>
+                
+				</div>
+			
+                
+				 
+            </div>
+			
             
             <br>
             
 			<br>	
            
-			<div class="row">
-				<h4 style="color:#192442;">Exhibitors</h4>
-            	<div class="col-md-4 col-sm-4 center">  
-					<div><a href="http://assistech.iitd.ac.in/"><img src="assets/images/exhibits/exhibitor1.png" alt="Assistech Logo"></a></div>  
-					
-				</div>
+           
+           
+           
+           
 			
-                <div class="col-md-4 col-sm-4 center">
-                    <div><a href="http://www.saksham.org/"><img src="assets/images/exhibits/exhibitor3.png" alt="Saksham Logo"></a></div>  
-					
-                </div>
-				
-				<div class="col-md-4 col-sm-4 center">
-                    <div><a href="http://www.kritikalsolutions.com/"><img src="assets/images/exhibits/exhibitor4.png" alt="KSPL Logo"></a></div>  
-					
-                </div>
-                
-                <div class="col-md-4 col-sm-4 center">
-                    <div><a href="https://raisedlines.org/"><img src="assets/images/exhibits/exhibitor5.png" alt="Raised Lines Foundation Logo"></a></div>  
-					
-                </div>
-                
-                <div class="col-md-4 col-sm-4 center">
-                    <div><a href="https://digitizeindia.gov.in/"><img src="assets/images/exhibits/exhibitor6.png" alt="Digital India Logo"></a></div>  
-					
-                </div>
-                
-                <div class="col-md-4 col-sm-4 center">
-                    <div><a href="http://enability.in/"><img src="assets/images/exhibits/exhibitor7.png" alt="
-Enability Foundation For Rehabilitation Logo"></a></div>          
-                </div>
-                
-                <div class="col-md-4 col-sm-4 center">
-                                    <div><a href="http://torchit.in/"><img src="assets/images/exhibits/exhibitor8.png" alt="
-                Torch It Logo"></a></div>  
-                </div>
-				
-                <div class="col-md-4 col-sm-4 center">
-                                    <div><a href="https://www.bookshare.org/cms/international"><img src="assets/images/exhibits/exhibitor9.png" alt="
-                Bookshare Logo"></a></div>	
-                </div>
-				 
-            </div>
         </div>
 
 	</section>
 	<!-- Exhibit and Sponsors section ends-->
 
-	
 	
     
   

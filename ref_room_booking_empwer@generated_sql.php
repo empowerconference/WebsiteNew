@@ -44,26 +44,26 @@ table tr th{
                     	<table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
 							<thead>
 								<tr>
-									<th>Time</th>
-									<th>Name</th>			
-									<th>Email</th>
+									<th>Booking Date</th>
+									<th>Name</th>		
+									<th>Gender</th>	
 									<th>Contact</th>
+									<th>Email</th>
 									<th>Address</th>
 									<th>Affiliation</th>
-									<th>Assistance</th>
-									<th>Date of Registration</th>
-                                    <th>Delegate Type</th>
-                                    <th>Reference Id<span style="color:#F00; font-size:12pt;">*</span></th>
-                                    <th>Registration Type</th>
+									<th>Occupancy Type</th>
+									<th>Check-in Date</th>
+									<th>Check-out Date</th>
+                                    <th>Number of Days</th>
                                     <th>Amount</th>
-									<th>Payment Status</th>
+									<th>Questions/Comments</th>
 
 
 								</tr>
 							</thead>
 							<?php 
 							$db = mysqli_connect("localhost","assistech","64d0991d","assistech");
-							$sql = "SELECT * FROM  conference ORDER BY ID DESC";
+							$sql = "SELECT * FROM  room_booking ORDER BY ID DESC";
 							$res= mysqli_query($db, $sql);
 							if (mysqli_num_rows($res) > 0) {
 								while($result = mysqli_fetch_assoc($res)) {
@@ -72,18 +72,24 @@ table tr th{
 								<tr class="odd gradeX" >
  
 									<td>
-										<?php echo $result["Time"];?>
+										<?php echo $result["booking_date"];?>
 									</td>
                                     <td>
 										<?php echo $result["name"];?>
 									</td>
-
+									
 									<td>
-										<?php echo $result["email"];?>
+										<?php echo $result["gender"];?>
 									</td>
+									
 									<td>
 										<?php echo $result["contact"];?>
 									</td>
+									
+									<td>
+										<?php echo $result["email"];?>
+									</td>
+									
 									<td>
 										<?php echo $result["address"];?>
 									</td>
@@ -92,28 +98,24 @@ table tr th{
 										<?php echo $result["affiliation"];?>
 									</td>
 									<td>
-										<?php echo $result["assistance"];?>
+										<?php echo $result["type"];?>
 									</td>
 									<td>
-										<?php echo $result["date"];?>
+										<?php echo $result["checkin"];?> Oct 2018
 									</td>
 									<td>
-										<?php echo $result["type1"];?>
+										<?php echo $result["checkout"];?> Oct 2018
 									</td>
                                     <td>
-										<?php echo $result["reference"];?>
+										<?php echo $result["days"];?>
 									</td>
                                     
                                     
-                                    <td>
-										<?php echo $result["type2"];?>
-									</td>
                                     <td>
 										<?php echo $result["amount"];?>
 									</td>
-									
-									<td>
-										<?php echo $result["paymentstatus"];?>
+                                    <td>
+										<?php echo $result["questions"];?>
 									</td>
 								</tr> 
 							</tbody>
@@ -126,12 +128,7 @@ table tr th{
 							?>
 						</table>
                     
-                    <span style= "color:#F00; font-size:10pt; line-height:7pt; text-decoration:italics;">
-					*Applicable for Complimentary Registrations for Exhibits</span>
                     
-                                        
-        
-        
     </section>
 
     

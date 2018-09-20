@@ -9,16 +9,18 @@
                 <div class="col-md-12">
                     <p class="site-info">EMPOWER 2018</p>
                     <ul class="social-block">
-                        <li><a href=""><i class="ion-social-twitter"></i></a></li>
-                        <li><a href=""><i class="ion-social-facebook"></i></a></li>
-                        <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
-                        <li><a href=""><i class="ion-social-googleplus"></i></a></li>
+                        
+                        <li><a href="https://www.facebook.com/events/304444690360045/"><i class="ion-social-facebook"></i></a></li>
+                        <li><a href=""><i class="ion-social-googleplus"></i></a></li> 
+                        
+           
+                        
                     </ul>
                 </div>	
             </div>
         </div>
        <p style="text-align:center; font-size:10pt; color:#333; border-top:1px solid #CCC; padding:10px 0 0 0;">
-          <a href="privacy-policy.php" style="color:#e2e2e2;">Privacy Policy . </a><a href="refund-policy.php" style="color:#e2e2e2;">Refund Policy . </a><a href="terms-and-conditions.php" style="color:#e2e2e2;">Terms & Conditions</a>
+         <a href="contact.php" style="color:#e2e2e2;">Contact Us . </a> <a href="privacy-policy.php" style="color:#e2e2e2;">Privacy Policy . </a><a href="refund-policy.php" style="color:#e2e2e2;">Refund Policy . </a><a href="terms-and-conditions.php" style="color:#e2e2e2;">Terms & Conditions</a>
           </p>
     </footer>
 

@@ -38,7 +38,7 @@
 	}
 	
 	.navbar-nav li{
-		width:14%!important;
+		width:11%!important;
 	}
 		
 </style>
@@ -98,34 +98,54 @@
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="navbar-collapse-1">
-				<ul class="nav navbar-nav">
-					<li><a href="index.php">Home</a></li>
-                    <li><a href="index.php#about">About</a></li>
-					<li><a href="index.php#participate">Participate</a>
-						<!--<ul class="dropdown-menu">
-							<li><a href="#">Tactile Diagram</a></li>
-							<li><a href="#">Image Library</a></li>
-					 
-
-						</ul>-->
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="index.php#about">Home</a></li>
+					
+					
+                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Attend<span class="caret"></span></a>
+						<ul class="dropdown-menu">
+	                        <li><a href="index.php#registration">Register</a></li>
+							<li><a href="index.php#accomodation">Accomodation</a></li>
+                            
+							
+						</ul>
+					
 					</li>
-                    <li><a href="index.php#registration">Attend</a></li>
-                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Program<span class="caret"></span></a>
+					
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" >Program<span class="caret"></span></a>
+					<ul class="dropdown-menu">
+	                        <li><a href="index.php#program">Program Overview</a></li>
+							<li><a href="index.php#speakers">Speakers</a></li>
+							
+                            
+							
+						</ul>
+					
+					</li>
+					
+					<li><a href="index.php#participate">Submit</a></li>
+					<li><a href="index.php#sponsorship">Exhibit</a></li>
+					<li><a href="index.php#sponsorship">Sponsor</a></li>
+					
+					
+					
+					
+                    <!--<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Program<span class="caret"></span></a>
 						<ul class="dropdown-menu">
 	                        <li><a href="index.php#program">Program Overview</a></li>
 							<li><a href="index.php#speakers">Key Note Speakers</a></li>
                             
 							
 						</ul>
-					</li>
-					<li><a href="#">People</a>
+					</li>-->
+					<li><a href="committee.php">Committee</a>
 						
 					</li>
 					
 					
 					
 				 
-					<li><a href="contact.php">Sponsors</a></li>
+					<!--<li><a href="index.php#sponsorship">Sponsors</a></li>-->
 					
 					 
 				</ul>

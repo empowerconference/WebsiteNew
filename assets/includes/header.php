@@ -56,8 +56,8 @@
             <img src="assets/images/logo_big.png" alt="Logo" style=" width: 100%; height: auto; max-width: 594px;">
            
             
-            <h1>ASSISTIVE TECHNOLOGY CONFERENCE</h1>
-			<h2>where users, academia and industry meet to talk about Assistive Technology</h2>
+            <h1 style="color:#fff;">ASSISTIVE TECHNOLOGY CONFERENCE</h1>
+			
             <h2>25 - 27 October 2018</h2>
             <a class="btn btn-white" data-scroll href="register">Register Now</a>
         
@@ -93,22 +93,38 @@
 			<div class="collapse navbar-collapse" id="navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
 					<!--<li><a href="index.php">Home</a></li>-->
-                    <li><a href="index.php#about">About</a></li>
-					<li><a href="index.php#speakers">Speakers</a></li>
-					<!--<li><a href="index.php#participate">Participate</a>-->
-						<!--<ul class="dropdown-menu">
-							<li><a href="#">Tactile Diagram</a></li>
-							<li><a href="#">Image Library</a></li>
-					 
-
-						</ul>-->
+                    <li><a href="index.php#about">Home</a></li>
+					
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" >Program
+                    <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+	                        
+							<li><a href="index.php#speakers">Speakers</a></li>
+							<li><a href="index.php#program">Program Overview</a></li>
+                            
+							
+						</ul>
+					
 					</li>
-                    <li><a href="index.php#registration">Attend</a></li>
+                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Attend<span class="caret"></span></a>
+						<ul class="dropdown-menu">
+	                        <li><a href="index.php#registration">Register</a></li>
+							<li><a href="index.php#accomodation">Accomodation</a></li>
+                            
+							
+						</ul>
+					
+					</li>
+					
+					
+					
 					<li><a href="index.php#participate">Submit</a></li>
-					<li><a href="index.php#sponsorship">Exhibit</a></li>
+					<li><a href="index.php#exhibit">Exhibit</a></li>
 					<li><a href="index.php#sponsorship">Sponsor</a></li>
-					<li><a href="index.php#program">Program</a></li>
-					<li><a href="index.php#registration">Accomodation</a></li>
+					
+					
+					
+					
                     <!--<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Program<span class="caret"></span></a>
 						<ul class="dropdown-menu">
 	                        <li><a href="index.php#program">Program Overview</a></li>

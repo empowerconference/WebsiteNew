@@ -8,7 +8,7 @@
 </script>
 <?php
 session_start();
-$net = $_SESSION["amount"];
+$net = $_SESSION["room_amount"];
 $del = $_SESSION["type1"];
 
 ?>
@@ -58,8 +58,8 @@ $del = $_SESSION["type1"];
                   
         </p>
           <p class="lead">Your Total Payable amount is <strong>INR <?php echo $net; ?></strong></p>
-          
-		  <p>
+        <!--  
+		<p>
 		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/ldca00f4bb6d640fb892441dd50dd7f06/'" id="gen_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
 		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/lc0c2315bd7da4183b4a9929c77333a08/'" id="da_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
 		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/ld64b379302904d079d42d8ec2d6b3600/'" id="student_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
@@ -185,7 +185,7 @@ $del = $_SESSION["type1"];
 		
 
 </script>
-		</p>
+		</p>-->
 		
 		  
 
