@@ -916,7 +916,25 @@ presentation in the relevant technical session.
                 
 				</div>
 			
-                
+            <div class="col-md-6 col-sm-6 col-xs-12 center">
+				<h4 style="color:#192442;">Sponsors</h4>
+            	<div class="col-md-4 col-sm-6 center">  
+					<div><a href="https://www.lnttechservices.com/">
+                    <img src="assets/images/sponsorships/sponsor1.png" alt="L&T Tech Services Logo"></a></div>  
+					
+				</div>
+			
+                <div class="col-md-4 col-sm-6 center">
+                    <div><a href="https://www.google.co.in/"><img src="assets/images/sponsorships/sponsor2.png" alt="Google Logo"></a></div>  
+					
+                </div>
+				
+				<div class="col-md-4 col-sm-6 center">
+                    <div><a href="http://indianheadinjuryfoundation.org/"><img src="assets/images/sponsorships/sponsor3.png" alt="IHIS Logo"></a></div>  
+					
+                </div>
+				 
+            </div>   
 				 
             </div>
 			
