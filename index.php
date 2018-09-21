@@ -339,19 +339,19 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                             </tr>
 								<tr class="tr0s2 conditional" style="display:none">
 									<td>11:45 AM</td>
-									<td></td>
-									<td></td>
-									<td rowspan="3"></td>
+									<td>TBD</td>
+									<td>Audio CAPTCHA: Usable Accessibility + Usable Security<br><i>Speaker: Dr. Charudatta Jadhav & Sumeet Agrawal</i></td>
+									<td rowspan="3">TBD</td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none">
 									<td>12:15 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none">
 									<td>12:45 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -365,19 +365,17 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                             </tr>
 								<tr class="tr0s3 conditional" style="display:none">
 									<td>2:15 AM</td>
-									<td></td>
-									<td></td>
-									<td rowspan="3"></td>
+									<td>TBD</td>
+									<td rowspan="3">TV Raman's Session with participants</td>
+									<td rowspan="3">TBD</td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none">
 									<td>2:45 PM</td>
-									<td></td>
-									<td></td>
+									<td>TARANG-An affordable feature rich Hearing Aid<br><i>Speaker: Sri. Gopan George</i></td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none">
 									<td>3:15 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
 								</tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -412,19 +410,19 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                             </tr>
 								<tr class="tr0s6 conditional" style="display:none">
 									<td>11:45 AM</td>
-									<td></td>
-									<td></td>
-									<td rowspan="3"></td>
+									<td>TBD</td>
+									<td>TBD</td>
+									<td rowspan="3">Dr. Sorge's session with Students</td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none">
 									<td>12:15 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none">
 									<td>12:45 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -438,19 +436,19 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                             </tr>
 								<tr class="tr0s7 conditional" style="display:none">
 									<td>11:45 AM</td>
-									<td></td>
-									<td></td>
-									<td rowspan="3"></td>
+									<td>TBD</td>
+									<td>TBD</td>
+									<td rowspan="3">TBD</td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none">
 									<td>12:15 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none">
 									<td>12:45 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -490,19 +488,19 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                             </tr>
 								<tr class="tr0s10 conditional" style="display:none">
 									<td>11:45 AM</td>
-									<td></td>
-									<td></td>
-									<td rowspan="3"></td>
+									<td>Design and development of an affordable passive polycentric knee joint and dynamic ankle joint with different advanced features for trans-femoral amputee<br><i>Speaker:  S Kanagaraj, Department of Mechanical Engineering, IIT-G</i></td>
+									<td>One Touch Automation in Accessibility Value Chain<br><i>Speaker: Dr. Charudatta Jadhav & Sumeet Agrawal</i></td>
+									<td rowspan="3">User challenges presentations</td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none">
 									<td>12:15 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none">
 									<td>12:45 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -516,19 +514,19 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                             </tr>
 								<tr class="tr0s11 conditional" style="display:none">
 									<td>11:45 AM</td>
-									<td></td>
-									<td></td>
-									<td rowspan="3"></td>
+									<td>TBD</td>
+									<td>TBD</td>
+									<td rowspan="3">Particpant solution proposals</td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none">
 									<td>12:15 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none">
 									<td>12:45 PM</td>
-									<td></td>
-									<td></td>
+									<td>TBD</td>
+									<td>TBD</td>
 								</tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>

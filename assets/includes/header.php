@@ -52,16 +52,16 @@
 			$(".tr0s3").toggle();
 		});
 		$(".session6").click(function(){
-			$(".tr0s3").toggle();
+			$(".tr0s6").toggle();
 		});
 		$(".session7").click(function(){
-			$(".tr0s3").toggle();
+			$(".tr0s7").toggle();
 		});
 		$(".session10").click(function(){
-			$(".tr0s3").toggle();
+			$(".tr0s10").toggle();
 		});
 		$(".session11").click(function(){
-			$(".tr0s3").toggle();
+			$(".tr0s11").toggle();
 		});
 	});
 	</script>
