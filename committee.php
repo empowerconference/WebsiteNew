@@ -4,7 +4,7 @@
     <section id="people" class="people">
 	        
         <div class="container">
-        <h3 class="section-title">Program Committee</h3>
+        <h3 class="section-title" style="margin-top:30px;">Program Committee</h3>
 		<div id="pChairs" class="pChairs" style="margin-bottom:60px;">
             <div class="row">
 			<h4 class="committee_heading">Program Chairs</h4>
@@ -64,55 +64,57 @@
 		 
 		 <div id="pcMembers" class="pcMembers" style="margin-bottom:60px;">
             <div class="row">
+			
 			<h4 class="committee_heading">Program Committee Members</h4>
-            	<div class="col-md-4">  
-					<div>Prof. Anupam Basu<br>NIT Durgapur (on leave from IIT Kharagpur)
+			<div class="col-md-12">
+            	<div class="col-md-4 col-sm-4 col-xs-12">  
+					<div class="program-committee"><strong>Prof. Anupam Basu</strong><br>NIT Durgapur (on leave from IIT Kharagpur)
 					</div>
 				</div>
             
-				<div class="col-md-4"> 
-					<div>Prof. Supradip Das<br>IIT Guwahati</div>
+				<div class="col-md-4 col-sm-4 col-xs-12"> 
+					<div class="program-committee"><strong>Prof. Supradip Das</strong><br>IIT Guwahati</div>
 				</div>
 			
-				<div class="col-md-4">
-					<div>Dr. Sam Taraporevala<br>XRCVC, Mumbai</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong>Dr. Sam Taraporevala</strong><br>XRCVC, Mumbai</div>
 				</div>
 		 
-			</div>
+			<!--</div>-->
 			<br>
-			 <div class="row">
-				<div class="col-md-4">
-					<div>Prof. Sujata Srinivasan<br>IIT Madras</div>
+			 <!--<div class="row">-->
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong>Prof. Sujata Srinivasan</strong><br>IIT Madras</div>
 				</div>
 				
-				<div class="col-md-4">
-					<div>Dr. Akila Surendran<br>NISH, Trivandrum</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong>Dr. Akila Surendran</strong><br>NISH, Trivandrum</div>
 				</div>
 				
-				<div class="col-md-4">
-					<div>Dr. Bipin B. Choudhary<br>Cradle</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong>Dr. Bipin B. Choudhary</strong><br>Cradle</div>
 				</div>
 			 
-			 </div>
+			 <!--</div>-->
              	<br>
                 
                 <!-- new code added-->
-			<div class="row">
-				<div class="col-md-4">
-					<div>Dr. Rajendra Prasad<br>Indian Head Injury Foundation</div>
+			<!--<div class="row">-->
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong>Dr. Rajendra Prasad</strong><br>Indian Head Injury Foundation</div>
 				</div>
-				<div class="col-md-4">
-					<div>Prof. Deepti Gupta<br>Department of Textile Technology, IIT Delhi</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong>Prof. Deepti Gupta</strong><br>Department of Textile Technology, IIT Delhi</div>
 				</div>
-				<div class="col-md-4">
-					<div> V. Sashi Kumar<br>Phoenix Medical Systems</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong> V. Sashi Kumar</strong><br>Phoenix Medical Systems</div>
 				</div>
-			 </div>
+			 <!--</div>-->
 			 <br>
 			 <!-- new code added ends-->
-			 <div class="row">
-				<div class="col-md-4">
-					<div>Dr. Rohan Paul<br>MIT</div>
+			 <!--<div class="row">-->
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="program-committee"><strong>Dr. Rohan Paul</strong><br>MIT</div>
 				</div>
 				<!--<div class="col-md-4">
 					<div>Prof. Deepti Gupta<br>Department of Textile Technology, IIT Delhi</div>
@@ -120,55 +122,88 @@
 				<div class="col-md-4">
 					<div> V. Sashi Kumar<br>Phoenix Medical Systems</div>
 				</div>-->
+			 </div>
 			 </div>
 		 </div>
 		 
 		 <div id="advisoryMembers" class="advMembers" style="margin-bottom:60px;">
             <div class="row">
 			<h4 class="committee_heading">Advisory Committee Members</h4>
-            	<div class="col-md-4">  
-					<div> Dr. Samuel N. Mathew<br>Ex-Executive Director<br>NISH, NIPMR
+			<div class="col-md-12">
+            	<div class="col-md-4 col-sm-4 col-xs-12">  
+					<div class="advisory-committee"><strong> Dr. Samuel N. Mathew</strong><br>Ex-Executive Director<br>NISH, NIPMR
 					</div>
 				</div>
             
-				<div class="col-md-4"> 
-					<div> Dr. Charudatta Jadhav<br>Head-Accessibility Lab<br>Corporate Research and Innovation, TCS</div>
+				<div class="col-md-4 col-sm-4 col-xs-12"> 
+					<div class="advisory-committee"><strong> Dr. Charudatta Jadhav</strong><br>Head-Accessibility Lab<br>Corporate Research and Innovation, TCS</div>
 				</div>
 			
-				<div class="col-md-4">
-					<div>Dr. Namita Jacob<br>Director<br>Chetana Charitable Trust</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="advisory-committee"><strong>Dr. Namita Jacob</strong><br>Director<br>Chetana Charitable Trust</div>
 				</div>
 		 
-			</div>
-			<br>
-			 <div class="row">
-				<div class="col-md-4">
-					<div>Dr. Loren O'Conor<br>Assistant Vice Chancellor of the Office of Accessible Education and Counseling Services<br>Brandman University, USA</div>
+			<!--</div>-->
+			
+			 <!--<div class="row">-->
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="advisory-committee"><strong>Dr. Loren O'Conor</strong><br>Assistant Vice Chancellor,Office of Accessible Education and Counseling Services<br>Brandman University, USA</div>
 				</div>
 				
-				<div class="col-md-4">
-					<div>Mukesh Jain<br>Madhya Pradesh Govt<br></div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="advisory-committee"><strong>Mukesh Jain</strong><br>Madhya Pradesh Govt<br></div>
 				</div>
 				
-				<div class="col-md-4">
-					<div>Prof. Luc de Witte<br>Chair in Health Services Research<br>School of Health and Related Research, University of Sheffield</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="advisory-committee"><strong>Prof. Luc de Witte</strong><br>Chair in Health Services Research<br>School of Health and Related Research, University of Sheffield</div>
 				</div>
 			 
-			 </div>
-			<br>
-			<div class="row">
-				<div class="col-md-4">
-					<div>Dr. Sudha Kaul<br>Vice Chairperson, founder Principal<br>Indian Institute of Cerebral Palsy, Centre for Special Education</div>
+			 <!--</div>-->
+			
+			<!--<div class="row">-->
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="advisory-committee"><strong>Dr. Sudha Kaul</strong><br>Vice Chairperson, founder Principal<br>Indian Institute of Cerebral Palsy, Centre for Special Education</div>
 				</div>
 				
-				<div class="col-md-4">
-					<div>Shilpi Kapoor<br>Founder<br>Barrier Break</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="advisory-committee"><strong>Shilpi Kapoor</strong><br>Founder<br>Barrier Break</div>
 				</div>
 				
 				<!--<div class="col-md-4">
 					<div>Prof. Luc de Witte<br>Chair in Health Services Research, School of Health and Related Research, University of Sheffield</div>
 				</div>-->
-			 
+			 </div>
+			 </div>
+		 </div>
+		 
+		 <div id="organizingMembers" class="orgMembers" style="margin-bottom:60px;">
+            <div class="row">
+			<h4 class="committee_heading">Organizing Committee</h4>
+			<div class="col-md-12">
+            	<div class="col-md-4 col-sm-4 col-xs-12">  
+					<div class="organizing-committee"> Mr. Himanshu Garg <a href="mailto:Himanshu.Garg@cse.iitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Mr. Himanshu Garg's email"></a><br>Conference Secretary<br>IIT Delhi
+					</div>
+				</div>
+            
+				<div class="col-md-4 col-sm-4 col-xs-12"> 
+					<div class="organizing-committee">Ms. Neha M. Jadhav <a href="mailto:nehamjadhav@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Neha's email"></a><br><br>IIT Delhi</div>
+				</div>
+			
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="organizing-committee">Mr. Suman Muralikrishnan <a href="mailto:suman30murali@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Mr. Suman's email"></a><br>Exhibits Coordinator<br>IIT Delhi</div>
+				</div>
+		 
+			<!--</div>-->
+			
+			 <!--<div class="row">-->
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="organizing-committee">Ms. Jyoti Kala <a href="mailto:jyots.iit@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Jyoti's email"></a><br>Website Coordinator<br>IIT Delhi</div>
+				</div>
+				
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="organizing-committee">Ms. Manshul Belani <a href="mailto:manshulb@iiitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Ms. Manshul's email"></a><br>Website and Submissions Coordinator<br>IIIT Delhi</div>
+				</div>
+			 </div>
 			 </div>
 		 </div>
 		 

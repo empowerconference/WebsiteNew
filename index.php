@@ -15,6 +15,7 @@
 	margin-right: 10px;
 }
 </style>
+
 <a class="anchor" id="about"></a>
     <section class="section about">
         <div class="container">
@@ -229,7 +230,7 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
 			 
 				
 					<div class="col-md-4 col-sm-4 col-xs-12">
-						<div class="invited-speaker"><strong>Dr. Charudatta Jadhav</strong><br>TCS<br></div>
+						<div class="invited-speaker"><strong>Dr. Charudatta Jadhav</strong><br>Head-Accessibility Lab<br>Corporate Research and Innovation, TCS</div>
 					</div>
 
 					<div class="col-md-4 col-sm-4 col-xs-12">
@@ -257,7 +258,7 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
 						<div class="invited-speaker"><strong>S G Akhil</strong><br>ICFOSS, Kerala<br></div>
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-12">
-						<div class="invited-speaker"><strong>Prof. Anupam Basu</strong><br>IIT Kharagpur<br></div>
+						<div class="invited-speaker"><strong>Prof. Anupam Basu</strong><br>NIT Durgapur<br></div>
 					</div>
 				
 					<div class="col-md-4 col-sm-4 col-xs-12">
@@ -336,6 +337,22 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                                 <td><b>Session 2B:</b> User Interfaces <br>  <i>Organizer: Aman Parnami</i></td>
                                 <td><b>Session 2C:</b> Antarchakshu - Grp 1  <br><i>  Organizer: Krishna Warrier (XRCVC)</i></td>
                             </tr>
+								<tr class="tr0a conditional">
+									<td>11:45 AM</td>
+									<td></td>
+									<td></td>
+									<td rowspan="3"></td>
+								</tr>
+								<tr class="tr0a conditional">
+									<td>12:15 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr class="tr0a conditional">
+									<td>12:45 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
                                 <td colspan="3">Lunch Break</td>
@@ -475,8 +492,8 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
             	<div class="col-md-4">
             	<h2 style="color:#192442;">Important Dates</h2>
                 <ul style="list-style:none; margin:0; padding:0;">
-                    <li style="background:#fff8e0; padding:5px;">Registrations Open <a href="register">Click Here</a></li>
-                    <li style="padding:5px;">Room Bookings Open<a href="register/room_booking.php"> Click Here</a></li>
+                    <li style="background:#fff8e0; padding:5px;">Registrations Open <a href="register" aria-label="registration">Click Here</a></li>
+                    <li style="padding:5px;">Room Bookings Open<a href="register/room_booking.php" aria-label="room booking"> Click Here</a></li>
                     <li style="background:#fff8e0; padding:5px;">Early bird registration ends: October 07, 2018</li>
 				</ul>    
                 
@@ -634,9 +651,9 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                         Accommodation is available at the venue itself.<br>
                         Room Charges :<br>
 						INR 2950 (single occupancy)<span style="color:#F00; font-size:14pt;">*</span> per person per day. 
-						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank">Room Details Here</a></em>  <br>
+						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank" aria-label="Single Occupancy Room details here">Room Details Here</a></em>  <br>
                         INR 1593 (double occupancy)<span style="color:#F00; font-size:14pt;">*</span> per person per day 
-						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank">Room Details Here</a></em><br>
+						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank" aria-label="Double Occupancy Room details here">Room Details Here</a></em><br>
                         <span style="color:#F00; font-size:14pt;">*</span> including breakfast and 18% GST 
 						</p>
 					<a href="register/room_booking.php" class="btn btn-primary">Book Rooms</a>	

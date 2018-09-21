@@ -53,7 +53,7 @@
         <div id="intro" class="intro">
 		<!-- logo -->
                 
-            <img src="assets/images/logo_big.png" alt="Logo" style=" width: 100%; height: auto; max-width: 594px;">
+            <img src="assets/images/logo_big.png" alt="Logo" longdesc="The empower logo consists of the the text EMPOWER 2018. Empower is written in mustard color text and 2018 in white color. The O of Empower is divided into four quadrants with each quadrant representing visual, hearing, physical and cognitive disablity respectively through universal icons." style=" width: 100%; height: auto; max-width: 594px;">
            
             
             <h1 style="color:#fff;">ASSISTIVE TECHNOLOGY CONFERENCE</h1>
@@ -74,7 +74,7 @@
                     <a class="logo" href="index.php">
                         
                         <!-- logo image  -->
-                        <img src="assets/images/logo.png" alt="Logo" style=" width: 100%; height: auto; max-width: 275px;
+                        <img src="assets/images/logo.png" alt="Logo" longdesc="The empower logo consists of the the text EMPOWER 2018. Empower is written in mustard color text and 2018 in white color. The O of Empower is divided into four quadrants with each quadrant representing visual, hearing, physical and cognitive disablity respectively through universal icons." style=" width: 100%; height: auto; max-width: 275px;
                          margin-top: 5px;">
                     </a>
                 </div>

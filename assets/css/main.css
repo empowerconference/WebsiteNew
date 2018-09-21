@@ -698,6 +698,18 @@ ul li {
 	background:#ffdca2;
 }
 
+.tr0a{
+	background:#ffe8c4;
+}
+
+.tr0a td{
+	border-right:1px solid #fff;
+	padding:8px!important;
+	color:#000;
+	font-weight:500;
+	text-align:center;
+}
+
 .tr1{
 	background:#fff6e6;
 }
@@ -750,6 +762,28 @@ ul li {
     background: #eeeeee;
     text-align: center;
 	height:153px;
+}
+
+.program-committee{
+	padding: 20px 10px;
+    margin: 20px 20px;
+    background: #eeeeee;
+    text-align: center;
+	height:153px;
+}
+
+.advisory-committee{
+	padding: 20px 10px;
+    margin: 20px 20px;
+	background: #eeeeee;
+    text-align: center;
+	height:153px;
+}
+
+.organizing-committee{
+	padding: 10px 10px;
+    margin: 20px 20px;
+	height:70px;
 }
 
 .location{
