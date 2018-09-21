@@ -186,7 +186,7 @@
 				</div>
             
 				<div class="col-md-4 col-sm-4 col-xs-12"> 
-					<div class="organizing-committee">Ms. Neha M. Jadhav <a href="mailto:nehamjadhav@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Neha's email"></a><br><br>IIT Delhi</div>
+					<div class="organizing-committee">Ms. Neha M. Jadhav <a href="mailto:nehamjadhav@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Neha's email"></a><br>Local Outreach Coordinator<br>IIT Delhi</div>
 				</div>
 			
 				<div class="col-md-4 col-sm-4 col-xs-12">
