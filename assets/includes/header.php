@@ -42,7 +42,29 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Owl carousel -->
         <link rel="stylesheet" href="assets/css/owl.carousel.css">
-    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+	$(document).ready(function(){
+		$(".session2").click(function(){
+			$(".tr0s2").toggle();
+		});
+		$(".session3").click(function(){
+			$(".tr0s3").toggle();
+		});
+		$(".session6").click(function(){
+			$(".tr0s3").toggle();
+		});
+		$(".session7").click(function(){
+			$(".tr0s3").toggle();
+		});
+		$(".session10").click(function(){
+			$(".tr0s3").toggle();
+		});
+		$(".session11").click(function(){
+			$(".tr0s3").toggle();
+		});
+	});
+	</script>
     
 </head>
 <body data-spy="scroll" data-target="#site-nav">

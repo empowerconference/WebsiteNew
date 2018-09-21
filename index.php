@@ -332,23 +332,23 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                                 <td colspan="3">Tea Break</td>
                             </tr>
                             <tr class="tr0">
-                            	<td>11:45 AM</td>
+                            	<td>11:45 AM <span class="caret session2"></span></td>
                                 <td><b>Session 2A:</b> Augmentative and Alternative Communication<br><i>Chair: Dr. Sudha Kaul<br>Organizer: S. Akila (NISH)</i></td>
                                 <td><b>Session 2B:</b> User Interfaces <br>  <i>Organizer: Aman Parnami</i></td>
                                 <td><b>Session 2C:</b> Antarchakshu - Grp 1  <br><i>  Organizer: Krishna Warrier (XRCVC)</i></td>
                             </tr>
-								<tr class="tr0a conditional">
+								<tr class="tr0s2 conditional" style="display:none">
 									<td>11:45 AM</td>
 									<td></td>
 									<td></td>
 									<td rowspan="3"></td>
 								</tr>
-								<tr class="tr0a conditional">
+								<tr class="tr0s2 conditional" style="display:none">
 									<td>12:15 PM</td>
 									<td></td>
 									<td></td>
 								</tr>
-								<tr class="tr0a conditional">
+								<tr class="tr0s2 conditional" style="display:none">
 									<td>12:45 PM</td>
 									<td></td>
 									<td></td>
@@ -358,11 +358,27 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                                 <td colspan="3">Lunch Break</td>
                             </tr>
                             <tr class="tr0">
-                            	<td>2:15 PM</td>
+                            	<td>2:15 PM <span class="caret session3"></span></td>
                                 <td><b>Session 3A:</b> AT for speech and hearing impairment<br><i>Chair: Dr. Ajish Abraham <br> Organizer: S. Akila (NISH)</i></td>
                                 <td><b>Session 3B:</b> TV Raman with STEM students <br><i> Coordinator: Himanshu Garg</i></td>
                                 <td><b>Session 3C:</b> Antarchakshu - Grp 2 <br><i> Organizer: Krishna Warrier (XRCVC)</i></td>
                             </tr>
+								<tr class="tr0s3 conditional" style="display:none">
+									<td>2:15 AM</td>
+									<td></td>
+									<td></td>
+									<td rowspan="3"></td>
+								</tr>
+								<tr class="tr0s3 conditional" style="display:none">
+									<td>2:45 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr class="tr0s3 conditional" style="display:none">
+									<td>3:15 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
                                 <td colspan="3">Tea Break		</td>
@@ -389,21 +405,53 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                                 <td colspan="3">Tea Break</td>
                             </tr>
                             <tr class="tr0">
-                            	<td>11:45 AM</td>
+                            	<td>11:45 AM <span class="caret session6"></td>
                                 <td><b>Session 6A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer: Anil Prabhakar/S. Akila</i></td>
                                 <td><b>Session 6B:</b> Cognitive Disability related - P1  <br><i>   Organizer: Anupam Basu</i></td>
                                 <td><b>Session 6C:</b> Diagram and Maths accessibility for VI <br><i>  Organizer:Akashdeep Bansal</i> </td>
                             </tr>
+								<tr class="tr0s6 conditional" style="display:none">
+									<td>11:45 AM</td>
+									<td></td>
+									<td></td>
+									<td rowspan="3"></td>
+								</tr>
+								<tr class="tr0s6 conditional" style="display:none">
+									<td>12:15 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr class="tr0s6 conditional" style="display:none">
+									<td>12:45 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
                                 <td colspan="3">Lunch Break</td>
                             </tr>
                             <tr class="tr0">
-                            	<td>2:15 PM</td>
+                            	<td>2:15 PM <span class="caret session7"></td>
                                 <td><b>Session 7A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer:Anil Prabhakar/S. Akila</i></td>
                                 <td><b>Session 7B:</b> Cerebral Palsy and Neuro Motor Disabilities <br> <i> Organizer: Anupam Basu</i></td>
                                 <td><b>Session 7C:</b>  Infty Reader Workshop <br><i>  Organizer: Dr. Kanahori<br> Coordinator: Akashdeep Bansal</i></td>
                             </tr>
+								<tr class="tr0s7 conditional" style="display:none">
+									<td>11:45 AM</td>
+									<td></td>
+									<td></td>
+									<td rowspan="3"></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none">
+									<td>12:15 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none">
+									<td>12:45 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
                                 <td colspan="3">Tea Break		</td>
@@ -435,21 +483,53 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                                 <td colspan="3">Tea Break</td>
                             </tr>
                             <tr class="tr0">
-                            	<td>11:45 AM</td>
+                            	<td>11:45 AM <span class="caret session10"></td>
                                 <td><b>Session 10A:</b> Assistive Technology for Mobility: Principles and Practices in India - P1 <br><i> Organizer: Nekram</i></td>
                                 <td><b>Session 10B:</b> Digital world accessibility <br><i> Organizer: Dipendra Manocha<br>  Coordinator: Neha Jadhav</i></td>
                                 <td><b>Session 10C:</b> Users engage with Design + Engineering Students  <br> <i> Organizer: PVM Rao + Supradip Das</i></td>
                             </tr>
+								<tr class="tr0s10 conditional" style="display:none">
+									<td>11:45 AM</td>
+									<td></td>
+									<td></td>
+									<td rowspan="3"></td>
+								</tr>
+								<tr class="tr0s10 conditional" style="display:none">
+									<td>12:15 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr class="tr0s10 conditional" style="display:none">
+									<td>12:45 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
                                 <td colspan="3">Lunch Break</td>
                             </tr>
                             <tr class="tr0">
-                            	<td>2:15 PM</td>
+                            	<td>2:15 PM <span class="caret session11"></td>
                                 <td><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Organizer: Nekram</i></td>
                                 <td><b>Session 11B:</b> AI in Assistive Technology <br><i> Organizer: Anupam Sobti</i></td>
                                 <td><b>Session 11C:</b> Users engage with Design + Engineering Students <br><i>  Organizer: PVM Rao + Supradip Das</i></td>
                             </tr>
+								<tr class="tr0s11 conditional" style="display:none">
+									<td>11:45 AM</td>
+									<td></td>
+									<td></td>
+									<td rowspan="3"></td>
+								</tr>
+								<tr class="tr0s11 conditional" style="display:none">
+									<td>12:15 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr class="tr0s11 conditional" style="display:none">
+									<td>12:45 PM</td>
+									<td></td>
+									<td></td>
+								</tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
                                 <td colspan="3">Tea Break		</td>

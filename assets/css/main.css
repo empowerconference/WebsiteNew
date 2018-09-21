@@ -698,12 +698,13 @@ ul li {
 	background:#ffdca2;
 }
 
-.tr0a{
+.tr0s2{
 	background:#ffe8c4;
 }
 
-.tr0a td{
+.tr0s2 td{
 	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
 	padding:8px!important;
 	color:#000;
 	font-weight:500;
@@ -722,6 +723,19 @@ ul li {
 	text-align:center;
 }
 
+.tr0s3{
+	background:#ffe8c4;
+}
+
+.tr0s3 td{
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+	padding:8px!important;
+	color:#000;
+	font-weight:500;
+	text-align:center;
+}
+
 .tr1 td{
 	border-right:1px solid #fff;
 	padding:8px!important;
@@ -730,6 +744,57 @@ ul li {
 	font-weight:500;
 }
 
+.tr0s6{
+	background:#ffe8c4;
+}
+
+.tr0s6 td{
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+	padding:8px!important;
+	color:#000;
+	font-weight:500;
+	text-align:center;
+}
+
+.tr0s7{
+	background:#ffe8c4;
+}
+
+.tr0s7 td{
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+	padding:8px!important;
+	color:#000;
+	font-weight:500;
+	text-align:center;
+}
+
+.tr0s10{
+	background:#ffe8c4;
+}
+
+.tr0s10 td{
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+	padding:8px!important;
+	color:#000;
+	font-weight:500;
+	text-align:center;
+}
+
+.tr0s11{
+	background:#ffe8c4;
+}
+
+.tr0s11 td{
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+	padding:8px!important;
+	color:#000;
+	font-weight:500;
+	text-align:center;
+}
 
 .center{
 	text-align:center;
