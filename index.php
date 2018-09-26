@@ -728,9 +728,9 @@ href="coming_soon.php">participate in design challenges</a>. <br><br> The venue 
                         <p>
                         Accommodation is available at the venue itself.<br>
                         Room Charges :<br>
-						INR 2950 (single occupancy)<span style="color:#F00; font-size:14pt;">*</span> per person per day. 
+						INR 2950 for Single Occupancy (Separate Room)<span style="color:#F00; font-size:14pt;">*</span> per person per day. 
 						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank" aria-label="Single Occupancy Room details here">Room Details Here</a></em>  <br>
-                        INR 1593 (double occupancy)<span style="color:#F00; font-size:14pt;">*</span> per person per day 
+                        INR 1593 for Double Occupancy (Twin sharing Basis)<span style="color:#F00; font-size:14pt;">*</span> per person per day 
 						<em><a style="font-size:9pt;" href="http://www.iitdsonipat.com/booking-details.php?q=Z3Vlc3Q%3D" target="_blank" aria-label="Double Occupancy Room details here">Room Details Here</a></em><br>
                         <span style="color:#F00; font-size:14pt;">*</span> including breakfast and 18% GST 
 						</p>
@@ -857,10 +857,10 @@ presentation in the relevant technical session.
 					
                 </div>
                 
-                <div class="col-md-4 col-sm-6 center">
+                <!--<div class="col-md-4 col-sm-6 center">
                     <div><a href="https://raisedlines.org/"><img src="assets/images/exhibits/exhibitor5.png" alt="Raised Lines Foundation Logo"></a></div>  
 					
-                </div>
+                </div>-->
                 
                 <div class="col-md-4 col-sm-6 center">
                     <div><a href="https://digitizeindia.gov.in/"><img src="assets/images/exhibits/exhibitor6.png" alt="Digital India Logo"></a></div>  
@@ -872,17 +872,41 @@ presentation in the relevant technical session.
                     alt="Enability Foundation For Rehabilitation Logo"></a></div>          
                 </div>
                 
-                <div class="col-md-4 col-sm-6 center">
+                <!--<div class="col-md-4 col-sm-6 center">
                                     <div><a href="http://torchit.in/">
                                     <img src="assets/images/exhibits/exhibitor8.png" alt="Torch It Logo"></a></div>  
-                </div>
+                </div>-->
 				
                 <div class="col-md-4 col-sm-6 center">
                                     <div><a href="https://www.bookshare.org/cms/international">
                                     <img src="assets/images/exhibits/exhibitor9.png" alt="Bookshare Logo"></a></div>	
+                                    
                 </div>
-				 
-            </div>
+                
+                <div class="col-md-4 col-sm-6 center">
+                                    <div><a href="http://www.oxitronix.com/">
+                                    <img src="assets/images/exhibits/exhibitor10.png" alt="oxitronix Logo"></a></div>	
+                </div>
+				
+                <div class="col-md-4 col-sm-6 center">
+                                    <div><a href="http://www.pragrathan.in/index.html">
+                                    <img src="assets/images/exhibits/exhibitor11.png" alt="Pragrathan group Logo"></a></div>	
+                </div>
+                 
+                 
+                 <div class="col-md-4 col-sm-6 center">
+                                    <div><a href="http://www.barrierbreak.com/">
+                                    <img src="assets/images/exhibits/exhibitor12.png" alt="barrier break Logo"></a></div>	
+                </div>
+                 
+                 
+                 <div class="col-md-4 col-sm-6 center">
+                                    <div><a href="http://innovation.iitd.ac.in">
+                                    <img src="assets/images/exhibits/exhibitor13.png" alt="Design Innovation Center, IITD Logo"></a></div>	
+                </div>
+                
+                                 
+             </div>
     
     	</div>
     </section>
@@ -897,7 +921,7 @@ presentation in the relevant technical session.
 		<a class="anchor" id="sponsorship"></a>
         <h1 class="section-title">Sponsorship Details</h1>
             <div class="col-md-12">
-            	<div class="col-md-6">
+            	<div class="col-md-5">
             
                 <ul style="list-style:none; margin:0; padding:0;">
                     <li><img src="assets/images/sponsorships/platinum_sponsor.png" class="img-responsive img-left rounded-rect" alt="platinum colored reounded rectangle with text platinum sponsorship in between"></img>Platinum Sponsorship<br>INR 500,000 + 18% GST = INR 5,90,000 <br>Supports 10 Fellowships<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><br>Includes 3 Complimentary Registrations<i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i><i class="fa fa-check"  style="color:#F00; font-size:10pt;"></i></li>
@@ -916,24 +940,33 @@ presentation in the relevant technical session.
                 
 				</div>
 			
-            <div class="col-md-6 col-sm-6 col-xs-12 center">
+            <div class="col-md-7 col-sm-7 col-xs-12 center">
 				<h4 style="color:#192442;">Sponsors</h4>
-            	<div class="col-md-4 col-sm-6 center">  
-					<div><a href="https://www.lnttechservices.com/">
-                    <img src="assets/images/sponsorships/sponsor1.png" alt="L&T Tech Services Logo"></a></div>  
+                <div class="col-md-12">
+            	<div class="col-md-4 col-sm-4 center">  
+                	<h4 style="color:#696969!important; font-size:10pt; margin:30px 0;">Platinum</h4>
+					
+                    <div class="col-md-12"><a href="http://assistech.iitd.ac.in/"><img src="assets/images/sponsorships/assistech.png" alt="Assistech Logo"></a></a></div>  
+                      
 					
 				</div>
 			
-                <div class="col-md-4 col-sm-6 center">
-                    <div><a href="https://www.google.co.in/"><img src="assets/images/sponsorships/sponsor2.png" alt="Google Logo"></a></div>  
+                <div class="col-md-4 col-sm-4 center">
+                <h4 style="color:#edcf06!important; font-size:10pt; margin:30px 0;">Gold</h4>
+                <div class="col-md-12"><a href="https://www.lnttechservices.com/">
+                    <img src="assets/images/sponsorships/sponsor1.png" alt="L&T Tech Services Logo"></a></div>
+                    
 					
                 </div>
 				
-				<div class="col-md-4 col-sm-6 center">
-                    <div><a href="http://indianheadinjuryfoundation.org/"><img src="assets/images/sponsorships/sponsor3.png" alt="IHIS Logo"></a></div>  
+				<div class="col-md-4 col-sm-4 center">
+                <h4 style="color:#cccccc!important; font-size:10pt; margin:30px 0;">Silver</h4>
+                <div class="col-md-12" style="margin-bottom:30px;"><a href="https://www.google.co.in/"><img src="assets/images/sponsorships/sponsor2.png" alt="Google Logo"></a></div>  
+                    <div class="col-md-12"><a href="http://indianheadinjuryfoundation.org/"><img src="assets/images/sponsorships/sponsor3.png" alt="IHIS Logo"></a></div>  
 					
                 </div>
 				 
+                 </div>
             </div>   
 				 
             </div>

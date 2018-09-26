@@ -121,7 +121,7 @@
             <option id="b" value="OneDay">One Day</option>
            </select>
            </div>
-        
+        	
         <div class="form_css">
         <label>Registration Amount (in INR)<span style="color:red;">*</span></label>
         <input type="text" name="amount" class="form-control" id="amount" value="" readonly/>

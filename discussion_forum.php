@@ -46,6 +46,18 @@
                         	<img src="assets/images/partner/partner-1.png" alt="Logo of Assistech, IIT Delhi"/>
                         </div>
                         
+                        <div class="col-md-12 col-sm-3">
+                        	<img src="assets/images/sponsorships/sponsor1.png" alt="Logo of Assistech, IIT Delhi"/>
+                        </div>
+                        
+                        <div class="col-md-12 col-sm-3" style="margin-top:30px;">
+                        	<img src="assets/images/sponsorships/sponsor2.png" alt="Logo of Assistech, IIT Delhi"/>
+                        </div>
+                        
+                        <div class="col-md-12 col-sm-3" style="margin-top:30px;">
+                        	<img src="assets/images/sponsorships/sponsor3.png" alt="Logo of Assistech, IIT Delhi"/>
+                        </div>
+                        
                         
                     	
                         

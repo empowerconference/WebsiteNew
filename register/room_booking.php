@@ -111,14 +111,14 @@
 				 <div class="col-md-12" style="margin: 4px 0px; border: 1px solid #CCC!important; border-radius: 2px!important; padding: 20px 0;">
 					<div class=" col-md-6">
 					<label style="font-size:10pt;">Enter Check-In Date<span style="color: red;"> *</span><br/></label>
-					<input type="text" id="check-in" class="input_date" name="checkin" placeholder='Check-In' required onchange="displayVals();" />
+					<input type="text" id="check-in" class="input_date" name="checkin" placeholder='Check-In' required onChange="displayVals();" />
 					Oct 2018				
 					</div>				
 					
 				
 					<div class="col-md-6">
 					<label style="font-size:11pt;">Enter Check-Out Date <span style="color: red;"> *</span><br/></label>
-					<input type="text" id="check-out" class="input_date" name="checkout" placeholder='Check-Out' required onchange="displayVals();" />
+					<input type="text" id="check-out" class="input_date" name="checkout" placeholder='Check-Out' required onChange="displayVals();" />
 					Oct 2018
 					</div>
 				 </div>
@@ -141,8 +141,7 @@
 				
 				<div class="form_css">
 				<label class="col-md-3">Total Amount (in INR) :</label>
-				<input type="text" name="room_amount" class="col-md-6" style=" color: darkgreen; border: none!important; background: none;  font-size: 13pt;
-                 width: 50%; font-weight: bold; padding:5px;" id="amount" value="" readonly/>
+				<input type="text" name="room_amount" class="col-md-6" style=" color: darkgreen; border: none!important; background: none;  font-size: 13pt; width: 50%; font-weight: bold; padding:5px;" id="amount" value="" readonly/>
 				</div>
 				
 				
@@ -160,7 +159,7 @@
 		 
 <?php
 		include "include/redirect_bookings.php";
-	?>
+?>
 </form>
     
     </div>
@@ -196,7 +195,7 @@ function displayVals() {
 	
 		
 	else if (singleValues == "double"){
-			var am = days * 1592
+			var am = days * 1593
 			$("#amount").val(am);	
 			$("#days").val(days);
 			

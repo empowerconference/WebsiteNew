@@ -8,7 +8,7 @@
 </script>
 <?php
 session_start();
-$net = $_SESSION["room_amount"];
+$net = $_SESSION["amount"];
 $del = $_SESSION["type1"];
 
 ?>
@@ -58,6 +58,8 @@ $del = $_SESSION["type1"];
                   
         </p>
           <p class="lead">Your Total Payable amount is <strong>INR <?php echo $net; ?></strong></p>
+          <p style="font-size:10pt;">We will get back to you within 24 Hrs with the payment link. After your payment is successful your room booking will be complete.</p>
+          
         <!--  
 		<p>
 		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/ldca00f4bb6d640fb892441dd50dd7f06/'" id="gen_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
@@ -192,7 +194,7 @@ $del = $_SESSION["type1"];
         </div>
         </div>
         <div class="container">
-        	<p style="margin-bottom:0px;"><strong>OTHER PAYMENT OPTIONS:</strong></p>
+        	<p style="margin-bottom:0px;"><strong>You can also pay via NEFT/Account Transfer:</strong></p>
         	
             <div class="container mt-10" style="background:#fff;">
             <div class="col-md-12">

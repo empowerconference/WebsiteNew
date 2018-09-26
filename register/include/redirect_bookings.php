@@ -13,8 +13,8 @@ if(isset($_POST['submit'])){
 	//$password = "";
 	//$dbname = "formdata";
 	
-	$_SESSION["amount"] = $_POST['amount'];
-	$amount=$_SESSION["room_amount"];
+	$_SESSION["amount"] = $_POST['room_amount'];
+	
 	$name = $_POST['name'];
 	$gender=$_POST['gender'];
 	$contact = $_POST['contact'];
@@ -37,7 +37,7 @@ if(isset($_POST['submit'])){
 	{ 			
  
 		$sql = "INSERT INTO room_booking(name,gender,contact,email,address,affiliation,type,checkin,checkout,days,amount,questions) 
-		VALUES ('$name', '$gender', '$contact', '$email', '$address','$affiliation','$type', '$checkin','$checkout','$days','$amount','$questions')";
+		VALUES ('$name', '$gender', '$contact', '$email', '$address','$affiliation','$type', '$checkin','$checkout','$days','{$_SESSION['amount']}','$questions')";
 
 		if ($conn->query($sql) === TRUE) {
 			echo '<script type="text/javascript">
