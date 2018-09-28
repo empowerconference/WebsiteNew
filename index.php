@@ -786,7 +786,7 @@ presentation in the relevant technical session.
             <div class="row">
                 <div class="col-md-12">
                     <h3 class="text-uppercase mt0 font-400">Submit Your Abstract Here</h3>
-                        <a class="btn btn-white" href="https://docs.google.com/forms/d/e/1FAIpQLSdMtT4bSCih_kzzEYOR5VXu_qg07eM5ldl-wT1o9okqTQJJGQ/viewform?usp=sf_link" target="_blank">Submit</a>
+                        <a class="btn btn-white" href="#">Submissions over</a>
                 </div>
             </div>
         </div>

@@ -39,7 +39,7 @@ table tr th{
        
                 
 	
-                    <h3 class="section-title">Registration Details</h3>
+                    <h3 class="section-title">ROOM BOOKING DETAILS</h3>
                     
                     	<table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
 							<thead>
@@ -57,6 +57,7 @@ table tr th{
                                     <th>Number of Days</th>
                                     <th>Amount</th>
 									<th>Questions/Comments</th>
+                                    <th>Payment Status</th>
 
 
 								</tr>
@@ -116,6 +117,10 @@ table tr th{
 									</td>
                                     <td>
 										<?php echo $result["questions"];?>
+									</td>
+                                    
+                                    <td>
+										<?php echo $result["Payment Status"];?>
 									</td>
 								</tr> 
 							</tbody>
