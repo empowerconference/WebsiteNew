@@ -186,7 +186,7 @@
 				</div>
             
 				<div class="col-md-4 col-sm-4 col-xs-12"> 
-					<div class="organizing-committee">Ms. Neha M. Jadhav <a href="mailto:nehamjadhav@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Neha's email"></a><br>Local Outreach Coordinator<br>IIT Delhi</div>
+					<div class="organizing-committee">Ms. Neha M. Jadhav <a href="mailto:nehamjadhav@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Neha's email"></a><br>Local Outreach & Sponsorships Coordinator<br>IIT Delhi</div>
 				</div>
 			
 				<div class="col-md-4 col-sm-4 col-xs-12">
@@ -202,6 +202,10 @@
 				
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="organizing-committee">Ms. Manshul Belani <a href="mailto:manshulb@iiitd.ac.in"><img src="assets/images/chairs/message.png" alt="Link to Ms. Manshul's email"></a><br>Website and Submissions Coordinator<br>IIIT Delhi</div>
+				</div>
+				
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="organizing-committee">Ms. Shraddha Pandey <a href="mailto:shraddha727pandey@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Shraddha's email"></a><br>Website Coordinator<br>IIT Delhi</div>
 				</div>
 			 </div>
 			 </div>

@@ -45,23 +45,95 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script>
 	$(document).ready(function(){
-		$(".session2").click(function(){
-			$(".tr0s2").toggle();
+		$(".session2a").click(function(){
+			$("#2a").toggle();
+			$("#2a1").toggle();
+			$("#2a2").toggle();
 		});
-		$(".session3").click(function(){
-			$(".tr0s3").toggle();
+		$(".session2b").click(function(){
+			$("#2b").toggle();
+			$("#2b1").toggle();
+			$("#2b2").toggle();
 		});
-		$(".session6").click(function(){
-			$(".tr0s6").toggle();
+		$(".session2c").click(function(){
+			$("#2c").toggle();
+			$("#2c1").toggle();
+			$("#2c2").toggle();
 		});
-		$(".session7").click(function(){
-			$(".tr0s7").toggle();
+		$(".session3a").click(function(){
+			$("#3a").toggle();
+			$("#3a1").toggle();
+			$("#3a2").toggle();
 		});
-		$(".session10").click(function(){
-			$(".tr0s10").toggle();
+		$(".session3b").click(function(){
+			$("#3b").toggle();
+			$("#3b1").toggle();
+			$("#3b2").toggle();
 		});
-		$(".session11").click(function(){
-			$(".tr0s11").toggle();
+		$(".session3c").click(function(){
+			$("#3c").toggle();
+			$("#3c1").toggle();
+			$("#3c2").toggle();
+		});
+		$(".session6a").click(function(){
+			$("#6a").toggle();
+			$("#6a1").toggle();
+			$("#6a2").toggle();
+		});
+		$(".session6b").click(function(){
+			$("#6b").toggle();
+			$("#6b1").toggle();
+			$("#6b2").toggle();
+		});
+		$(".session6c").click(function(){
+			$("#6c").toggle();
+			$("#6c1").toggle();
+			$("#6c2").toggle();
+		});
+		$(".session7a").click(function(){
+			$("#7a").toggle();
+			$("#7a1").toggle();
+			$("#7a2").toggle();
+		});
+		$(".session7b").click(function(){
+			$("#7b").toggle();
+			$("#7b1").toggle();
+			$("#7b2").toggle();
+		});
+		$(".session7c").click(function(){
+			$("#7c").toggle();
+			$("#7c1").toggle();
+			$("#7c2").toggle();
+		});
+		$(".session10a").click(function(){
+			$("#10a").toggle();
+			$("#10a1").toggle();
+			$("#10a2").toggle();
+		});
+		$(".session10b").click(function(){
+			$("#10b").toggle();
+			$("#10b1").toggle();
+			$("#10b2").toggle();
+		});
+		$(".session10c").click(function(){
+			$("#10c").toggle();
+			$("#10c1").toggle();
+			$("#10c2").toggle();
+		});
+		$(".session11a").click(function(){
+			$("#11a").toggle();
+			$("#11a1").toggle();
+			$("#11a2").toggle();
+		});
+		$(".session11b").click(function(){
+			$("#11b").toggle();
+			$("#11b1").toggle();
+			$("#11b2").toggle();
+		});
+		$(".session11c").click(function(){
+			$("#11c").toggle();
+			$("#11c1").toggle();
+			$("#11c2").toggle();
 		});
 	});
 	</script>
