@@ -359,7 +359,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2b2">
 									<td>12:45 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3">Agastya: A Complete Accessibility Solution by Oswald Labs<br><i>Nishant Gadihoke</i></td>
 								</tr>
 								
 								<tr class="tr0s2 conditional" style="display:none" id="2c">
@@ -486,14 +486,16 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6c">
 									<td>11:45 AM</td>
-									<td rowspan="3" colspan="3">Dr. Sorge's session with Students</td>
+									<td colspan="3">Dr. Sorge's session with Students</td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c1">
 									<td>12:15 PM</td>
+									<td colspan="3">Comprehensible Tactile Graphics<br><i>Speaker: Prof. Steve Mannheimer</i></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c2">
 									<td>12:45 PM</td>
+									<td colspan="3">RAVI: Reading Assistant for Visually Impaired<br><i>Speaker: Akashdeep Bansal</i></td>
 								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -1137,7 +1139,36 @@ presentation in the relevant technical session.
 	</section>
 	<!-- Exhibit and Sponsors section ends-->
 
-	
+	<!--partners section starts-->
+	<section class="section partners">
+        <div class="container">
+		<!--<a class="anchor" id="sponsorship"></a>-->
+        <h1 class="section-title">Partners</h1>
+            <div class="col-md-12">
+            	<div class="col-md-3">
+					<a href="http://assistech.iitd.ernet.in/"><img src="assets/images/partner/partner-1.png" alt="Assistech Logo"></a>
+					<br>AssiTech<br>Oranizing Partner
+				</div>
+				<div class="col-md-3">
+					<a href="#"><img src="assets/images/partner/partner-2.png" alt="RLF Logo"></a>
+					<br>Raised Lines Foundation<br>Accessibility Partner
+                </div>
+                
+				
+				<div class="col-md-3">
+					<a href="http://saksham.org/"><img src="assets/images/partner/partner-3.png" alt="Saksham Logo"></a>
+					<br>Saksham Trust<br>Experience Zone Partner
+                </div>
+                
+				
+				<div class="col-md-3">
+					<a href="http://www.xrcvc.org/"><img src="assets/images/partner/partner-4.png" alt="XRCVC Logo"></a>
+					<br>XRCVC<br>Experience Zone Partner
+                </div>
+			</div>
+		</div>
+	</section>
+	<!--partners section ends-->
     
   
     
