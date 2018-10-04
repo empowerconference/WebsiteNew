@@ -346,7 +346,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a2">
 									<td>12:45 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td colspan="3"><div class="tr0div">Multilingual AAC for education (KAVI) and employment (vBill)<br><i>Speaker: G. R. Kasthuri</i></div></td>
 								</tr>
 								
 								<tr class="tr0s2 conditional" style="display:none" id="2b">
@@ -463,7 +463,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a1">
 									<td>12:15 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td colspan="3"><div class="tr0div">Tactograph and TakeNote for the Visually Impaired<br><i>Prabha Ramnathan</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a2">
 									<td>12:45 PM</td>
@@ -472,7 +472,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6b">
 									<td>11:45 AM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td colspan="3"><div class="tr0div">Breaking through Dyslexia<br><i>Divya Jalan & Aruna Bhaskar</i></div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b1">
@@ -631,7 +631,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a">
 									<td>2:15 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td colspan="3"><div class="tr0div">Universal Design Approach for Environmental Assistance<br><i>Dr. Gaurav Raheja</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a1">
 									<td>2:45 PM</td>
