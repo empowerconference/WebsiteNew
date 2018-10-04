@@ -158,7 +158,7 @@
         </div>
     </header>
 
-<nav id="site-nav" class="navbar navbar-custom" data-spy="affix" data-offset-top="700">
+<nav id="site-nav" class="navbar navbar-custom" data-spy="affix" data-offset-top="500">
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">

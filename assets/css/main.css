@@ -63,6 +63,15 @@ ul li {
   margin-bottom: 10px;
 }
 
+.tr0div{
+	display:inline-block; 
+	text-align:justify;
+}
+
+.caret {
+	border-width:6px;
+}
+
 .custom-list-icon, .list-arrow-right {
   list-style-type: none;
   padding: 0;

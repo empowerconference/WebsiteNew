@@ -44,8 +44,8 @@ Notice of cancellation (e.g. in case of sickness, lack of funding or any other p
 
 Registration fees may be refunded as follows:<br>
 Written cancellation received:<br>
-– before Otober 20, 2018:    75% refund<br>
-– after Otober 20, 2018:    no refund
+– before October 20, 2018:    75% refund<br>
+– after October 20, 2018:    no refund
 <br>
 <br>
 

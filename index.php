@@ -324,7 +324,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br>Title: Eyes-Free Computing — Past, Present And Future </td>
+                                <td colspan="3"><div class="tr0div"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br>Title: Eyes-Free Computing — Past, Present And Future </div></td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -332,39 +332,39 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM </span></td>
-                                <td><b>Session 2A:</b> Augmentative and Alternative Communication<br><i>Chair: Dr. Sudha Kaul<br>Organizer: S. Akila (NISH)</i><br><span class="caret session2a"></td>
-                                <td><b>Session 2B:</b> User Interfaces <br>  <i>Organizer: Prof. Aman Parnami</i><br><span class="caret session2b"></td>
-                                <td><b>Session 2C:</b> Antarchakshu - Grp 1  <br><i>  Organizer: Krishna Warrier (XRCVC)</i><br><span class="caret session2c"></td>
+                                <td><div class="tr0div"><b>Session 2A:</b> Augmentative and Alternative Communication<br><i>Chair: Dr. Sudha Kaul<br>Organizer: S. Akila (NISH)</i></div><br><span class="caret session2a"></td>
+                                <td><div class="tr0div"><b>Session 2B:</b> User Interfaces <br>  <i>Organizer: Prof. Aman Parnami</i></div><br><span class="caret session2b"></td>
+                                <td><div class="tr0div"><b>Session 2C:</b> Antarchakshu - Grp 1  <br><i>  Organizer: Krishna Warrier (XRCVC)</i></div><br><span class="caret session2c"></td>
                             </tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a">
 									<td>11:45 AM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a1">
 									<td>12:15 PM</td>
-									<td colspan="3">Assistive Technology Products: Best practices for Development, Commercialization and Scaling<br><i>Speaker: Narayanan</i></td>
+									<td colspan="3"><div class="tr0div">Assistive Technology Products: Best practices for Development, Commercialization and Scaling<br><i>Speaker: Narayanan</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a2">
 									<td>12:45 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								
 								<tr class="tr0s2 conditional" style="display:none" id="2b">
 									<td>11:45 AM</td>
-									<td colspan="3">Audio CAPTCHA: Usable Accessibility + Usable Security<br><i>Speaker: Dr. Charudatta Jadhav & Sumeet Agrawal</i></td>
+									<td colspan="3"><div class="tr0div">Audio CAPTCHA: Usable Accessibility + Usable Security<br><i>Speaker: Dr. Charudatta Jadhav & Sumeet Agrawal</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2b1">
 									<td>12:15 PM</td>
-									<td colspan="3">Enabling Solutions for Inclusion at the Workplace<br><i>Speaker: Moses Gorrepati Chowdary & Narenda V.G.</i></td>
+									<td colspan="3"><div class="tr0div">Enabling Solutions for Inclusion at the Workplace<br><i>Speaker: Moses Gorrepati Chowdary & Narenda V.G.</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2b2">
 									<td>12:45 PM</td>
-									<td colspan="3">Agastya: A Complete Accessibility Solution by Oswald Labs<br><i>Nishant Gadihoke</i></td>
+									<td colspan="3"><div class="tr0div">Agastya: A Complete Accessibility Solution by Oswald Labs<br><i>Nishant Gadihoke</i></div></td>
 								</tr>
 								
 								<tr class="tr0s2 conditional" style="display:none" id="2c">
 									<td>11:45 AM</td>
-									<td colspan="3" rowspan="3">Antarchakshu – The Eye Within Experience the Unexplored world</td>
+									<td colspan="3" rowspan="3"><div class="tr0div">Antarchakshu – The Eye Within Experience the Unexplored world</div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2c1">
 									<td>12:15 PM</td>
@@ -380,28 +380,28 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM </td>
-                                <td><b>Session 3A:</b> AT for speech and hearing impairment<br><i>Chair: Dr. Ajish Abraham <br> Organizer: S. Akila (NISH)</i><br><span class="caret session3a"></td>
-                                <td><b>Session 3B:</b> TV Raman with STEM students <br><i> Coordinator: Himanshu Garg</i><br><span class="caret session3b"></td>
-                                <td><b>Session 3C:</b> Antarchakshu - Grp 2 <br><i> Organizer: Krishna Warrier (XRCVC)</i><br><span class="caret session3c"></td>
+                                <td><div class="tr0div"><b>Session 3A:</b> AT for speech and hearing impairment<br><i>Chair: Dr. Ajish Abraham <br> Organizer: S. Akila (NISH)</i></div><br><span class="caret session3a"></td>
+                                <td><div class="tr0div"><b>Session 3B:</b> TV Raman with STEM students <br><i> Coordinator: Himanshu Garg</i></div><br><span class="caret session3b"></td>
+                                <td><div class="tr0div"><b>Session 3C:</b> Antarchakshu - Grp 2 <br><i> Organizer: Krishna Warrier (XRCVC)</i></div><br><span class="caret session3c"></td>
                             </tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a">
 									<td>2:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a1">
 									<td>2:45 PM</td>
-									<td colspan="3">TARANG-An affordable feature rich Hearing Aid<br><i>Speaker: Sri. Gopan George</i></td>
+									<td colspan="3"><div class="tr0div">TARANG-An affordable feature rich Hearing Aid<br><i>Speaker: Sri. Gopan George</i></div></td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a2">
 									<td>3:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								
 								<tr class="tr0s3 conditional" style="display:none" id="3b">
 									<td>2:15 PM</td>
-									<td rowspan="3" colspan="3">TV Raman's Session with participants</td>
+									<td rowspan="3" colspan="3"><div class="tr0div">TV Raman's Session with participants</div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
@@ -414,7 +414,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								
 								<tr class="tr0s3 conditional" style="display:none" id="3c">
 									<td>2:15 PM</td>
-									<td rowspan="3" colspan="3">Antarchakshu – The Eye Within Experience the Unexplored world</td>
+									<td rowspan="3" colspan="3"><div class="tr0div">Antarchakshu – The Eye Within Experience the Unexplored world</div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
@@ -430,7 +430,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3"><b>Session 4A  Keynote:</b> Dr. H.S. Chhabra (ISIC) </td>
+                                <td colspan="3"><div class="tr0div"><b>Session 4A  Keynote:</b> Dr. H.S. Chhabra (ISIC)</div> </td>
                             </tr>
                         </table>
                     </div>
@@ -443,7 +443,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><b>Session 5A Keynote:</b> Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University)<br>Title: InftyProject - Aiming at Improvement of STEM Accessibility
+                                <td colspan="3"><div class="tr0div"><b>Session 5A Keynote:</b> Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University)<br>Title: InftyProject - Aiming at Improvement of STEM Accessibility</div>
  </td>
                             </tr>
                             <tr class="tr1">
@@ -452,50 +452,50 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM </td>
-                                <td><b>Session 6A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer: Anil Prabhakar/S. Akila</i><br><span class="caret session6a"></td>
-                                <td><b>Session 6B:</b> Dyslexia and Special Learning Disabilities - P1  <br><i>   Organizer: Anupam Basu, Manjira Sina</i><br><span class="caret session6b"></td>
-                                <td><b>Session 6C:</b> Diagram and Maths accessibility for VI <br><i>  Organizer:Akashdeep Bansal</i><br><span class="caret session6c"></td>
+                                <td><div class="tr0div"><b>Session 6A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer: Anil Prabhakar/S. Akila</i></div><br><span class="caret session6a"></td>
+                                <td><div class="tr0div"><b>Session 6B:</b> Dyslexia and Special Learning Disabilities - P1  <br><i>   Organizer: Anupam Basu, Manjira Sina</i></div><br><span class="caret session6b"></td>
+                                <td><div class="tr0div"><b>Session 6C:</b> Diagram and Maths accessibility for VI <br><i>  Organizer:Akashdeep Bansal</i></div><br><span class="caret session6c"></td>
                             </tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a">
 									<td>11:45 AM</td>
-									<td colspan="3"> Implementing affordable AT solutions : the CATI way<br><i>Speaker: Dr. Akila S.</i></td>
+									<td colspan="3"><div class="tr0div"> Implementing affordable AT solutions : the CATI way<br><i>Speaker: Dr. Akila S.</i></div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a1">
 									<td>12:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a2">
 									<td>12:45 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6b">
 									<td>11:45 AM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b1">
 									<td>12:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b2">
 									<td>12:45 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6c">
 									<td>11:45 AM</td>
-									<td colspan="3">Dr. Sorge's session with Students</td>
+									<td colspan="3"><div class="tr0div">Dr. Sorge's session with Students</div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c1">
 									<td>12:15 PM</td>
-									<td colspan="3">Comprehensible Tactile Graphics<br><i>Speaker: Prof. Steve Mannheimer</i></td>
+									<td colspan="3"><div class="tr0div">Comprehensible Tactile Graphics<br><i>Speaker: Prof. Steve Mannheimer</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c2">
 									<td>12:45 PM</td>
-									<td colspan="3">RAVI: Reading Assistant for Visually Impaired<br><i>Speaker: Akashdeep Bansal</i></td>
+									<td colspan="3"><div class="tr0div">RAVI: Reading Assistant for Visually Impaired<br><i>Speaker: Akashdeep Bansal</i></div></td>
 								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -503,39 +503,39 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM </td>
-                                <td><b>Session 7A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer:Anil Prabhakar/S. Akila</i><br><span class="caret session7a"></td>
-                                <td><b>Session 7B:</b> Cerebral Palsy and Neuro Motor Disabilities <br> <i> Organizer: Anupam Basu, Manjira Sinha</i><br><span class="caret session7b"></td>
-                                <td><b>Session 7C:</b> Infty Assistive tools - Let's Get Experience of Creating and Accessing Accessible STEM Content <br><i>  Organizer: Dr. Kanahori<br> Coordinator: Akashdeep Bansal</i><br><span class="caret session7c"></td>
+                                <td><div class="tr0div"><b>Session 7A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer:Anil Prabhakar/S. Akila</i></div><br><span class="caret session7a"></td>
+                                <td><div class="tr0div"><b>Session 7B:</b> Cerebral Palsy and Neuro Motor Disabilities <br> <i> Organizer: Anupam Basu, Manjira Sinha</i></div><br><span class="caret session7b"></td>
+                                <td><div class="tr0div"><b>Session 7C:</b> Infty Assistive tools - Let's Get Experience of Creating and Accessing Accessible STEM Content <br><i>  Organizer: Dr. Kanahori<br> Coordinator: Akashdeep Bansal</i></div><br><span class="caret session7c"></td>
                             </tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a">
 									<td>2:15 PM</td>
-									<td colspan="3">Free software and digital fabrication in creating affordable assistive devices<br><i>Speaker: S G Akhil</i></td>
+									<td colspan="3"><div class="tr0div">Free software and digital fabrication in creating affordable assistive devices<br><i>Speaker: S G Akhil</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a1">
 									<td>2:45 PM</td>
-									<td colspan="3">Sanyog<br><i>Speaker: Prof. Anupam Basu</i></td>
+									<td colspan="3"><div class="tr0div">Sanyog<br><i>Speaker: Prof. Anupam Basu</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a2">
 									<td>3:15 PM</td>
-									<td colspan="3">Multilingual AAC for education (KAVI) and employment (vBill)<br><i>Speaker: G. R. Kasthuri</i></td>
+									<td colspan="3"><div class="tr0div">Multilingual AAC for education (KAVI) and employment (vBill)<br><i>Speaker: G. R. Kasthuri</i></div></td>
 								</tr>
 								
 								<tr class="tr0s7 conditional" style="display:none" id="7b">
 									<td>2:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b1">
 									<td>2:45 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b2">
 									<td>3:15 PM</td>
-									<td colspan="3">Development of Applications to Enhance Web Accessibility, Entertainment and Social Interaction Opportunities for People with Cerebral Palsy<br><i>Speaker: Dr. Tirthankar Dasgupta & Dr. Manjira Sinha</i></td>
+									<td colspan="3"><div class="tr0div">Development of Applications to Enhance Web Accessibility, Entertainment and Social Interaction Opportunities for People with Cerebral Palsy<br><i>Speaker: Dr. Tirthankar Dasgupta & Dr. Manjira Sinha</i></div></td>
 								</tr>
 								
 								<tr class="tr0s7 conditional" style="display:none" id="7c">
 									<td>2:15 PM</td>
-									<td colspan="3" rowspan="3">TBD</td>
+									<td colspan="3" rowspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7c1">
 									<td>2:45 PM</td>
@@ -552,11 +552,11 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3"><b>Session 8A Keynote:</b> Prof. Volker Sorge <br> </td>
+                                <td colspan="3"><div class="tr0div"><b>Session 8A Keynote:</b> Prof. Volker Sorge <br></div> </td>
                             </tr>
 							<tr class="tr1">
                             	<td>6:00 PM</td>
-                                <td colspan="3">Banquet Dinner @ Choki Dhani (Return by 10:00 PM)</td>
+                                <td colspan="3"><div class="tr0div">Banquet Dinner @ Choki Dhani (Return by 10:00 PM)</div></td>
                             </tr>
                         </table>
                     </div>
@@ -570,7 +570,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><b>Session 9A Keynote:</b> Mr. Saqib Shaikh (Microsoft, USA)<br> (To be confirmed)</td>
+                                <td colspan="3"><div class="tr0div"><b>Session 9A Keynote:</b> Mr. Saqib Shaikh (Microsoft, USA)<br> (To be confirmed)</div></td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -578,39 +578,39 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM </td>
-                                <td><b>Session 10A:</b> Assistive Technology for Mobility: Principles and Practices in India - P1 <br><i> Organizer: Nekram</i><br><span class="caret session10a"></td>
-                                <td><b>Session 10B:</b> Digital world accessibility <br><i> Organizer: Dipendra Manocha<br>  Coordinator: Neha Jadhav</i><br><span class="caret session10b"></td>
-                                <td><b>Session 10C:</b> Users engage with Design + Engineering Students  <br> <i> Organizer: PVM Rao + Supradip Das</i><br><span class="caret session10c"></td>
+                                <td><div class="tr0div"><b>Session 10A:</b> Assistive Technology for Mobility: Principles and Practices in India - P1 <br><i> Organizer: Nekram</i></div><br><span class="caret session10a"></td>
+                                <td><div class="tr0div"><b>Session 10B:</b> Digital world accessibility <br><i> Organizer: Dipendra Manocha<br>  Coordinator: Neha Jadhav</i></div><br><span class="caret session10b"></td>
+                                <td><div class="tr0div"><b>Session 10C:</b> Users engage with Design + Engineering Students  <br> <i> Organizer: PVM Rao + Supradip Das</i></div><br><span class="caret session10c"></td>
                             </tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a">
 									<td>11:45 AM</td>
-									<td colspan="3">Design and development of an affordable passive polycentric knee joint and dynamic ankle joint with different advanced features for trans-femoral amputee<br><i>Speaker:  S Kanagaraj</i></td>
+									<td colspan="3"><div class="tr0div">Design and development of an affordable passive polycentric knee joint and dynamic ankle joint with different advanced features for trans-femoral amputee<br><i>Speaker:  S Kanagaraj</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a1">
 									<td>12:15 PM</td>
-									<td colspan="3">Strategies to implement the WHO Guidelines on the Provision of Manual Wheelchairs in Less-Resourced Settings<br><i>Speaker: Nekram Upadhyay</i></td>
+									<td colspan="3"><div class="tr0div">Strategies to implement the WHO Guidelines on the Provision of Manual Wheelchairs in Less-Resourced Settings<br><i>Speaker: Nekram Upadhyay</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a2">
 									<td>12:45 PM</td>
-									<td colspan="3">Consumer Perspective of Assistive Technology for Mobility: a comparative analysis between established and emerging settings<br><i>Speaker: Mr. Shivjeet Singh Raghav</i></td>
+									<td colspan="3"><div class="tr0div">Consumer Perspective of Assistive Technology for Mobility: a comparative analysis between established and emerging settings<br><i>Speaker: Mr. Shivjeet Singh Raghav</i></div></td>
 								</tr>
 								
 								<tr class="tr0s10 conditional" style="display:none" id="10b">
 									<td>11:45 AM</td>
-									<td colspan="3">Standards related to Accessibility of Digital Content<br><i>Speaker: Dipendra Manocha & Prashant Ranjan Verma</i></td>
+									<td colspan="3"><div class="tr0div">Standards related to Accessibility of Digital Content<br><i>Speaker: Dipendra Manocha & Prashant Ranjan Verma</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b1">
 									<td>12:15 PM</td>
-									<td colspan="3">Integrated models to promote digital literacy  for visually impaired<br><i>Speaker: Homiyar Mobedji</i></td>
+									<td colspan="3"><div class="tr0div">Integrated models to promote digital literacy  for visually impaired<br><i>Speaker: Homiyar Mobedji</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b2">
 									<td>12:45 PM</td>
-									<td colspan="3">One Touch Automation in Accessibility Value Chain<br><i>Speaker:  Dr. Charudatta Jadhav & Sumeet Agrawal</i></td>
+									<td colspan="3"><div class="tr0div">One Touch Automation in Accessibility Value Chain<br><i>Speaker:  Dr. Charudatta Jadhav & Sumeet Agrawal</i></div></td>
 								</tr>
 								
 								<tr class="tr0s10 conditional" style="display:none" id="10c">
 									<td>11:45 AM</td>
-									<td rowspan="3" colspan="3">User challenges presentations</td>
+									<td rowspan="3" colspan="3"><div class="tr0div">User challenges presentations</div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10c1">
 									<td>12:15 PM</td>
@@ -625,39 +625,39 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM </td>
-                                <td><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Organizer: Nekram</i><br><span class="caret session11a"></td>
-                                <td><b>Session 11B:</b> AI in Assistive Technology <br><i> Organizer: Anupam Sobti</i><br><span class="caret session11b"></td>
-                                <td><b>Session 11C:</b> Users engage with Design + Engineering Students <br><i>  Organizer: PVM Rao + Supradip Das</i><br><span class="caret session11c"></td>
+                                <td><div class="tr0div"><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Organizer: Nekram</i></div><br><span class="caret session11a"></td>
+                                <td><div class="tr0div"><b>Session 11B:</b> AI in Assistive Technology <br><i> Organizer: Anupam Sobti</i></div><br><span class="caret session11b"></td>
+                                <td><div class="tr0div"><b>Session 11C:</b> Users engage with Design + Engineering Students <br><i>  Organizer: PVM Rao + Supradip Das</i></div><br><span class="caret session11c"></td>
                             </tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a">
 									<td>2:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a1">
 									<td>2:45 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a2">
 									<td>3:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								
 								<tr class="tr0s11 conditional" style="display:none" id="11b">
 									<td>2:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b1">
 									<td>2:45 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b2">
 									<td>3:15 PM</td>
-									<td colspan="3">TBD</td>
+									<td colspan="3"><div class="tr0div">TBD</div></td>
 								</tr>
 								
 								<tr class="tr0s11 conditional" style="display:none" id="11c">
 									<td>2:15 PM</td>
-									<td colspan="3" rowspan="3">Particpant solution proposals</td>
+									<td colspan="3" rowspan="3"><div class="tr0div">Particpant solution proposals</div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11c1">
 									<td>2:45 PM</td>
@@ -672,7 +672,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3"><b>Session 12A:</b> Panel Discussion & Closing Ceremony </td>
+                                <td colspan="3"><div class="tr0div"><b>Session 12A:</b> Panel Discussion & Closing Ceremony </div></td>
                             </tr>
                         </table>
                     </div>
