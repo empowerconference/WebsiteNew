@@ -11,18 +11,34 @@
     <section class="section about">
         <div class="container">
             <div class="row">
-                <div class="col-md-9 col-sm-12" style="margin-bottom:40px;">
+                <div class="col-md-5 col-sm-12" style="margin-bottom:40px;">
 	
                     <h3 class="section-title">Contact Us</h3>
                                         
                      <p>
+                     <strong>Mr. Himanshu Garg</strong><br>
                      Conference Secretary <br>
-					 Mr. Himanshu Garg<br>
-                     E-mail: himanshu.garg@cse.iitd.ac.in ; himanshu.garg@gmail.com<br>
+					 E-mail: himanshu.garg@cse.iitd.ac.in ; <br>
+						himanshu.garg@gmail.com<br>
 					 Phone No: +91-9650175105
                      
                      </p>  
+                     <p>
+                     <strong>Ms. Shraddha Pandey</strong><br>
+                     Local Outreach Coordinator <br>
+					 E-mail: shraddha727pandey@gmail.com
                      
+                     </p>
+                     
+                     <p>
+                     <strong>Ms. Sunita Negi</strong><br>
+                     Local Outreach Coordinator<br>
+					 E-mail: suni.saggi7@gmail.com<br>
+					 
+                     
+                     </p>
+                     </div>
+                     <div class="col-md-7 col-sm-12">
                      <p>
                      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNxltMEwxQqxzUWkSescA7cvEJx6lpOCaTIZojlTDCxysiiQ/viewform?usp=sf_link" width="100%" height="1000px"></iframe>
                      </p>                 

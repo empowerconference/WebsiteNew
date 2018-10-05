@@ -15,6 +15,12 @@
 	margin-right: 10px;
 }
 </style>
+<div style="float:right; top:90vh; position:fixed; z-index:9999; width:98%; text-align:right;">
+        <a class="btn btn-primary" href="contact.php" style="padding:5px 15px">
+	        Contact Us
+        </a>
+     </div>   
+
 
 <a class="anchor" id="about"></a>
     <section class="section about">
@@ -858,6 +864,12 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 						<br>
 						<span style="color:#F00; font-size:14pt;">#</span> Lunch & Tea during conference
                         <br>
+						<br>
+                        
+                        <a class="btn btn-warning" href="register" style="padding:5px 25px">
+	        Register
+        </a><br>
+
 						<br>
                        
 					<div>		
