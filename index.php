@@ -1162,6 +1162,10 @@ presentation in the relevant technical session.
 					<br>AssiTech<br>Oranizing Partner
 				</div>
 				<div class="col-md-3">
+					<a href="http://assistech.iitd.ernet.in/"><img src="assets/images/partner/partner-5.png" alt="FITT Logo"></a>
+					<br>FITT<br>Oranizing Partner
+				</div>
+				<div class="col-md-3">
 					<a href="#"><img src="assets/images/partner/partner-2.png" alt="RLF Logo"></a>
 					<br>Raised Lines Foundation<br>Accessibility Partner
                 </div>
@@ -1171,7 +1175,6 @@ presentation in the relevant technical session.
 					<a href="http://saksham.org/"><img src="assets/images/partner/partner-3.png" alt="Saksham Logo"></a>
 					<br>Saksham Trust<br>Experience Zone Partner
                 </div>
-                
 				
 				<div class="col-md-3">
 					<a href="http://www.xrcvc.org/"><img src="assets/images/partner/partner-4.png" alt="XRCVC Logo"></a>

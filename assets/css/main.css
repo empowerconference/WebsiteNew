@@ -66,6 +66,7 @@ ul li {
 .tr0div{
 	display:inline-block; 
 	text-align:justify;
+	vertical-align:text-top;
 }
 
 .caret {
@@ -730,6 +731,7 @@ ul li {
 	color:#000;
 	font-weight:500;
 	text-align:center;
+	vertical-align:text-top;
 }
 
 .tr0s3{

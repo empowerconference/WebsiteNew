@@ -188,6 +188,10 @@
 				<div class="col-md-4 col-sm-4 col-xs-12"> 
 					<div class="organizing-committee">Ms. Neha M. Jadhav <a href="mailto:nehamjadhav@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Neha's email"></a><br>Local Outreach & Sponsorships Coordinator<br>IIT Delhi</div>
 				</div>
+				
+				<div class="col-md-4 col-sm-4 col-xs-12"> 
+					<div class="organizing-committee">Ms. Sunita Negi <a href="mailto:suni.saggi7@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Ms. Sunita's email"></a><br>Local Outreach Coordinator<br>IIT Delhi</div>
+				</div>
 			
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="organizing-committee">Mr. Suman Muralikrishnan <a href="mailto:suman30murali@gmail.com"><img src="assets/images/chairs/message.png" alt="Link to Mr. Suman's email"></a><br>Exhibits Coordinator<br>IIT Delhi</div>
