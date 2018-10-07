@@ -716,7 +716,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                 <ul style="list-style:none; margin:0; padding:0;">
                     <li style="background:#fff8e0; padding:5px;">Registrations Open <a href="register" aria-label="registration">Click Here</a></li>
                     <li style="padding:5px;">Room Bookings Open<a href="register/room_booking.php" aria-label="room booking"> Click Here</a></li>
-                    <li style="background:#fff8e0; padding:5px;">Early bird registration ends: October 07, 2018</li>
+                    <li style="background:#fff8e0; padding:5px;">Early bird registration ends: October 12, 2018</li>
 				</ul>    
                 
          </div>
@@ -724,8 +724,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                 <div class="col-sm-4">
                     <h2 style="color:#192442;">Venue</h2>
                     
-                        <p> The Empower 2018 conference will be held at <br>
-							I-TEC IIT Delhi Technopark, Sonipat.<br>
+                        <p>I-TEC IIT Delhi Technopark, Sonipat.<br>
 							Campus Plot #4-B<br>
                             Rajiv Gandhi Education City, Kundli,<br>
                             Sonipat Haryana- 131028<br>
@@ -821,9 +820,9 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
             <table>
                         	<tr style="background:#f5a623; color:#000; text-align:center; font-weight:bold; font-size:16pt;">
                             	<th style="padding:5px;">Delegate Type</th>
-								<th style="padding:5px;">Early bird Registration <br>(ends 7 <sup>th</sup> October)</th>
+								<th style="padding:5px;">Early bird Registration <br>(ends 12 <sup>th</sup> October)</th>
 								<th style="padding:5px;">Regular Registration </th>
-								<th style="padding:5px;">Early One Day Registration <br>(ends 7 <sup>th</sup> October)</th>
+								<th style="padding:5px;">Early One Day Registration <br>(ends 12 <sup>th</sup> October)</th>
 								<th style="padding:5px;">One Day Registration</th>
                             </tr>
                             <tr class="tr0">
@@ -997,10 +996,10 @@ presentation in the relevant technical session.
 					
 				</div>
 			
-                <div class="col-md-4 col-sm-6 center">
+                <!--<div class="col-md-4 col-sm-6 center">
                     <div><a href="http://www.saksham.org/"><img src="assets/images/exhibits/exhibitor3.png" alt="Saksham Logo"></a></div>  
 					
-                </div>
+                </div>-->
 				
 				<div class="col-md-4 col-sm-6 center">
                     <div><a href="http://www.kritikalsolutions.com/"><img src="assets/images/exhibits/exhibitor4.png" alt="KSPL Logo"></a></div>  
@@ -1158,27 +1157,27 @@ presentation in the relevant technical session.
         <h1 class="section-title">Partners</h1>
             <div class="col-md-12">
             	<div class="col-md-3">
-					<a href="http://assistech.iitd.ernet.in/"><img src="assets/images/partner/partner-1.png" alt="Assistech Logo"></a>
-					<br>AssiTech<br>Oranizing Partner
+					<div class="partners"><a href="http://assistech.iitd.ernet.in/"><img src="assets/images/partner/partner-1.png" alt="Assistech Logo"></a>
+					<br>AssisTech<br>Organizer</div>
 				</div>
 				<div class="col-md-3">
-					<a href="http://assistech.iitd.ernet.in/"><img src="assets/images/partner/partner-5.png" alt="FITT Logo"></a>
-					<br>FITT<br>Oranizing Partner
+					<div class="partners"><a href="http://assistech.iitd.ernet.in/"><img src="assets/images/partner/partner-5.png" alt="FITT Logo"></a>
+					<br>FITT<br>Organizing Partner</div>
 				</div>
 				<div class="col-md-3">
-					<a href="#"><img src="assets/images/partner/partner-2.png" alt="RLF Logo"></a>
-					<br>Raised Lines Foundation<br>Accessibility Partner
+					<div class="partners"><a href="#"><img src="assets/images/partner/partner-2.png" alt="RLF Logo"></a>
+					<br>Raised Lines Foundation<br>Accessibility Partner</div>
                 </div>
                 
 				
 				<div class="col-md-3">
-					<a href="http://saksham.org/"><img src="assets/images/partner/partner-3.png" alt="Saksham Logo"></a>
-					<br>Saksham Trust<br>Experience Zone Partner
+					<div class="partners"><a href="http://saksham.org/"><img src="assets/images/partner/partner-3.png" alt="Saksham Logo"></a>
+					<br>Saksham Trust<br>Experience Zone Partner</div>
                 </div>
 				
 				<div class="col-md-3">
-					<a href="http://www.xrcvc.org/"><img src="assets/images/partner/partner-4.png" alt="XRCVC Logo"></a>
-					<br>XRCVC<br>Experience Zone Partner
+					<div class="partners"><a href="http://www.xrcvc.org/"><img src="assets/images/partner/partner-4.png" alt="XRCVC Logo"></a>
+					<br>XRCVC<br>Experience Zone Partner</div>
                 </div>
 			</div>
 		</div>

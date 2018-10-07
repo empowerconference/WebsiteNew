@@ -19,7 +19,6 @@
                      <strong>Mr. Himanshu Garg</strong><br>
                      Conference Secretary <br>
 					 E-mail: himanshu.garg@cse.iitd.ac.in ; <br>
-						himanshu.garg@gmail.com<br>
 					 Phone No: +91-9650175105
                      
                      </p>  
