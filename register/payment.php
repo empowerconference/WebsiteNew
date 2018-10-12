@@ -60,22 +60,22 @@ $del = $_SESSION["type1"];
           <p class="lead">Your Total Payable amount is <strong>INR <?php echo $net; ?></strong></p>
           
 		  <p>
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/ldca00f4bb6d640fb892441dd50dd7f06/'" id="gen_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/lc0c2315bd7da4183b4a9929c77333a08/'" id="da_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/ld64b379302904d079d42d8ec2d6b3600/'" id="student_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/ld7eebfefa4f0421194da267b13578ef5/'" id="ap_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://imjo.in/Q7F4GH'" id="gen_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://imjo.in/8rCSDx'" id="da_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://imjo.in/Wtvcsq'" id="student_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://www.instamojo.com/@fitt_iitd/ld7eebfefa4f0421194da267b13578ef5/'" id="ap_full" class="btn btn-warning center-block" style="display:none;">Make Payment</button>
 		  
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/l5e25143d42f94e2589d11aa7a9ff8486/'" id="gen_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/l10ac970437cf456abdca6a7b88920071/'" id="da_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/lc8bf868bf1bf49c3922f47d2c0f7cc06/'" id="student_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
-		  <button type="button" onclick="location.href='https://www.instamojo.com/@fitt_iitd/lbcf04d92ef6e4acebfea3b854e8be917/'" id="ap_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://imjo.in/HqAXp7'" id="gen_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://imjo.in/Qmmyzn'" id="da_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://imjo.in/DyXrVH'" id="student_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
+		  <button type="button" onClick="location.href='https://www.instamojo.com/@fitt_iitd/lbcf04d92ef6e4acebfea3b854e8be917/'" id="ap_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
 		  
 		  <span style="color:red; font-size:10pt; margin-top:15px;"><em>You will be redirected to Payment Gateway for payment</em></span>
 <script>
 	var xyz = '<?php echo $net ?>';
 	var abc = '<?php echo $del ?>';
 	
-		if (xyz == 5900){
+		if (xyz == 7080){
 			
 			 
 			document.getElementById('gen_full').setAttribute("style", "display:block");
@@ -89,7 +89,7 @@ $del = $_SESSION["type1"];
 			document.getElementById('ap_one').setAttribute("style", "display:none");
 		}
 		
-		else if ((xyz == 3540)&&(abc == "Differently_Abled")){
+		else if ((xyz == 4130)&&(abc == "Differently_Abled")){
 			
 			document.getElementById('gen_full').setAttribute("style", "display:none");
 			document.getElementById('da_full').setAttribute("style", "display:block");
@@ -102,7 +102,7 @@ $del = $_SESSION["type1"];
 			document.getElementById('ap_one').setAttribute("style", "display:none");
 		}
 		
-		else if ((xyz == 3540)&&(abc == "Student")){
+		else if ((xyz == 4130)&&(abc == "Student")){
 			
 			document.getElementById('gen_full').setAttribute("style", "display:none");
 			document.getElementById('da_full').setAttribute("style", "display:none");
@@ -130,7 +130,7 @@ $del = $_SESSION["type1"];
 		
 		
 		
-		else if (xyz == 2360){
+		else if (xyz == 2950){
 			
 			document.getElementById('gen_full').setAttribute("style", "display:none");
 			document.getElementById('da_full').setAttribute("style", "display:none");
@@ -143,7 +143,7 @@ $del = $_SESSION["type1"];
 			document.getElementById('ap_one').setAttribute("style", "display:none");
 		}
 		
-		else if ((xyz == 1180)&&(abc == "Differently_Abled")){
+		else if ((xyz == 1770)&&(abc == "Differently_Abled")){
 			
 			document.getElementById('gen_full').setAttribute("style", "display:none");
 			document.getElementById('da_full').setAttribute("style", "display:none");
@@ -156,7 +156,7 @@ $del = $_SESSION["type1"];
 			document.getElementById('ap_one').setAttribute("style", "display:none");
 		}
 		
-		else if ((xyz == 1180)&&(abc == "Student")){
+		else if ((xyz == 1770)&&(abc == "Student")){
 			
 			document.getElementById('gen_full').setAttribute("style", "display:none");
 			document.getElementById('da_full').setAttribute("style", "display:none");
@@ -217,24 +217,10 @@ $del = $_SESSION["type1"];
 										3. The amount is inclusive of 18% GST, if you wish to claim a receipt for the same, write an E-mail to
 											<a href="mailto:Himanshu.Garg@cse.iitd.ac.in?Subject=Payment%20Related"> Himanshu.Garg@cse.iitd.ac.in </a>
                                         </p>
-                                        <p>
-											<strong>Option 1: HDFC Bank</strong></br>											
-											Beneficiary Name : FITT, IIT Delhi</br>
-											Bank account no : 00321110000040</br>
-											Bank address : HDFC Bank Ltd., C-5/32, Safdarjung Development Area, New Delhi-110016</br>
-											Branch Bank : 0032</br>
-											IFSC : HDFC0000032</br>
-											Via - Swift Code : HDFCINBB</br>
-											MICR Code : 110240004</br>
-											Account type : Saving Account</br>
-											Bank Tel. Fax : +91-11-41392100</br>
-											GSTIN No. : 07AAAJF0001G1Z3
-										
-										
-										</p>
+                                       
 										
 										<p>
-											<strong>Option 2: State Bank of India</strong></br>	
+											<strong>State Bank of India</strong></br>	
 											Beneficiary Name : Foundation for Innovation and Technology Transfer</br>
 											Bank Account No. : 10773571968 </br>
 											Bank Address : State Bank of India, IIT Delhi, Hauz Khas, New Delhi-110016</br>

@@ -105,6 +105,7 @@
             <option id="c" value="Student">Student</option>
             <option id="d" value="AP">Accompanying Person </option>
             <option id="E" value="Exhibit">Exhibitor</option>
+            <option id="f" value="Student_Volunteer">Student Volunteer</option>
           </select>
 		</div>
         
@@ -144,33 +145,33 @@ function displayVals() {
   var singleValues = $( "#sel" ).val();
   var doubleValues = $( "#reg" ).val();
   	if ((singleValues == "General") & (doubleValues == "Full")){
-			$("#amount").val("5900");	
+			$("#amount").val("7080");	
 			document.getElementById("ref").style.display = "none";
 		}  
 	
 	else if ((singleValues == "General") & (doubleValues == "OneDay")){
-			$("#amount").val("2360");	
+			$("#amount").val("2950");	
 			document.getElementById("ref").style.display = "none";
 		}  
 	
 
 	else if ((singleValues == "Differently_Abled") & (doubleValues == "Full")){
-			$("#amount").val("3540");	
+			$("#amount").val("4130");	
 			document.getElementById("ref").style.display = "none";
 		}
 		
 	else if ((singleValues == "Differently_Abled") & (doubleValues == "OneDay")){
-			$("#amount").val("1180");	
+			$("#amount").val("1770");	
 			document.getElementById("ref").style.display = "none";
 		}	 
 		
 	else if ((singleValues == "Student") & (doubleValues == "Full")){
-			$("#amount").val("3540");	
+			$("#amount").val("4130");	
 			document.getElementById("ref").style.display = "none";
 		}
 		
 	else if ((singleValues == "Student") & (doubleValues == "OneDay")){
-			$("#amount").val("1180");	
+			$("#amount").val("1770");	
 			document.getElementById("ref").style.display = "none";
 		}	 
 		
@@ -187,6 +188,11 @@ function displayVals() {
 	else if (singleValues == "Exhibit"){
 			$("#amount").val("0");	
 			document.getElementById("ref").style.display = "block";
+		}
+		
+	else if (singleValues == "Student_Volunteer"){
+			$("#amount").val("0");	
+			document.getElementById("ref").style.display = "none";
 		}		  		  
         
 }    
