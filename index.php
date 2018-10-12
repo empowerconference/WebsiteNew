@@ -292,6 +292,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
             </div>
 			<!--new code added ends-->
 			</div>
+			<br>Find presentation setup information <span style="color:#F00;"><a href="Empower 2018_ Presentation Setup Information.pdf">here.</a></span>
 			
             </div>
     </section>      
@@ -743,6 +744,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 							Campus Plot #4-B<br>
                             Rajiv Gandhi Education City, Kundli,<br>
                             Sonipat Haryana- 131028<br>
+							<a href="How to reach IITD-Sonipat.pdf" aria-label="How to reach IITD-Sonipat?">How to reach IITD-Sonipat?</a>
                         </p>                   
                  </div>
     			
@@ -872,7 +874,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 						<br>
 						All charges are inclusive of GST.
 						<br>
-                        <span style="color:#F00; font-size:14pt;">*</span> Participation in all keynotes and 1 of each ongoing parallel tracks | Registration Kit  | 1 Banquet Dinner | Lunch & Tea during conference
+                        <span style="color:#F00; font-size:14pt;">*</span> Participation in all keynotes and 1 of each ongoing parallel tracks | Registration Kit  | 1 Banquet Dinner | Lunch & Tea during conference (Banquet Dinner not included in One-Day registration.)
 						<br>
 						<span style="color:#F00; font-size:14pt;">**</span> Participation in all keynotes and 1 of each ongoing parallel tracks | Registration Kit | Lunch & Tea during conference
 						<br>
