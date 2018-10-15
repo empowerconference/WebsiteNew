@@ -105,8 +105,8 @@
             <option id="c" value="Student">Student</option>
             <option id="d" value="AP">Accompanying Person </option>
             <option id="E" value="Exhibit">Exhibitor</option>
-            <option id="f" value="Student_Volunteer">Student Volunteer</option>
-          </select>
+            <option id="f" value="DesignStudent">Design Challenge Student</option>
+           </select>
 		</div>
         
         <div class="form_css" id="ref" style="display:none;">
@@ -115,7 +115,7 @@
 		
         </div>
         
-        <div class="form_css">
+        <div class="form_css" id="reg_type">
           <label for="sel2">Register For<span style="color:red;">*</span></label><br>
  		  <select id="reg" name="type2" class="form-control" required>
             <option id ="a" value="Full">Full Workshop</option>
@@ -126,7 +126,7 @@
         <div class="form_css">
         <label>Registration Amount (in INR)<span style="color:red;">*</span></label>
         <input type="text" name="amount" class="form-control" id="amount" value="" readonly/>
-		<span style="color:red;">*</span>These are Early-Bird charges when you register before 7th October 2018
+		
         </div>
 		
         <div class="form_css" style="text-align:center">
@@ -146,54 +146,65 @@ function displayVals() {
   var doubleValues = $( "#reg" ).val();
   	if ((singleValues == "General") & (doubleValues == "Full")){
 			$("#amount").val("7080");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "none";
 		}  
 	
 	else if ((singleValues == "General") & (doubleValues == "OneDay")){
 			$("#amount").val("2950");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "none";
 		}  
 	
 
 	else if ((singleValues == "Differently_Abled") & (doubleValues == "Full")){
 			$("#amount").val("4130");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "none";
 		}
 		
 	else if ((singleValues == "Differently_Abled") & (doubleValues == "OneDay")){
 			$("#amount").val("1770");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "none";
 		}	 
 		
 	else if ((singleValues == "Student") & (doubleValues == "Full")){
 			$("#amount").val("4130");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "none";
 		}
 		
 	else if ((singleValues == "Student") & (doubleValues == "OneDay")){
 			$("#amount").val("1770");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "none";
 		}	 
 		
 		
 		else if ((singleValues == "AP") & (doubleValues == "Full")){
 			$("#amount").val("1770");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "none";
 		}
 		else if ((singleValues == "AP") & (doubleValues == "OneDay")){
-			$("#amount").val("590");	
+			$("#amount").val("590");
+			document.getElementById("reg_type").style.display = "block";	
 			document.getElementById("ref").style.display = "none";
 		}
 		
 	else if (singleValues == "Exhibit"){
 			$("#amount").val("0");	
+			document.getElementById("reg_type").style.display = "block";
 			document.getElementById("ref").style.display = "block";
 		}
 		
-	else if (singleValues == "Student_Volunteer"){
-			$("#amount").val("0");	
+	else if (singleValues == "DesignStudent"){
+			$("#amount").val("590");	
 			document.getElementById("ref").style.display = "none";
-		}		  		  
+			document.getElementById("reg_type").style.display = "none";
+		}
+	  		  
         
 }    
 $( "select" ).change(displayVals );    

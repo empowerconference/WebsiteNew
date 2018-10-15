@@ -15,11 +15,22 @@
 	margin-right: 10px;
 }
 </style>
-<div style="float:right; top:90vh; position:fixed; z-index:9999; width:98%; text-align:right;">
-        <a class="btn btn-primary" href="contact.php" style="padding:5px 15px">
+<div style="float:right; top:80vh; position:fixed; z-index:9999; width:98%; text-align:right;">
+		
+
+		<a class="btn btn-danger" href="design_challenges.pdf" target="_blank" style="padding:5px 15px; min-width:180px;">
+	        Design Challenge<br>
+			<em style="text-transform:capitalize">Open for Participation</em>
+        </a>
+        <br>
+		<br>
+
+        
+        <a class="btn btn-primary" href="contact.php" style="padding:5px 15px; min-width:180px;">
 	        Contact Us
         </a>
-     </div>   
+        
+</div>   
 
 
 <a class="anchor" id="about"></a>
@@ -32,7 +43,7 @@
 
                     <p style="text-align:justify;">The EMPOWER 2018 conference is being organized to bring together all stakeholders in the space of Assistive Technologies for people with disabilities. This includes users, user organizations, industries, special educators, inclusive designers, healthcare professionals,  entrepreneurs, policy makers and researchers engaged in
 different ways with the issues involved in the creation, production, and dissemination of assistive technology solutions. This three-day event will see the active participation of all stakeholders not only to discuss current solutions but also to seed ideas to work on future solutions.<br><br>
-Apart from an exhibition the event would consist of keynote talks, invited presentations, panel discussions, posters, tutorials, user forums and design challenges. Registrations are <a href="#registration"> now open </a>for individuals and organizations to participate. Participants can <a href="#participate"> submit their paper</a> for review and <a href="#sponsorship"> exhibit their products and innovations</a> and also participate in design challenges. <br><br> The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.</p>
+Apart from an exhibition the event would consist of keynote talks, invited presentations, panel discussions, posters, tutorials, user forums and design challenges. Registrations are <a href="#registration"> now open </a>for individuals and organizations to participate. Participants can <a href="#participate"> submit their paper</a> for review and <a href="#sponsorship"> exhibit their products and innovations</a> and also participate in <a href="design_challenges.pdf">design challenges</a>. <br><br> The venue is <a href="http://www.iitdsonipat.com/">I-TEC Technopark</a>, a conference and incubation center of IIT Delhi located in the Rajiv Gandhi Education City in Sonipat.</p>
 
                     
 

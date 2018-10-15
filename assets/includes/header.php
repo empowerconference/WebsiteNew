@@ -2069,7 +2069,7 @@
             <h2>25 - 27 October 2018</h2>
             <a class="btn btn-white" data-scroll href="register">Register Now</a>
 			<br><br>
-			<a class="downArrow" data-scroll href="index.php#about"><b>&#8595</b></a>
+            <a href="index.php#about" class="downArrow" data-scroll> <i class="fa fa-angle-down"></i></a>
         
         </div>
     </header>

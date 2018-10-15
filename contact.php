@@ -1,4 +1,3 @@
-
 <?php include 'assets/includes/header2.php' ?>
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

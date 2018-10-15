@@ -64,11 +64,11 @@ ul li {
 }
 
 .downArrow{
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 12px;
+	padding-right: 12px;
 	padding-top:5px;
 	padding-bottom:5px;
-	color: #000;
+	color: #fff;
 	background-color: #F5A623;
 	border-radius: 50%;
 	font-size: 20pt;
@@ -693,7 +693,6 @@ ul li {
 
 .intro {
   position: absolute;
-  top: 300px;
   padding: 20px;
 }
 .fix-intro{

@@ -69,6 +69,8 @@ $del = $_SESSION["type1"];
 		  <button type="button" onClick="location.href='https://imjo.in/Qmmyzn'" id="da_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
 		  <button type="button" onClick="location.href='https://imjo.in/DyXrVH'" id="student_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
 		  <button type="button" onClick="location.href='https://www.instamojo.com/@fitt_iitd/lbcf04d92ef6e4acebfea3b854e8be917/'" id="ap_one" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
+          
+          <button type="button" onClick="location.href='https://imjo.in/JRR2t5'" id="des_ch" class="btn btn-primary center-block" style="display:none;">Make Payment</button>
 		  
 		  <span style="color:red; font-size:10pt; margin-top:15px;"><em>You will be redirected to Payment Gateway for payment</em></span>
 <script>
@@ -87,6 +89,8 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:none");
 			document.getElementById('student_one').setAttribute("style", "display:none");
 			document.getElementById('ap_one').setAttribute("style", "display:none");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:none");
 		}
 		
 		else if ((xyz == 4130)&&(abc == "Differently_Abled")){
@@ -100,6 +104,8 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:none");
 			document.getElementById('student_one').setAttribute("style", "display:none");
 			document.getElementById('ap_one').setAttribute("style", "display:none");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:none");
 		}
 		
 		else if ((xyz == 4130)&&(abc == "Student")){
@@ -113,6 +119,8 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:none");
 			document.getElementById('student_one').setAttribute("style", "display:none");
 			document.getElementById('ap_one').setAttribute("style", "display:none");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:none");
 		}
 		
 		else if (xyz == 1770){
@@ -126,6 +134,8 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:none");
 			document.getElementById('student_one').setAttribute("style", "display:none");
 			document.getElementById('ap_one').setAttribute("style", "display:none");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:none");
 		}
 		
 		
@@ -141,6 +151,7 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:none");
 			document.getElementById('student_one').setAttribute("style", "display:none");
 			document.getElementById('ap_one').setAttribute("style", "display:none");
+			document.getElementById('des_ch').setAttribute("style", "display:none");
 		}
 		
 		else if ((xyz == 1770)&&(abc == "Differently_Abled")){
@@ -154,6 +165,8 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:block");
 			document.getElementById('student_one').setAttribute("style", "display:none");
 			document.getElementById('ap_one').setAttribute("style", "display:none");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:none");
 		}
 		
 		else if ((xyz == 1770)&&(abc == "Student")){
@@ -167,9 +180,11 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:none");
 			document.getElementById('student_one').setAttribute("style", "display:block");
 			document.getElementById('ap_one').setAttribute("style", "display:none");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:none");
 		}
 		
-		else if (xyz == 590){
+		else if ((xyz == 590) && (abc == "AP")){
 			
 			document.getElementById('gen_full').setAttribute("style", "display:none");
 			document.getElementById('da_full').setAttribute("style", "display:none");
@@ -180,6 +195,23 @@ $del = $_SESSION["type1"];
 			document.getElementById('da_one').setAttribute("style", "display:none");
 			document.getElementById('student_one').setAttribute("style", "display:none");
 			document.getElementById('ap_one').setAttribute("style", "display:block");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:none");
+		}
+		
+		else if ((xyz == 590) && (abc == "DesignStudent")){
+			
+			document.getElementById('gen_full').setAttribute("style", "display:none");
+			document.getElementById('da_full').setAttribute("style", "display:none");
+			document.getElementById('student_full').setAttribute("style", "display:none");
+			document.getElementById('ap_full').setAttribute("style", "display:none");
+			 
+			document.getElementById('gen_one').setAttribute("style", "display:none");
+			document.getElementById('da_one').setAttribute("style", "display:none");
+			document.getElementById('student_one').setAttribute("style", "display:none");
+			document.getElementById('ap_one').setAttribute("style", "display:none");
+			
+			document.getElementById('des_ch').setAttribute("style", "display:block");
 		}
 		
 		
