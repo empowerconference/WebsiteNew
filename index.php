@@ -342,7 +342,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><div class="tr0div"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br>Title: Eyes-Free Computing — Past, Present And Future </div></td>
+                                <td colspan="3"><div class="tr0div"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br>Title: Eyes-Free Computing — Past, Present And Future<br><i>Venue: Room 150 Kedar</i> </div></td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -350,97 +350,132 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM </span></td>
-                                <td><div class="tr0div"><b>Session 2A:</b> Augmentative and Alternative Communication<br><i>Chair: Dr. Sudha Kaul<br>Organizer: S. Akila (NISH)</i></div><br><span class="caret session2a"></td>
-                                <td><div class="tr0div"><b>Session 2B:</b> User Interfaces <br>  <i>Organizer: Prof. Aman Parnami</i></div><br><span class="caret session2b"></td>
-                                <td><div class="tr0div"><b>Session 2C:</b> Antarchakshu - Grp 1  <br><i>  Organizer: Krishna Warrier (XRCVC)</i></div><br><span class="caret session2c"></td>
+                                <td><div class="tr0div"><b>Session 2A:</b> Augmentative and Alternative Communication<br><i>Chair: Swati Chakraborty (IICP, Kolkata)<br>Organizer: Akila Surendran (NISH, Trivandrum)<br>Venue: Room 151 Bahar</i></div><br><span class="caret session2a"></td>
+                                <td><div class="tr0div"><b>Session 2B:</b> User Interfaces <br><i>Chair: TBD<br>Organizer: Aman Parnami<br>Venue: Room 152 Basant</i></div><br><span class="caret session2b"></td>
+                                <td><div class="tr0div"><b>Session 2C:</b> Antarchakshu - Grp 1  <br><i>Conducted by: Krishna Warrier<br>Venue: Room 154</i></div><br><span class="caret session2c"></td>
                             </tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a">
-									<td>11:45 AM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">TBD<br><i>Dipak Ghosh (IICP Kolkata)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a1">
-									<td>12:15 PM</td>
-									<td colspan="3"><div class="tr0div">Assistive Technology Products: Best practices for Development, Commercialization and Scaling<br><i>Speaker: Narayanan</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">Assistive Technology Products: Best practices for Development, Commercialization and Scaling<br><i>Ajit Narayanan (Avaz Inc.)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a2">
-									<td>12:45 PM</td>
-									<td colspan="3"><div class="tr0div">Multilingual AAC for education (KAVI) and employment (vBill)<br><i>Speaker: G. R. Kasthuri</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">Multilingual AAC for education (KAVI) and employment (vBill)<br><i>G. R. Kasthuri (IIT Madras)</i></div></td>
+								</tr>
+								<tr class="tr0s2 conditional" style="display:none" id="2a3">
+									<td></td>
+									<td colspan="3"><div class="tr0div"><b>Posters: </b></div></td>
+								</tr>
+								<tr class="tr0s2 conditional" style="display:none" id="2a4">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Kavi-T: An AAC Device for Educational Purpose<br><i>Jeyaram M.(IIT Madras)</i></div></td>
+								</tr>
+								<tr class="tr0s2 conditional" style="display:none" id="2a5">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Eye Gazing Technique for Contrast Screen Enhancement Using Predictive Analysis<br><i>Nikitha D.C. (Shiv Nadar University)</i></div></td>
+								</tr>
+								<tr class="tr0s2 conditional" style="display:none" id="2a6">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Integrated Technologies for Teaching Professional Courses for Hearing Impaired Students: A Real Frame Work<br><i>SRN Reddy,  Manasi Mishra, Bramha S. Tripathi, Ritu Gupta (IGDTUW, Delhi)</i></div></td>
 								</tr>
 								
+								
 								<tr class="tr0s2 conditional" style="display:none" id="2b">
-									<td>11:45 AM</td>
-									<td colspan="3"><div class="tr0div">Audio CAPTCHA: Usable Accessibility + Usable Security<br><i>Speaker: Dr. Charudatta Jadhav & Sumeet Agrawal</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">Audio CAPTCHA: Usable Accessibility + Usable Security<br><i>Charudatta Jadhav & Sumeet Agrawal (TCS)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2b1">
-									<td>12:15 PM</td>
-									<td colspan="3"><div class="tr0div">Enabling Solutions for Inclusion at the Workplace<br><i>Speaker: Moses Gorrepati Chowdary & Narenda V.G.</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">Enabling Solutions for Inclusion at the Workplace<br><i>Moses Gorrepati Chowdary & Narenda V.G. (Enable India)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2b2">
-									<td>12:45 PM</td>
-									<td colspan="3"><div class="tr0div">Agastya: A Complete Accessibility Solution by Oswald Labs<br><i>Nishant Gadihoke</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">Agastya: A Complete Accessibility Solution by Oswald Labs<br><i>Nishant Gadihoke (IIIT Delhi)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s2 conditional" style="display:none" id="2c">
-									<td>11:45 AM</td>
+									<td></td>
 									<td colspan="3" rowspan="3"><div class="tr0div">Antarchakshu – The Eye Within Experience the Unexplored world</div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2c1">
-									<td>12:15 PM</td>
+									<td style="color:#ffe8c4;">12:15 PM</td>
 									
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2c2">
-									<td>12:45 PM</td>
-									
+									<td style="color:#ffe8c4;">12:45 PM</td>
 								</tr>
+								
                             <tr class="tr1">
                             	<td>1:15 PM</td>
                                 <td colspan="3">Lunch Break</td>
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM </td>
-                                <td><div class="tr0div"><b>Session 3A:</b> AT for speech and hearing impairment<br><i>Chair: Dr. Ajish Abraham <br> Organizer: S. Akila (NISH)</i></div><br><span class="caret session3a"></td>
-                                <td><div class="tr0div"><b>Session 3B:</b> TV Raman with STEM students <br></div><br><span class="caret session3b"></td>
-                                <td><div class="tr0div"><b>Session 3C:</b> Antarchakshu - Grp 2 <br><i> Organizer: Krishna Warrier (XRCVC)</i></div><br><span class="caret session3c"></td>
+                                <td><div class="tr0div"><b>Session 3A:</b> AT for speech and hearing impairment<br><i>Chair: Ajish Abraham (AIISH, Mysore) <br> Organizer: Akila Surendran (NISH, Trivandrum)<br>Venue: Room 151 Bahar</i></div><br><span class="caret session3a"></td>
+                                <td><div class="tr0div"><b>Session 3B:</b> TV Raman with STEM students <br><i>Room 152 Basant</i></div><br><span class="caret session3b"></td>
+                                <td><div class="tr0div"><b>Session 3C:</b> Antarchakshu - Grp 2 <br><i> Conducted by: Krishna Warrier (XRCVC)<br>Venue: Room 154</i></div><br><span class="caret session3c"></td>
                             </tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a">
-									<td>2:15 PM</td>
-									<td colspan="3"><div class="tr0div">Research, Development and Deployment of Assistive Technology in AIISH<br><i>Speaker: Dr Ajish Abraham</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">Research, Development and Deployment of Assistive Technology in AIISH<br><i>Ajish Abraham (AIISH, Mysore)</i></div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a1">
-									<td>2:45 PM</td>
-									<td colspan="3"><div class="tr0div">TARANG-An affordable feature rich Hearing Aid<br><i>Speaker: Sri. Gopan George</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">TARANG-An affordable feature rich Hearing Aid<br><i>Sri. Gopan George (CDAC, Thiruvananthapuram)</i></div></td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a2">
-									<td>3:15 PM</td>
-									<td colspan="3"><div class="tr0div">My life and how I live it<br><i>Speaker: Pradip Sinha</i></div></td>
+									<td></td>
+									<td colspan="3"><div class="tr0div">My life and how I live it<br><i>Pradip Sinha (SEDB - Society for the Empowerment of the Deafblind, Pune)</i></div></td>
+								</tr>
+								<tr class="tr0s3 conditional" style="display:none" id="3a3">
+									<td></td>
+									<td colspan="3"><div class="tr0div"><b>Posters:</b></div></td>
+								</tr>
+								<tr class="tr0s3 conditional" style="display:none" id="3a4">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Importance of Sign Language Recognition System in the Education of Hearing Impaired Children in India<br><i>Parteek Kumar (Thapar Institute of Engineering and Technology, Patiala)
+</i></div></td>
+								</tr>
+								<tr class="tr0s3 conditional" style="display:none" id="3a5">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Assistive Technology for Indian Sign Language Generation from English Text for Communication and Education of Hearing Impaired
+<br><i>Parteek Kumar (Thapar Institute of Engineering and Technology, Patiala)</i></div></td>
+								</tr>
+								<tr class="tr0s3 conditional" style="display:none" id="3a6">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Integrating Technology into a Classroom of Deaf Students<br><i>Raji Gopal & Raji N.R., (NISH, Trivandrum)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s3 conditional" style="display:none" id="3b">
-									<td>2:15 PM</td>
+									<td style="color:#ffe8c4;">2:15 PM</td>
 									<td rowspan="3" colspan="3"><div class="tr0div">TV Raman's Session with participants</div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3b1">
-									<td>2:45 PM</td>
+									<td style="color:#ffe8c4;">2:45 PM</td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3b2">
-									<td>3:15 PM</td>
+									<td style="color:#ffe8c4;">3:15 PM</td>
 								</tr>
 								
 								<tr class="tr0s3 conditional" style="display:none" id="3c">
-									<td>2:15 PM</td>
+									<td style="color:#ffe8c4;">2:15 PM</td>
 									<td rowspan="3" colspan="3"><div class="tr0div">Antarchakshu – The Eye Within Experience the Unexplored world</div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3c1">
-									<td>2:45 PM</td>
+									<td style="color:#ffe8c4;">2:45 PM</td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3c2">
-									<td>3:15 PM</td>
+									<td style="color:#ffe8c4;">3:15 PM</td>
 								</tr>
                             <tr class="tr1">
                             	<td>3:45 PM</td>
@@ -461,7 +496,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><div class="tr0div"><b>Session 5A Keynote:</b> Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University)<br>Title: InftyProject - Aiming at Improvement of STEM Accessibility</div>
+                                <td colspan="3"><div class="tr0div"><b>Session 5A Keynote:</b> Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University)<br>Title: InftyProject - Aiming at Improvement of STEM Accessibility<br><i>Venue: Room 150 Kedar</i></div>
  </td>
                             </tr>
                             <tr class="tr1">
@@ -470,50 +505,54 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM </td>
-                                <td><div class="tr0div"><b>Session 6A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer: Anil Prabhakar/S. Akila</i></div><br><span class="caret session6a"></td>
-                                <td><div class="tr0div"><b>Session 6B:</b> Dyslexia and Special Learning Disabilities - P1  <br><i>   Organizer: Anupam Basu, Manjira Sina</i></div><br><span class="caret session6b"></td>
-                                <td><div class="tr0div"><b>Session 6C:</b> Diagram and Maths accessibility for VI <br><i>  Organizer:Akashdeep Bansal</i></div><br><span class="caret session6c"></td>
+                                <td><div class="tr0div"><b>Session 6A:</b> Affordable Assistive Technology Solutions <br><i>Chair: TBD<br>  Organizer: Anil Prabhakar(IIT Madras) & S. Akila (NISH)<br>Venue: Room 151 Bahar</i></div><br><span class="caret session6a"></td>
+                                <td><div class="tr0div"><b>Session 6B:</b> Dyslexia and Special Learning Disabilities - P1  <br><i>Chair: TBD<br>Organizer: Anupam Basu(NIT Durgapur), Manjira Sinha (Accenture Research, Gurgaon) & Tirthankar Dasgupta (IIT Kharagpur)<br>Venue: Room 152 Basant</i></div><br><span class="caret session6b"></td>
+                                <td><div class="tr0div"><b>Session 6C:</b> Diagram and Maths accessibility for VI <br><i>Chair: TBD<br>Organizer:Akashdeep Bansal<br>Venue: Room 153 Megh</i></div><br><span class="caret session6c"></td>
                             </tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a">
-									<td>11:45 AM</td>
-									<td colspan="3"><div class="tr0div"> Implementing affordable AT solutions : the CATI way<br><i>Speaker: Dr. Akila S.</i></div></td>
+									<td style="color:#ffe8c4;">11:45 AM</td>
+									<td colspan="3"><div class="tr0div"> Implementing affordable AT solutions : the CATI way<br><i>Akila Surendran (NISH, Trivandrum)</i></div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a1">
-									<td>12:15 PM</td>
-									<td colspan="3"><div class="tr0div">Tactograph and TakeNote for the Visually Impaired<br><i>Prabha Ramnathan</i></div></td>
+									<td style="color:#ffe8c4;">12:15 PM</td>
+									<td colspan="3"><div class="tr0div">Tactograph and TakeNote for the Visually Impaired<br><i>Prabha Ramnathan (Enability Foundation for Rehabilitation, Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a2">
-									<td>12:45 PM</td>
-									<td colspan="3"><div class="tr0div">Barriers to widespread use of AT<br><i>Speaker: Sudha Ramamurthy</i></div></td>
+									<td style="color:#ffe8c4;">12:45 PM</td>
+									<td colspan="3"><div class="tr0div">The strange case of the unused assistive device<br><i>Sudha Ramamurthy (EQUAL)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6b">
-									<td>11:45 AM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">11:45 AM</td>
+									<td colspan="3"><div class="tr0div">Dyslexia Now and the Use of Assistive Technology<br><i>Divya Jalan & Aruna Bhaskar (Breaking through Dyslexia, Kolkata)</i></div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b1">
-									<td>12:15 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">12:15 PM</td>
+									<td colspan="3"><div class="tr0div">Specific Learning Disabilties: Nature and Interventional Strategies<br><i>Ramaa S. (Regional Institute of Education (NCERT), Mysore)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b2">
-									<td>12:45 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">12:45 PM</td>
+									<td colspan="3"><div class="tr0div">A Prototype of an ICT Enabled Intervention Tool for Dyslexia<br><i>Rajlakshmi Guha (IIT Kharagpur)</i></div></td>
+								</tr>
+								<tr class="tr0s6 conditional" style="display:none" id="6b3">
+									<td style="color:#ffe8c4;">12:45 PM</td>
+									<td colspan="3"><div class="tr0div">Empowering Children with Specific Learning Difficulties<br><i>Harini Ramanujam (Madras Dyslexia Association, Chennai)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6c">
-									<td>11:45 AM</td>
-									<td colspan="3"><div class="tr0div">Dr. Sorge's session with Students</div></td>
+									<td style="color:#ffe8c4;">11:45 AM</td>
+									<td colspan="3"><div class="tr0div">Comprehensible Tactile Graphics<br><i>Steve Mannheimer ((IUPU, Indianapolis))</i></div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c1">
-									<td>12:15 PM</td>
-									<td colspan="3"><div class="tr0div">Comprehensible Tactile Graphics<br><i>Speaker: Prof. Steve Mannheimer</i></div></td>
+									<td style="color:#ffe8c4;">12:15 PM</td>
+									<td colspan="3"><div class="tr0div">A Study on Reading and Learning Needs of Visually Impaired, Solutions Available and our Approach forward<br><i>Abhishek Baghel (Trestle Labs, New Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c2">
-									<td>12:45 PM</td>
-									<td colspan="3"><div class="tr0div">RAVI: Reading Assistant for Visually Impaired<br><i>Speaker: Akashdeep Bansal</i></div></td>
+									<td style="color:#ffe8c4;">12:45 PM</td>
+									<td colspan="3"><div class="tr0div">RAVI: Reading Assistant for Visually Impaired<br><i>Akashdeep Bansal (IIT Delhi)</i></div></td>
 								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -521,46 +560,74 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM </td>
-                                <td><div class="tr0div"><b>Session 7A:</b> Affordable Assistive Technology Solutions <br><i>  Organizer:Anil Prabhakar/S. Akila</i></div><br><span class="caret session7a"></td>
-                                <td><div class="tr0div"><b>Session 7B:</b> Cerebral Palsy and Neuro Motor Disabilities <br> <i> Organizer: Anupam Basu, Manjira Sinha</i></div><br><span class="caret session7b"></td>
-                                <td><div class="tr0div"><b>Session 7C:</b> Infty Assistive tools - Let's Get Experience of Creating and Accessing Accessible STEM Content <br><i>  Organizer: Dr. Kanahori<br></i></div><br><span class="caret session7c"></td>
+                                <td><div class="tr0div"><b>Session 7A:</b> Affordable Assistive Technology Solutions <br><i>Chair: TBD<br>Organizer: Anil Prabhakar (IIT Madras) & S. Akila (NISH)<br>Venue: Room 151 Bahar</i></div><br><span class="caret session7a"></td>
+                                <td><div class="tr0div"><b>Session 7B:</b> Cerebral Palsy and Neuro Motor Disabilities <br> <i>Chair: Rajendra Prasad(IHIF)<br>Organizer: Anupam Basu (NIT Durgapur), Manjira Sinha(Accenture Research, Gurgaon) & Tirthankar Dasgupta (TCS Innovation Labs)<br>Venue: Room 152 Basant</i></div><br><span class="caret session7b"></td>
+                                <td><div class="tr0div"><b>Session 7C:</b> Infty Assistive tools - Let's Get Experience of Creating and Accessing Accessible STEM Content <br><i>Conducted by: Dr. Kanahori<br>Venue: Room 153 Megh</i></div><br><span class="caret session7c"></td>
                             </tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a">
-									<td>2:15 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">2:15 PM</td>
+									<td colspan="3"><div class="tr0div">TBD<br><i>Bhavna Botta (Connect Special, Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a1">
-									<td>2:45 PM</td>
-									<td colspan="3"><div class="tr0div">Innovations in Assistive Devices for People with Locomotor Disability in Developing Countries<br><i>Speaker: Vivek Sarda</i></div></td>
+									<td style="color:#ffe8c4;">2:45 PM</td>
+									<td colspan="3"><div class="tr0div">Innovations in Assistive Devices for People with Locomotor Disability in Developing Countries<br><i>Vivek Sarda (NeoMotion, Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a2">
-									<td>3:15 PM</td>
-									<td colspan="3"><div class="tr0div">Affordable Saksham Technology solutions in Indian languages for VI<br><i>Speaker: Dipendra Manocha</i></div></td>
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">Affordable Saksham Technology solutions in Indian languages for VI<br><i>Dipendra Manocha (Saksham, New Delhi)</i></div></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none" id="7a3">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div"><b>Posters:</b></div></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none" id="7a4">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">Navigation System Using Adhesive Tactile Walking Surface Indicators<br><i>R. Vijaya Prakash (SR Engineering College, Warangal)</i></div></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none" id="7a5">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">Speech Analyzer: A Voice Parameter Extraction Device<br><i>Krishnendu Lalaji, Pooja G.S., Rahul Krishnan K.S. (Mar Baselios College of Engineering, Trivandrum)</i></div></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none" id="7a6">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">TakeNote : A Smart Braille Keypad<br><i>Indulakshmi Subramaniam, Jeyaram Mariswaran, Prabha Ramanathan (Enability Foundation for Rehabilitation)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s7 conditional" style="display:none" id="7b">
-									<td>2:15 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">2:15 PM</td>
+									<td colspan="3"><div class="tr0div">AT for people with cerebral palsy and multiple disabilities - scopes and challenges, a user’s perspective<br><i>Swati Chakrabarty, (Indian Institute of Cerebral Palsy, Kolkata)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b1">
-									<td>2:45 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">2:45 PM</td>
+									<td colspan="3"><div class="tr0div">Assistive Technologies for Children and Adults with Multiple Disabilities<br><i>Narasimha Rao Botta (Vidyasagar)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b2">
-									<td>3:15 PM</td>
-									<td colspan="3"><div class="tr0div">Development of Applications to Enhance Web Accessibility, Entertainment and Social Interaction Opportunities for People with Cerebral Palsy<br><i>Speaker: Dr. Tirthankar Dasgupta & Dr. Manjira Sinha</i></div></td>
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">Web Accessibility and Entertainment Devices for People with Cerebral Palsy<br><i>Tirthankar Dasgupta (TCS Innovation Labs) & Manjira Sina (Accenture Research, Gurgaon)</i></div></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none" id="7b3">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">The AADI Experience<br><i>Manavi Jalan (AADI, New Delhi)</i></div></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none" id="7b4">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div"><b>Posters:</b></div></td>
+								</tr>
+								<tr class="tr0s7 conditional" style="display:none" id="7b5">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">Identifying disability and Assistive Technology Need in a low-Income setting in Delhi, India: A Preliminary Survey<br><i>Tarun Lala (IHIF, New Delhi)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s7 conditional" style="display:none" id="7c">
-									<td>2:15 PM</td>
-									<td colspan="3" rowspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">2:15 PM</td>
+									<td colspan="3" rowspan="3"><div class="tr0div">Workshop by Dr. Kanahori</div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7c1">
-									<td>2:45 PM</td>
+									<td style="color:#ffe8c4;">2:45 PM</td>
 									
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7c2">
-									<td>3:15 PM</td>
+									<td style="color:#ffe8c4;">3:15 PM</td>
 									
 								</tr>
 								
@@ -570,7 +637,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>4:15 PM</td>
-                                <td colspan="3"><div class="tr0div"><b>Session 8A Keynote:</b> Prof. Volker Sorge <br></div> </td>
+                                <td colspan="3"><div class="tr0div"><b>Session 8A Keynote:</b> Prof. Volker Sorge<br><i>Venue: Room 150 Kedar</i></div> </td>
                             </tr>
 							<tr class="tr1">
                             	<td>6:00 PM</td>
@@ -596,57 +663,69 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>11:45 AM </td>
-                                <td><div class="tr0div"><b>Session 10A:</b> Assistive Technology for Mobility: Principles and Practices in India - P1 <br><i> Organizer: Nekram</i></div><br><span class="caret session10a"></td>
-                                <td><div class="tr0div"><b>Session 10B:</b> Digital world accessibility <br><i> Organizer: Dipendra Manocha</i></div><br><span class="caret session10b"></td>
-                                <td><div class="tr0div"><b>Session 10C:</b> Users engage with Design + Engineering Students  <br> <i> Organizer: PVM Rao + Supradip Das</i></div><br><span class="caret session10c"></td>
+                                <td><div class="tr0div"><b>Session 10A:</b> Assistive Technology for Mobility: Principles and Practices in India - P1 <br><i>Chair: TBD<br>Organizer: Nekram Upadhyay (ISIC, New Delhi)<br>Venue: Room 151 Bahar</i></div><br><span class="caret session10a"></td>
+                                <td><div class="tr0div"><b>Session 10B:</b> Assistive Solutions for the Vision Impaired<br><i>Chair: TBD<br> Organizer: Chetan Arora (IIT Delhi)<br> Venue: Room 152 Basant</i></div><br><span class="caret session10b"></td>
+                                <td><div class="tr0div"><b>Session 10C:</b> Users engage with Design + Engineering Students  <br> <i> Conducted by: PVM Rao + Supradip Das<br> Venue: Room 153 Megh</i></div><br><span class="caret session10c"></td>
                             </tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Design and development of an affordable passive polycentric knee joint and dynamic ankle joint with different advanced features for trans-femoral amputee<br><i>Speaker:  S Kanagaraj</i></div></td>
+									<td colspan="3"><div class="tr0div">Design and development of an affordable passive polycentric knee joint and dynamic ankle joint with different advanced features for trans-femoral amputee<br><i>S Kanagaraj (IIT Guwahati)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a1">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Consumer Perspective of Assistive Technology for Mobility: a comparative analysis between established and emerging settings<br><i>Speaker: Mr. Shivjeet Singh Raghav</i></div></td>
+									<td colspan="3"><div class="tr0div">Consumer Perspective of Assistive Technology for Mobility: a comparative analysis between established and emerging settings<br><i>Shivjeet Singh Raghav (ISIC, New Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a2">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Clinical Dilemmas in Assistive Devices<br><i>Speaker: Dr. Harihar</i></div></td>
+									<td colspan="3"><div class="tr0div">Clinical Dilemmas in Assistive Devices Prescription - Physiotherapist perspective<br><i> R. Harihara Prakash (K M Patel Institute of Physiotherapy, Anand)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a3">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Strategies to implement the WHO Guidelines on the Provision of Manual Wheelchairs in Less-Resourced Settings<br><i>Speaker: Nekram Upadhyay</i></div></td>
+									<td colspan="3"><div class="tr0div">Strategies to implement the WHO Guidelines on the Provision of Manual Wheelchairs in Less-Resourced Settings<br><i> Nekram Upadhyay (ISIC, New Delhi)</i></div></td>
 								</tr>
 								<!--session 10b collapsable rows-->
 								<tr class="tr0s10 conditional" style="display:none" id="10b">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Standards related to Accessibility of Digital Content<br><i>Speaker: Dipendra Manocha & Prashant Ranjan Verma</i></div></td>
+									<td colspan="3"><div class="tr0div">Empowering the vision impaired: Two ongoing research projects at Microsoft Research India<br><i>Manohar Swaminathan (Microsoft Research)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b1">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Integrated models to promote digital literacy  for visually impaired<br><i>Speaker: Homiyar Mobedji</i></div></td>
+									<td colspan="3"><div class="tr0div">MAVI: Mobility Assistant for Visually Impaired<br><i>Anupam Sobti (IIT Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b2">
 									<td></td>
-									<td colspan="3"><div class="tr0div">One Touch Automation in Accessibility Value Chain<br><i>Speaker:  Dr. Charudatta Jadhav & Sumeet Agrawal</i></div></td>
+									<td colspan="3"><div class="tr0div">Annotation of Voice Forum Content<br><i>Pushpendra Singh (IIIT Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b3">
 									<td></td>
-									<td colspan="3"><div class="tr0div">XsWEB-ALL: Accessible Web for All<br><i>Speaker: Pawan Patel</i></div></td>
+									<td colspan="3"><div class="tr0div">Vision and Language to aid Visually Impaired Users<br><i>Vinay P Namboodri (IIT Kanpur)</i></div></td>
+								</tr>
+								<tr class="tr0s10 conditional" style="display:none" id="10b4">
+									<td></td>
+									<td colspan="3"><div class="tr0div"><b>Posters:</b></div></td>
+								</tr>
+								<tr class="tr0s10 conditional" style="display:none" id="10b5">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Accessibility for All (A4A): A Model Based on SCT Accessibility Assessment to Classify websites for Persons with Disabilities using Machine Learning Approaches<br><i>Abid Ismail (Pondicherry University)</i></div></td>
+								</tr>
+								<tr class="tr0s10 conditional" style="display:none" id="10b6">
+									<td></td>
+									<td colspan="3"><div class="tr0div">Accessible Service “Talking ATM India”<br><i>Saidarshan Bhagat (C-DAC, Mumbai),  Prashant Naik (Union Bank of India)</i></div></td>
 								</tr>
 								<!--session 10c collapsable rows-->
 								<tr class="tr0s10 conditional" style="display:none" id="10c">
-									<td></td>
-									<td rowspan="4" colspan="3"><div class="tr0div">User challenges presentations</div></td>
+									<td style="color:#ffe8c4;">11:45 AM</td>
+									<td rowspan="3" colspan="3"><div class="tr0div">User challenges presentations</div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10c1">
-									<td></td>
+									<td style="color:#ffe8c4;">12:15 PM</td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10c2">
-									<td></td>
+									<td style="color:#ffe8c4;">12:45 PM</td>
 								</tr>
-								<tr class="tr0s10 conditional" style="display:none" id="10c3">
-									<td></td>
-								</tr>
+								<!--<tr class="tr0s10 conditional" style="display:none" id="10c3">
+									<td style="color:#ffe8c4;"></td>
+								</tr>-->
 								
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -654,49 +733,65 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM </td>
-                                <td><div class="tr0div"><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Organizer: Nekram</i></div><br><span class="caret session11a"></td>
-                                <td><div class="tr0div"><b>Session 11B:</b> AI in Assistive Technology <br><i> Organizer: Chetan Arora</i></div><br><span class="caret session11b"></td>
-                                <td><div class="tr0div"><b>Session 11C:</b> Users engage with Design + Engineering Students <br><i>  Organizer: PVM Rao + Supradip Das</i></div><br><span class="caret session11c"></td>
+                                <td><div class="tr0div"><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Chair: TBD<br> Organizer: Nekram Upadhyay (ISIC, New Delhi)<br> Venue: Room 151 Bahar</i></div><br><span class="caret session11a"></td>
+                                <td><div class="tr0div"><b>Session 11B:</b> Digital World Accessibility <br><i>Chair: TBD<br> Organizer: Dipendra Manocha (Saksham, Delhi)<br> Venue: Room 152 Basant</i></div><br><span class="caret session11b"></td>
+                                <td><div class="tr0div"><b>Session 11C:</b> Users engage with Design + Engineering Students <br><i>  Conducted by: PVM Rao + Supradip Das<br> Venue: Room 153 Megh</i></div><br><span class="caret session11c"></td>
                             </tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Universal Design Approach for Environmental Assistance<br><i>Dr. Gaurav Raheja</i></div></td>
+									<td colspan="3"><div class="tr0div">Universal Design Approach for Environmental Assistance<br><i>Gaurav Raheja (IIT Roorkee)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a1">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Auxillary Crutches with Flexible tip for Reduced Energy and Zero Side effects<br><i>Speaker: Arvind A.</i></div></td>
+									<td colspan="3"><div class="tr0div">Auxillary Crutches with Flexible tip for Reduced Energy and Zero Side effects<br><i>Arvind A. (IIT Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a2">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Independently Accessible Mobility Vehicle For Locomotor Disability<br><i>Speaker: Sakthivel Thayappan</i></div></td>
+									<td colspan="3"><div class="tr0div">Independently Accessible Mobility Vehicle For Locomotor Disability<br><i>Sakthivel Thayappan (IIT Madras)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a3">
 									<td></td>
-									<td colspan="3"><div class="tr0div">Efficacy of assistive devices in terms of balance and gait efficiency in geriatric patients  with locomotor impairments<br><i>Speaker: ISIC</i></div></td>
+									<td colspan="3"><div class="tr0div">Efficacy of assistive devices in terms of balance and gait efficiency in geriatric patients  with locomotor impairments<br><i>Yashika Kumar (ISIC, New Delhi)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s11 conditional" style="display:none" id="11b">
-									<td>2:15 PM</td>
-									<td colspan="3"><div class="tr0div">MAVI: Mobility Assistant for Visually Impaired<br><i>Speaker: Anupam Sobti</i></div></td>
+									<td style="color:#ffe8c4;">2:15 PM</td>
+									<td colspan="3"><div class="tr0div">Standards related to Accessibility of Digital Content<br><i>Prashant Ranjan Verma (NAB, New Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b1">
-									<td>2:45 PM</td>
-									<td colspan="3"><div class="tr0div">Empowering the vision impaired: Two ongoing research projects at Microsoft Research India<br><i>Speaker: Manohar Swaminathan</i></div></td>
+									<td style="color:#ffe8c4;">2:45 PM</td>
+									<td colspan="3"><div class="tr0div">Integrated models to promote digital literacy for visually impaired<br><i>Homiyar Mobedji (Benetech)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b2">
-									<td>3:15 PM</td>
-									<td colspan="3"><div class="tr0div">TBD</div></td>
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">One Touch Automation in Accessibility Value Chain<br><i>Charudatta Jadhav & Sumeet Agrawal (TCS)</i></div></td>
+								</tr>
+								<tr class="tr0s11 conditional" style="display:none" id="11b3">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">XsWEB-ALL: Accessible Web for All<br><i>Pawan Patel (IIT Kanpur)</i></div></td>
+								</tr>
+								<tr class="tr0s11 conditional" style="display:none" id="11b4">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div"><b>Posters:</b></div></td>
+								</tr>
+								<tr class="tr0s11 conditional" style="display:none" id="11b5">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">Accessible Mobile Apps Development Challenges and Solutions Our Experiences<br><i>Prachi Patil (Sugamya Digital Solutions Pvt. Ltd., Pune)</i></div></td>
+								</tr>
+								<tr class="tr0s11 conditional" style="display:none" id="11b6">
+									<td style="color:#ffe8c4;">3:15 PM</td>
+									<td colspan="3"><div class="tr0div">Manual Web Accessibility Evaluation Record Maintenance Tool<br><i>Dhananjay Bhole, Savitribai Phule (Pune University)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s11 conditional" style="display:none" id="11c">
-									<td>2:15 PM</td>
-									<td colspan="3" rowspan="3"><div class="tr0div">Particpant solution proposals</div></td>
+									<td style="color:#ffe8c4;">2:15 PM</td>
+									<td colspan="3" rowspan="3"><div class="tr0div">Participant solution proposals</div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11c1">
-									<td>2:45 PM</td>
+									<td style="color:#ffe8c4;">2:45 PM</td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11c2">
-									<td>3:15 PM</td>
+									<td style="color:#ffe8c4;">3:15 PM</td>
 								</tr>
 								
                             <tr class="tr1">
