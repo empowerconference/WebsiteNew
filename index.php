@@ -780,8 +780,8 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>2:15 PM </td>
-                                <td><div class="tr0div"><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Chair: TBD<br> Organizer: Nekram Upadhyay (ISIC, New Delhi)<br> Venue: Room 151 Bahar</i></div><br><span class="caret session11a"></td>
-                                <td><div class="tr0div"><b>Session 11B:</b> Digital World Accessibility <br><i>Chair: TBD<br> Organizer: Dipendra Manocha (Saksham, Delhi)<br> Venue: Room 152 Basant</i></div><br><span class="caret session11b"></td>
+                                <td><div class="tr0div"><b>Session 11A:</b> Assistive Technology for Mobility: Principles and Practices in India - P2<br><i> Chair: Anil Prabhakar (IIT Madras)<br> Organizer: Nekram Upadhyay (ISIC, New Delhi)<br> Venue: Room 151 Bahar</i></div><br><span class="caret session11a"></td>
+                                <td><div class="tr0div"><b>Session 11B:</b> Digital World Accessibility <br><i>Chair: Chetan Arora (IIT Delhi)<br> Organizer: Dipendra Manocha (Saksham, Delhi)<br> Venue: Room 152 Basant</i></div><br><span class="caret session11b"></td>
                                 <td><div class="tr0div"><b>Session 11C:</b> Users engage with Design + Engineering Students <br><i>  Conducted by: PVM Rao + Supradip Das<br> Venue: Room 153 Megh</i></div><br><span class="caret session11c"></td>
                             </tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a">
