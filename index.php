@@ -206,7 +206,27 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 
                     </div><!-- /.speaker -->
                 </div><!-- /.col-md-4 -->
+			
+			<div class="col-md-4">
+                    <div class="speaker">
 
+                        <figure>
+                            <img alt="Picture of Dr. H.S. Chabbra" class="img-responsive center-block rounded-rect" src="assets/images/speakers/speaker-7.jpg">
+                        </figure>
+
+                        <h4>Dr. H.S. Chabbra</h4>
+
+                        <p>Indian Spinal Injuries Centre</p>
+                        
+                        <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Dr. Chhabra is Chief of Spine Service and Medical Director at Indian Spinal Injuries Centre, New Delhi, India. His expertise is grounded by more than 25 years of clinical and academic experience. He has published 90 papers including 24 full-length chapters in the leading textbooks. He has actively contributed to various prestigious peer-reviewed journals like Spinal Cord, Rheumatology, Engineering in Medicine and Biology Magazine and European Spine Journal. His work has been honored by Shri J.P. Nadda, Union Minister of Health and Family Welfare, Excellence in Spine and Orthopedics Award, Double Helical National Health Award , ISCoS Society Medal Award, “Oder of the star of the Italian solidarity” (OSSI) award by the President of the Italian Republic, President’s Appreciation Award by Indian Medical Association,  Rashtriya Rattan Award and various ASSI awards.
+
+						
+                        </p>
+
+                        
+
+                    </div><!-- /.speaker -->
+                </div>
                 
             </div><!-- /.row -->
             
