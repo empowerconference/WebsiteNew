@@ -152,7 +152,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                     </div><!-- /.speaker -->
                 </div><!-- /.col-md-4 -->
 
-                <div class="col-md-4">
+                <!--<div class="col-md-4">
                     <div class="speaker">
 
                         <figure>
@@ -165,12 +165,9 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                          <p style="text-transform:none; font-size:10.5pt; text-align:justify; padding:0 8px;">Saqib Shaikh (Microsoft) is the Tech Lead of the Seeing AI project which explores how Artificial Intelligence can be leveraged to empower the blind and low vision community to do more. The app gives its user the ability to see what is happening around the user in real-time. His current interest focuses at the intersection of Artificial Intelligence and Inclusive Design to create intelligent machines that level the playing field, and enable us all to do more.
                         </p>
 
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-            </div><!-- /.row -->
-			
-			<div class="col-md-12">
-                <div class="col-md-4">
+                    </div>
+                </div>--><!-- /.col-md-4 -->
+				<div class="col-md-4">
                     <div class="speaker">
 
                         <figure>
@@ -188,6 +185,10 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 
                     </div><!-- /.speaker -->
                 </div><!-- /.col-md-4 -->
+            </div><!-- /.row -->
+			
+			<div class="col-md-12">
+                
 
                 <div class="col-md-4">
                     <div class="speaker">
@@ -362,7 +363,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><div class="tr0div"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br>Title: Eyes-Free Computing — Past, Present And Future<br><i>Venue: Room 150 Kedar</i> </div></td>
+                                <td colspan="3"><div class="tr0div"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br><!--<a href="Abstracts.pdf#page=4" target="_blank">-->Title: Eyes-Free Computing — Past, Present And Future<!--</a>--><br><i>Venue: Room 150 Kedar</i> </div></td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -646,7 +647,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Assistive Technologies for Children and Adults with Multiple Disabilities<br><i>Narasimha Rao Botta (Vidyasagar)</i></div></td>
+									<td colspan="3"><div class="tr0div">Assistive Technologies for Children and Adults with Multiple Disabilities<br><i>Narasimha Rao Botta (Vidyasagar Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b2">
 									<td style="background:#ffffff;"></td>
