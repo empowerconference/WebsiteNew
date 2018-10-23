@@ -363,7 +363,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><div class="tr0div"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br><!--<a href="Abstracts.pdf#page=4" target="_blank">-->Title: Eyes-Free Computing — Past, Present And Future<!--</a>--><br><i>Venue: Room 150 Kedar</i> </div></td>
+                                <td colspan="3"><div class="tr0div"><b>Session 1A Innauguration & Keynote:</b> Dr. T.V. Raman (Google, USA)<br><a href="abstracts/Abstracts.pdf#page=1" target="_blank" style="color:#000">Title: Eyes-Free Computing — Past, Present And Future</a><br><i>Venue: Room 150 Kedar</i> </div></td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -377,15 +377,15 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"> My experience of using assistive technology for communication<br><i> Dipak Ghosh (IICP Kolkata)</i></div></td>
+									<td colspan="3"><div class="tr0div"> <a href="abstracts/Abstracts.pdf#page=2" target="_blank" style="color:#000">My experience of using assistive technology for communication</a><br><i> Dipak Ghosh (IICP Kolkata)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Assistive Technology Products: Best practices for Development, Commercialization and Scaling<br><i>Ajit Narayanan (Avaz Inc.)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=3" target="_blank" style="color:#000">Assistive Technology Products: Best practices for Development, Commercialization and Scaling</a><br><i>Ajit Narayanan (Avaz Inc.)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Multilingual AAC for education (KAVI) and employment (vBill)<br><i>G. R. Kasthuri (IIT Madras)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=4" target="_blank" style="color:#000">Multilingual AAC for education (KAVI) and employment (vBill)</a><br><i>G. R. Kasthuri (IIT Madras)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2a3">
 									<td style="background:#ffffff;"></td>
@@ -407,20 +407,20 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								
 								<tr class="tr0s2 conditional" style="display:none" id="2b">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Audio CAPTCHA: Usable Accessibility + Usable Security<br><i>Charudatta Jadhav & Sumeet Agrawal (TCS)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Audio CAPTCHA.pdf" target="_blank" style="color:#000">Audio CAPTCHA: Usable Accessibility + Usable Security</a><br><i>Charudatta Jadhav & Sumeet Agrawal (TCS)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2b1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Enabling Solutions for Inclusion at the Workplace<br><i>Moses Gorrepati Chowdary & Narenda V.G. (Enable India)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=5" target="_blank" style="color:#000">Enabling Solutions for Inclusion at the Workplace</a><br><i>Moses Gorrepati Chowdary & Narenda V.G. (Enable India)</i></div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2b2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Agastya: A Complete Accessibility Solution by Oswald Labs<br><i>Nishant Gadihoke (IIIT Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Agastya.pdf" target="_blank" style="color:#000">Agastya: A Complete Accessibility Solution by Oswald Labs</a><br><i>Nishant Gadihoke (IIIT Delhi)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s2 conditional" style="display:none" id="2c">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3" rowspan="3"><div class="tr0div">Antarchakshu – The Eye Within<br> Experience the Unexplored world</div></td>
+									<td colspan="3" rowspan="3"><div class="tr0div"><a href="abstracts/Antarchakshu_Workshop_Note.pdf" target="_blank" style="color:#000">Antarchakshu – The Eye Within</a><br> Experience the Unexplored world</div></td>
 								</tr>
 								<tr class="tr0s2 conditional" style="display:none" id="2c1">
 									<td style="background:#ffffff; height:100px;"></td>
@@ -442,17 +442,17 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"> Research, Development and Deployment of Assistive Technology in AIISH<br><i> Ajish Abraham (AIISH, Mysore)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=8" target="_blank" style="color:#000"> Research, Development and Deployment of Assistive Technology in AIISH</a><br><i> Ajish Abraham (AIISH, Mysore)</i></div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"> TARANG-An affordable feature rich Hearing Aid<br><i> Gopan George (CDAC, Thiruvananthapuram)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=9" target="_blank" style="color:#000"> TARANG-An affordable feature rich Hearing Aid</a><br><i> Gopan George (CDAC, Thiruvananthapuram)</i></div></td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"> My life and how I live it<br><i>Pradip Sinha (SEDB - Society for the Empowerment of the Deafblind, Pune)</i></div></td>
+									<td colspan="3"><div class="tr0div"> <a href="abstracts/Abstracts.pdf#page=10" target="_blank" style="color:#000">My life and how I live it</a><br><i>Pradip Sinha (SEDB - Society for the Empowerment of the Deafblind, Pune)</i></div></td>
 								</tr>
 								<tr class="tr0s3 conditional" style="display:none" id="3a3">
 									<td style="background:#ffffff;"></td>
@@ -492,7 +492,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								
 								<tr class="tr0s3 conditional" style="display:none" id="3c">
 									<td style="background:#ffffff;"></td>
-									<td rowspan="3" colspan="3"><div class="tr0div">Antarchakshu – The Eye Within<br> Experience the Unexplored world</div></td>
+									<td rowspan="3" colspan="3"><div class="tr0div"><a href="abstracts/Antarchakshu_Workshop_Note.pdf" target="_blank" style="color:#000">Antarchakshu – The Eye Within</a><br> Experience the Unexplored world</div></td>
 									<!--<td rowspan="3">TV Raman's Session with participants</td>
 									<td rowspan="3">TBD</td>-->
 								</tr>
@@ -521,7 +521,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><div class="tr0div"><b>Session 5A Keynote:</b> Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University, Japan)<br> Title: InftyProject - Aiming at Improvement of STEM Accessibility<br><i> Venue: Room 150 Kedar</i></div>
+                                <td colspan="3"><div class="tr0div"><b>Session 5A Keynote:</b> Prof. Katsuhita Yamaguchi (Nihon University, Japan), Prof. Masakazu Suzuki (Kyushu University, Japan)<br><a href="abstracts/Abstracts.pdf#page=12" target="_blank" style="color:#000"> Title: InftyProject - Aiming at Improvement of STEM Accessibility</a><br><i> Venue: Room 150 Kedar</i></div>
  </td>
                             </tr>
                             <tr class="tr1">
@@ -536,20 +536,20 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"> Implementing affordable AT solutions : the CATI way<br><i>Akila Surendran (NISH, Trivandrum)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=14" target="_blank" style="color:#000"> Implementing affordable AT solutions : the CATI way</a><br><i>Akila Surendran (NISH, Trivandrum)</i></div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">The strange case of the unused assistive device<br><i>Sudha Ramamurthy (EQUAL)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=15" target="_blank" style="color:#000">The strange case of the unused assistive device</a><br><i>Sudha Ramamurthy (EQUAL)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"> Assistive Technology - A users perspective<br><i> Bhavna Botta (Connect Special, Chennai)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=16" target="_blank" style="color:#000"> Assistive Technology - A users perspective</a><br><i> Bhavna Botta (Connect Special, Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a3">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"> Responsible Digital AI & ML to create an impact in lives of blind and visually impaired people<br><i> Priti Rohra (BarrierBreak, Mumbai)</i></div></td>
+									<td colspan="3"><div class="tr0div"> <a href="abstracts/Abstracts.pdf#page=17" target="_blank" style="color:#000">Responsible Digital AI & ML to create an impact in lives of blind and visually impaired people</a><br><i> Priti Rohra (BarrierBreak, Mumbai)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6a4">
 									<td style="background:#ffffff;"></td>
@@ -562,41 +562,41 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6b">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Dyslexia Now and the Use of Assistive Technology<br><i>Divya Jalan & Aruna Bhaskar (Breaking through Dyslexia, Kolkata)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=18" target="_blank" style="color:#000">Dyslexia Now and the Use of Assistive Technology</a><br><i>Divya Jalan & Aruna Bhaskar (Breaking through Dyslexia, Kolkata)</i></div></td>
 									
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b1">
-									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Specific Learning Disabilties: Nature and Interventional Strategies<br><i>Ramaa S. (Regional Institute of Education (NCERT), Mysore)</i></div></td>
+									<!--<td style="background:#ffffff;"></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=19" target="_blank" style="color:#000">Specific Learning Disabilties: Nature and Interventional Strategies</a><br><i>Ramaa S. (Regional Institute of Education (NCERT), Mysore)</i></div></td>-->
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">A Prototype of an ICT Enabled Intervention Tool for Dyslexia<br><i>Rajlakshmi Guha (IIT Kharagpur)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=20" target="_blank" style="color:#000">A Prototype of an ICT Enabled Intervention Tool for Dyslexia</a><br><i>Rajlakshmi Guha (IIT Kharagpur)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6b3">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Empowering Children with Specific Learning Difficulties<br><i>Harini Ramanujam (Madras Dyslexia Association, Chennai)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=21" target="_blank" style="color:#000">Empowering Children with Specific Learning Difficulties</a><br><i>Harini Ramanujam (Madras Dyslexia Association, Chennai)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s6 conditional" style="display:none" id="6c">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Comprehensible Tactile Graphics<br><i>Steve Mannheimer ((IUPU, Indianapolis))</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Comprehensible Tactile Graphics.pdf" target="_blank" style="color:#000">Comprehensible Tactile Graphics</a><br><i>Steve Mannheimer ((IUPU, Indianapolis))</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">A Study on Reading and Learning Needs of Visually Impaired, Solutions Available and our Approach forward<br><i>Abhishek Baghel (Trestle Labs, New Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Trestle.pdf" target="_blank" style="color:#000">A Study on Reading and Learning Needs of Visually Impaired, Solutions Available and our Approach forward</a><br><i>Abhishek Baghel (Trestle Labs, New Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">RAVI: Reading Assistant for Visually Impaired<br><i>Akashdeep Bansal (IIT Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/RAVI_AssisTech_IITD_CSUN.pdf" target="_blank" style="color:#000">RAVI: Reading Assistant for Visually Impaired</a><br><i>Akashdeep Bansal (IIT Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c3">
-									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div"><b>Posters:</b></i></div></td>
+									<!--<td style="background:#ffffff;"></td>
+									<td colspan="3"><div class="tr0div"><b>Posters:</b></i></div></td>-->
 								</tr>
 								<tr class="tr0s6 conditional" style="display:none" id="6c4">
-									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Tools For Visually Impaired & Blind People<br><i> Pankaj Saini (IIT Delhi)</i></div></td>
+									<!--<td style="background:#ffffff;"></td>
+									<td colspan="3"><div class="tr0div">Tools For Visually Impaired & Blind People<br><i> Pankaj Saini (IIT Delhi)</i></div></td>-->
 								</tr>
                             <tr class="tr1">
                             	<td>1:15 PM</td>
@@ -610,15 +610,15 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Innovations in Assistive Devices for People with Locomotor Disability in Developing Countries<br><i>Vivek Sarda (NeoMotion, Chennai)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=22" target="_blank" style="color:#000">Innovations in Assistive Devices for People with Locomotor Disability in Developing Countries</a><br><i>Vivek Sarda (NeoMotion, Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Affordable Saksham Technology solutions in Indian languages for VI<br><i>Dipendra Manocha (Saksham, New Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=37" target="_blank" style="color:#000">Empowering the vision impaired: Two ongoing research projects at Microsoft Research India</a><br><i>Manohar Swaminathan (Microsoft Research)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Tactograph and TakeNote for the Visually Impaired<br><i> Prabha Ramnathan( Enability Foundation for Rehabilitation, Chennai)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=24" target="_blank" style="color:#000">Tactograph and TakeNote for the Visually Impaired</a><br><i> Prabha Ramnathan( Enability Foundation for Rehabilitation, Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7a3">
 									<td style="background:#ffffff;"></td>
@@ -643,19 +643,19 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								
 								<tr class="tr0s7 conditional" style="display:none" id="7b">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Assistive Technologies for people with cerebral palsy and multiple disabilities - scopes and challenges, a user’s perspective<br><i>Swati Chakrabarty, (Indian Institute of Cerebral Palsy, Kolkata)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=25" target="_blank" style="color:#000">Assistive Technologies for people with cerebral palsy and multiple disabilities - scopes and challenges, a user’s perspective</a><br><i>Swati Chakrabarty, (Indian Institute of Cerebral Palsy, Kolkata)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Assistive Technologies for Children and Adults with Multiple Disabilities<br><i>Narasimha Rao Botta (Vidyasagar Chennai)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=26" target="_blank" style="color:#000">Assistive Technologies for Children and Adults with Multiple Disabilities</a><br><i>Narasimha Rao Botta (Vidyasagar Chennai)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Web Accessibility and Entertainment Devices for People with Cerebral Palsy<br><i>Tirthankar Dasgupta (TCS Innovation Labs) & Manjira Sina (Accenture Research, Gurgaon)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=27" target="_blank" style="color:#000">Web Accessibility and Entertainment Devices for People with Cerebral Palsy</a><br><i>Tirthankar Dasgupta (TCS Innovation Labs) & Manjira Sina (Accenture Research, Gurgaon)</i></div></td>
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b3">
-									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">The AADI Experience<br><i>Manavi Jalan (AADI, New Delhi)</i></div></td>
+									<!--<td style="background:#ffffff;"></td>
+									<td colspan="3"><div class="tr0div">The AADI Experience<br><i>Manavi Jalan (AADI, New Delhi)</i></div></td>-->
 								</tr>
 								<tr class="tr0s7 conditional" style="display:none" id="7b4">
 									<td style="background:#ffffff;"></td>
@@ -703,7 +703,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
                             <tr class="tr0">
                             	<td>10:00 AM</td>
-                                <td colspan="3"><div class="tr0div"><b> Session 9A Keynote:</b> Volker Sorge (University of Birmigham, UK)<br><i> Venue: Room 150 Kedar </i></div></td>
+                                <td colspan="3"><div class="tr0div"><b> Session 9A Keynote:</b> Volker Sorge (University of Birmigham, UK)<br><a href="abstracts/Abstracts.pdf#page=28" target="_blank" style="color:#000">Title:Barrier-free, Eyes-free, Platform-free: Accessible STEM on the Web</a><br><i> Venue: Room 150 Kedar </i></div></td>
                             </tr>
                             <tr class="tr1">
                             	<td>11:15 AM</td>
@@ -717,7 +717,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
                             </tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Design and development of an affordable passive polycentric knee joint and dynamic ankle joint with different advanced features for trans-femoral amputee<br><i>S Kanagaraj (IIT Guwahati)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=29" target="_blank" style="color:#000">Design and development of an affordable passive polycentric knee joint and dynamic ankle joint with different advanced features for trans-femoral amputee</a><br><i>S Kanagaraj (IIT Guwahati)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a1">
 									<td style="background:#ffffff;"></td>
@@ -725,7 +725,7 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Clinical Dilemmas in Assistive Devices Prescription - Physiotherapist perspective<br><i> R. Harihara Prakash (K M Patel Institute of Physiotherapy, Anand)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=30" target="_blank" style="color:#000">Clinical Dilemmas in Assistive Devices Prescription - Physiotherapist perspective</a><br><i> R. Harihara Prakash (K M Patel Institute of Physiotherapy, Anand)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10a3">
 									<td style="background:#ffffff;"></td>
@@ -734,19 +734,19 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								<!--session 10b collapsable rows-->
 								<tr class="tr0s10 conditional" style="display:none" id="10b">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Empowering the vision impaired: Two ongoing research projects at Microsoft Research India<br><i>Manohar Swaminathan (Microsoft Research)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=23" target="_blank" style="color:#000">Affordable Saksham Technology solutions in Indian languages for VI</a><br><i>Dipendra Manocha (Saksham, New Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">MAVI: Mobility Assistant for Visually Impaired<br><i>Anupam Sobti (IIT Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="MAVI.pdf" target="_blank" style="color:#000">MAVI: Mobility Assistant for Visually Impaired</a><br><i>Anupam Sobti (IIT Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Annotation of Voice Forum Content<br><i>Pushpendra Singh (IIIT Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=32" target="_blank" style="color:#000">Annotation of Voice Forum Content</a><br><i>Pushpendra Singh (IIIT Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b3">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Vision and Language to aid Visually Impaired Users<br><i>Vinay P Namboodri (IIT Kanpur)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=33" target="_blank" style="color:#000">Vision and Language to aid Visually Impaired Users</a><br><i>Vinay P Namboodri (IIT Kanpur)</i></div></td>
 								</tr>
 								<tr class="tr0s10 conditional" style="display:none" id="10b4">
 									<td style="background:#ffffff;"></td>
@@ -791,32 +791,32 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Auxillary Crutches with Flexible tip for Reduced Energy and Zero Side effects<br><i>Arvind A. (IIT Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/AxillaryCrutches.pdf" target="_blank" style="color:#000">Auxillary Crutches with Flexible tip for Reduced Energy and Zero Side effects</a><br><i>Arvind A. (IIT Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Independently Accessible Mobility Vehicle For Locomotor Disability<br><i>Sakthivel Thayappan (IIT Madras)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Locomotor Disability.pdf" target="_blank" style="color:#000">Independently Accessible Mobility Vehicle For Locomotor Disability</a><br><i>Sakthivel Thayappan (IIT Madras)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11a3">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Efficacy of assistive devices in terms of balance and gait efficiency in geriatric patients  with locomotor impairments<br><i>Yashika Kumar (ISIC, New Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/BalanceAndGait.pdf" target="_blank" style="color:#000">Efficacy of assistive devices in terms of balance and gait efficiency in geriatric patients  with locomotor impairments</a><br><i>Yashika Kumar (ISIC, New Delhi)</i></div></td>
 								</tr>
 								
 								<tr class="tr0s11 conditional" style="display:none" id="11b">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Standards related to Accessibility of Digital Content<br><i>Prashant Ranjan Verma (NAB, New Delhi)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=34" target="_blank" style="color:#000">Standards related to Accessibility of Digital Content</a><br><i>Prashant Ranjan Verma (NAB, New Delhi)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b1">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">Integrated models to promote digital literacy for visually impaired<br><i>Homiyar Mobedji (Benetech)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/Abstracts.pdf#page=35" target="_blank" style="color:#000">Integrated models to promote digital literacy for visually impaired</a>br><i>Homiyar Mobedji (Benetech)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b2">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">One Touch Automation in Accessibility Value Chain<br><i>Charudatta Jadhav & Sumeet Agrawal (TCS)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/One Touch Automation.pdf" target="_blank" style="color:#000">One Touch Automation in Accessibility Value Chain</a><br><i>Charudatta Jadhav & Sumeet Agrawal (TCS)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b3">
 									<td style="background:#ffffff;"></td>
-									<td colspan="3"><div class="tr0div">XsWEB-ALL: Accessible Web for All<br><i>Pawan Patel (IIT Kanpur)</i></div></td>
+									<td colspan="3"><div class="tr0div"><a href="abstracts/XsWeb.pdf" target="_blank" style="color:#000">XsWEB-ALL: Accessible Web for All</a><br><i>Pawan Patel (IIT Kanpur)</i></div></td>
 								</tr>
 								<tr class="tr0s11 conditional" style="display:none" id="11b4">
 									<td style="background:#ffffff;"></td>
