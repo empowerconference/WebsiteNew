@@ -1187,7 +1187,7 @@ presentation in the relevant technical session.
     
     <div class="col-md-6 col-sm-6 col-xs-12 center" style="margin-top:40px;">
 				<h4 style="color:#192442;">Exhibitors</h4>
-            	<div class="col-md-4 col-sm-6 center">  
+            	<div class="col-md-3 col-sm-4 center">  
 					<div><a href="http://assistech.iitd.ac.in/">
                     <img src="assets/images/exhibits/exhibitor1.png" alt="Assistech Logo"></a></div>  
 					
@@ -1198,7 +1198,7 @@ presentation in the relevant technical session.
 					
                 </div>-->
 				
-				<div class="col-md-4 col-sm-6 center">
+				<div class="col-md-3 col-sm-4 center">
                     <div><a href="http://www.kritikalsolutions.com/"><img src="assets/images/exhibits/exhibitor4.png" alt="KSPL Logo"></a></div>  
 					
                 </div>
@@ -1208,12 +1208,12 @@ presentation in the relevant technical session.
 					
                 </div>-->
                 
-                <div class="col-md-4 col-sm-6 center">
+                <div class="col-md-3 col-sm-4 center">
                     <div><a href="https://digitizeindia.gov.in/"><img src="assets/images/exhibits/exhibitor6.png" alt="Digital India Logo"></a></div>  
 					
                 </div>
                 
-                <div class="col-md-4 col-sm-6 center">
+                <div class="col-md-3 col-sm-4 center">
                     <div><a href="http://enability.in/"><img src="assets/images/exhibits/exhibitor7.png" 
                     alt="Enability Foundation For Rehabilitation Logo"></a></div>          
                 </div>
@@ -1223,47 +1223,57 @@ presentation in the relevant technical session.
                                     <img src="assets/images/exhibits/exhibitor8.png" alt="Torch It Logo"></a></div>  
                 </div>-->
 				
-                <div class="col-md-4 col-sm-6 center">
+                <div class="col-md-3 col-sm-4 center">
                                     <div><a href="https://www.bookshare.org/cms/international">
                                     <img src="assets/images/exhibits/exhibitor9.png" alt="Bookshare Logo"></a></div>	
                                     
                 </div>
                 
-                <div class="col-md-4 col-sm-6 center">
+                <div class="col-md-3 col-sm-4 center">
                                     <div><a href="http://www.oxitronix.com/">
                                     <img src="assets/images/exhibits/exhibitor10.png" alt="oxitronix Logo"></a></div>	
                 </div>
 				
-                <div class="col-md-4 col-sm-6 center">
+                <div class="col-md-3 col-sm-4 center">
                                     <div><a href="http://www.pragrathan.in/index.html">
                                     <img src="assets/images/exhibits/exhibitor11.png" alt="Pragrathan group Logo"></a></div>	
                 </div>
                  
                  
-                 <div class="col-md-4 col-sm-6 center">
+                 <div class="col-md-3 col-sm-4 center">
                                     <div><a href="http://www.barrierbreak.com/">
                                     <img src="assets/images/exhibits/exhibitor12.png" alt="barrier break Logo"></a></div>	
                 </div>
                  
                  
-                 <div class="col-md-4 col-sm-6 center">
+                 <div class="col-md-3 col-sm-4 center">
                                     <div><a href="http://innovation.iitd.ac.in">
                                     <img src="assets/images/exhibits/exhibitor13.png" alt="Design Innovation Center, IITD Logo"></a></div>	
                 </div>
 				
-				<div class="col-md-4 col-sm-6 center">
+				<div class="col-md-3 col-sm-4 center">
                                     <div><a href="https://www.phoenixmedicalsystems.com/">
                                     <img src="assets/images/exhibits/exhibitor15.png" alt="Phoenix Medical Systems logo"></a></div>	
                 </div>
 				
-				<div class="col-md-4 col-sm-6 center">
+				<div class="col-md-3 col-sm-4 center">
                                     <div><a href="https://www.williamssound.com/">
                                     <img src="assets/images/exhibits/exhibitor16.png" alt="William Sound logo"></a></div>	
                 </div>
 				
-				<div class="col-md-4 col-sm-6 center">
+				<div class="col-md-3 col-sm-4 center">
                                     <div><a href="http://www.orbitresearch.com/hi-IN/">
                                     <img src="assets/images/exhibits/exhibitor17.png" alt="Orbit Research logo"></a></div>	
+                </div>
+				
+				<div class="col-md-3 col-sm-4 center">
+                                    <div><a href="http://www.gelsmith.com/">
+                                    <img src="assets/images/exhibits/exhibitor18.png" alt="Gelsmith logo"></a></div>	
+                </div>
+				
+				<div class="col-md-3 col-sm-4 center">
+                                    <div><a href="http://inklude.in/">
+                                    <img src="assets/images/exhibits/exhibitor19.png" alt="Inklude logo"></a></div>	
                 </div>
                 
                                  
