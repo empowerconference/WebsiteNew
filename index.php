@@ -910,8 +910,8 @@ Apart from an exhibition the event would consist of keynote talks, invited prese
             	<div class="col-md-4">
             	<h2 style="color:#192442;">Important Dates</h2>
                 <ul style="list-style:none; margin:0; padding:0;">
-                    <li style="background:#fff8e0; padding:5px;">Registrations Open <a href="register" aria-label="registration">Click Here</a></li>
-                    <li style="padding:5px;">Room Bookings Open<a href="register/room_booking.php" aria-label="room booking"> Click Here</a></li>
+                    <li style="background:#fff8e0; padding:5px;">Registrations Closed</li>
+                    <li style="padding:5px;">Room Bookings Closed</li>
                     <li style="background:#fff8e0; padding:5px;">Early bird registration ends: October 12, 2018</li>
 				</ul>    
                 
