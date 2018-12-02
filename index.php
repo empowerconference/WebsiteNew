@@ -3818,10 +3818,10 @@ presentation in the relevant technical session.
                               25th September 2018</span><br>
 <br>
 
-                                <a href="https://goo.gl/forms/oN5rXawYvj43NuDI3" class="btn btn-primary">Exhibit Registration
+                                <!--<a href="https://goo.gl/forms/oN5rXawYvj43NuDI3" class="btn btn-primary">Exhibit Registration
                                  Here<br>
                                 <span style="text-transform:capitalize; font-size:9pt;">(Last Date: 3rd Oct 2018)</span>
-                                </a>
+                                </a>-->
                             <br>View Exhibitor's guide <span style="color:#F00;"><a href="Empower 2018 Exhibitors Manual.pdf">
                             here</a></span>
                             </div>
